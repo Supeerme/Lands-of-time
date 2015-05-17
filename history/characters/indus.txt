@@ -1,0 +1,2912 @@
+258={
+	name=Arjunpala
+	dynasty=2
+	dna="alekmebpajl"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=7 stewardship=5 intrigue=6 learning=6
+	add_trait=intricate_webweaver add_trait=zealous add_trait=cruel add_trait=humble add_trait=greedy 
+	add_trait=wounded 
+	1.10.19={ birth=yes }
+	56.8.4={ death=yes }
+}
+259={
+	name=Somasi
+	dynasty=2
+	dna="alenmenebpn"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=5 stewardship=8 intrigue=4 learning=8
+	add_trait=misguided_warrior add_trait=just add_trait=lustful add_trait=slothful add_trait=gregarious 
+	add_trait=brave 
+	father=258	#Arjunpala
+	3.5.12={ birth=yes }
+	57.9.5={ death=yes }
+}
+260={
+	name=Krsnapa
+	dynasty=2
+	dna="ajdkmnbeekl"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=8 stewardship=6 intrigue=4 learning=6
+	add_trait=intricate_webweaver add_trait=celibate add_trait=chaste add_trait=paranoid add_trait=arbitrary 
+	father=258	#Arjunpala
+	9.4.4={ birth=yes }
+	71.1.20={ death=yes }
+}
+261={
+	name=Indrapala
+	dynasty=2
+	dna="lhepmebnajl"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=4 stewardship=5 intrigue=8 learning=8
+	add_trait=tough_soldier add_trait=hunter add_trait=humble add_trait=patient add_trait=possessed 
+	father=258	#Arjunpala
+	13.4.5={ birth=yes }
+	74.10.18={ death=yes }
+}
+262={
+	name=Hemavati
+	female=yes
+	dynasty=2
+	dna="ilalobnbcjl"
+	culture=hindustani religion=pagan_indian
+	father=258	#Arjunpala
+	24.3.18={ birth=yes }
+	93.3.10={ death=yes }
+}
+263={
+	name=Lakshman
+	female=yes
+	dynasty=2
+	dna="nlehepndnpo"
+	culture=hindustani religion=pagan_indian
+	father=259	#Somasi
+	3.10.10={ birth=yes }
+	67.8.30={ death=yes }
+}
+264={
+	name=Ajmal
+	dynasty=2
+	dna="plenmboebpn"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=4 stewardship=5 intrigue=5 learning=4
+	add_trait=charismatic_negotiator add_trait=craven add_trait=gregarious add_trait=cynical add_trait=chaste 
+	add_trait=arbitrary add_trait=gluttonous 
+	father=259	#Somasi
+	7.6.11={ birth=yes }
+	69.9.13={ death=yes }
+}
+265={
+	name=Sonpala
+	dynasty=2
+	dna="gmenmelebpp"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=7 stewardship=5 intrigue=4 learning=7
+	add_trait=thrifty_clerk add_trait=brave add_trait=humble add_trait=ambitious add_trait=kind 
+	father=259	#Somasi
+	14.3.23={ birth=yes }
+	69.7.31={ death=yes }
+}
+266={
+	name=Dhruvasvamini
+	female=yes
+	dynasty=2
+	dna="cmeinenaopn"
+	culture=hindustani religion=pagan_indian
+	father=259	#Somasi
+	22.12.27={ birth=yes }
+	109.12.28={ death=yes }
+}
+267={
+	name=Jaipal
+	dynasty=2
+	dna="allelinobkn"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=8 stewardship=8 intrigue=4 learning=6
+	add_trait=martial_cleric add_trait=shy add_trait=gluttonous add_trait=cruel add_trait=patient 
+	father=259	#Somasi
+	27.5.18={ birth=yes }
+	78.5.5={ death=yes }
+}
+268={
+	name=Anangpala
+	dynasty=2
+	dna="phdomgoeiph"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=4 stewardship=5 intrigue=6 learning=6
+	add_trait=martial_cleric add_trait=temperate add_trait=gregarious add_trait=humble add_trait=paranoid 
+	add_trait=craven 
+	father=264	#Ajmal
+	12.7.21={ birth=yes }
+	67.12.19={ death=yes }
+}
+269={
+	name=Prasadhanadevi
+	female=yes
+	dynasty=2
+	dna="plfnmbgebpc"
+	culture=hindustani religion=pagan_indian
+	father=264	#Ajmal
+	16.5.4={ birth=yes }
+	85.9.29={ death=yes }
+}
+270={
+	name=Kumaradevi
+	female=yes
+	dynasty=2
+	dna="plahmejgcpn"
+	culture=hindustani religion=pagan_indian
+	father=264	#Ajmal
+	22.1.10={ birth=yes }
+	89.12.18={ death=yes }
+}
+271={
+	name=Prasadhanadevi
+	female=yes
+	dynasty=2
+	dna="pgenabedbpj"
+	culture=hindustani religion=pagan_indian
+	father=264	#Ajmal
+	27.1.24={ birth=yes }
+	77.5.15={ death=yes }
+}
+272={
+	name=Naravarman
+	dynasty=2
+	dna="bhdobggghph"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=7 stewardship=6 intrigue=4 learning=6
+	add_trait=charismatic_negotiator add_trait=slothful add_trait=greedy 
+	father=268	#Anangpala
+	27.3.7={ birth=yes }
+	99.9.7={ death=yes }
+}
+273={
+	name=Achalraj
+	dynasty=2
+	dna="gcdkegeehgl"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=4 stewardship=4 intrigue=6 learning=7
+	add_trait=midas_touched add_trait=envious add_trait=arbitrary add_trait=content add_trait=diligent 
+	add_trait=patient 
+	father=268	#Anangpala
+	37.9.1={ birth=yes }
+	92.2.28={ death=yes }
+}
+274={
+	name=Lakshman
+	female=yes
+	dynasty=2
+	dna="phdknhoeiph"
+	culture=hindustani religion=pagan_indian
+	father=268	#Anangpala
+	43.10.12={ birth=yes }
+	99.2.5={ death=yes }
+}
+275={
+	name=Gambhir
+	dynasty=2
+	dna="pbdcmnepibc"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=4 stewardship=7 intrigue=4 learning=8
+	add_trait=detached_priest add_trait=scholar add_trait=diligent add_trait=zealous add_trait=proud 
+	father=268	#Anangpala
+	51.11.1={ birth=yes }
+	113.7.25={ death=yes }
+}
+276={
+	name=Ghatamdeva
+	dynasty=2
+	dna="lndgofpgopf"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=4 stewardship=4 intrigue=7 learning=5
+	add_trait=detached_priest add_trait=gluttonous add_trait=zealous 
+	father=272	#Naravarman
+	29.8.10={ birth=yes }
+	78.9.4={ death=yes }
+}
+277={
+	name=Gangeya
+	dynasty=2
+	dna="blmobgghhfp"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=6 stewardship=8 intrigue=8 learning=7
+	add_trait=misguided_warrior add_trait=charitable add_trait=paranoid add_trait=cruel add_trait=wroth 
+	father=272	#Naravarman
+	34.6.15={ birth=yes }
+	79.8.23={ death=yes }
+}
+278={
+	name=Anangpal
+	dynasty=2
+	dna="bbdhoafgaih"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=4 stewardship=5 intrigue=4 learning=6
+	add_trait=elusive_shadow add_trait=proud add_trait=shy add_trait=ambitious add_trait=trusting 
+	add_trait=cruel 
+	father=272	#Naravarman
+	41.1.3={ birth=yes }
+	76.10.29={ death=yes }
+}
+279={
+	name=Vindhyavarman
+	dynasty=2
+	dna="bcdoeneghpc"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=4 stewardship=4 intrigue=7 learning=4
+	add_trait=tough_soldier add_trait=poet add_trait=wroth add_trait=brave add_trait=kind 
+	father=272	#Naravarman
+	47.10.17={ birth=yes }
+	113.1.30={ death=yes }
+}
+280={
+	name=Prabhavati
+	female=yes
+	dynasty=2
+	dna="jpdohgggmjh"
+	culture=hindustani religion=pagan_indian
+	father=272	#Naravarman
+	51.7.24={ birth=yes }
+	101.5.8={ death=yes }
+}
+281={
+	name=Vidurathpala
+	dynasty=2
+	dna="jficbfkdjoc"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=6 stewardship=5 intrigue=8 learning=4
+	add_trait=flamboyant_schemer add_trait=envious add_trait=zealous add_trait=patient add_trait=chaste 
+	add_trait=gluttonous 
+	father=276	#Ghatamdeva
+	40.6.21={ birth=yes }
+	90.5.7={ death=yes }
+}
+282={
+	name=Akal
+	female=yes
+	dynasty=2
+	dna="pnjnibaglmd"
+	culture=hindustani religion=pagan_indian
+	father=276	#Ghatamdeva
+	50.8.9={ birth=yes }
+	101.9.6={ death=yes }
+}
+283={
+	name=Mahipal
+	dynasty=2
+	dna="lninnfhgipf"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=7 stewardship=5 intrigue=4 learning=7
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=cruel add_trait=gluttonous add_trait=paranoid 
+	father=276	#Ghatamdeva
+	54.6.12={ birth=yes }
+	112.1.17={ death=yes }
+}
+284={
+	name=Prasadhanadevi
+	female=yes
+	dynasty=2
+	dna="jfnigandpnc"
+	culture=hindustani religion=pagan_indian
+	father=281	#Vidurathpala
+	53.9.6={ birth=yes }
+	100.11.12={ death=yes }
+}
+285={
+	name=Pritampal
+	dynasty=2
+	dna="jenbpfadfmc"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=5 stewardship=7 intrigue=6 learning=7
+	add_trait=grey_eminence add_trait=humble add_trait=chaste add_trait=slothful add_trait=ambitious 
+	father=281	#Vidurathpala
+	62.9.5={ birth=yes }
+	126.9.15={ death=yes }
+}
+286={
+	name=Rajamati
+	female=yes
+	dynasty=2
+	dna="aficbfdipgk"
+	culture=hindustani religion=pagan_indian
+	father=281	#Vidurathpala
+	69.4.3={ birth=yes }
+	138.2.11={ death=yes }
+}
+287={
+	name=Bhoj
+	dynasty=2
+	dna="beicefhdjgo"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=4 stewardship=6 intrigue=6 learning=7
+	add_trait=misguided_warrior add_trait=greedy add_trait=humble add_trait=lustful add_trait=cynical 
+	father=281	#Vidurathpala
+	77.4.23={ birth=yes }
+	134.1.6={ death=yes }
+}
+288={
+	name=Dhaulshaya
+	dynasty=2
+	dna="jfjbifalfmm"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=8 stewardship=5 intrigue=4 learning=5
+	add_trait=martial_cleric add_trait=ambitious add_trait=greedy add_trait=deceitful add_trait=cruel 
+	add_trait=shy 
+	father=285	#Pritampal
+	67.10.8={ birth=yes }
+	114.11.7={ death=yes }
+}
+289={
+	name=Kanchuka
+	female=yes
+	dynasty=2
+	dna="lmnfnaadfmd"
+	culture=hindustani religion=pagan_indian
+	father=285	#Pritampal
+	74.3.27={ birth=yes }
+	146.7.7={ death=yes }
+}
+290={
+	name=Nattadevi
+	female=yes
+	dynasty=2
+	dna="cgnbpgaiicl"
+	culture=hindustani religion=pagan_indian
+	father=285	#Pritampal
+	77.4.15={ birth=yes }
+	136.7.17={ death=yes }
+}
+291={
+	name=Akal
+	female=yes
+	dynasty=2
+	dna="jenbpaanfmc"
+	culture=hindustani religion=pagan_indian
+	father=285	#Pritampal
+	83.9.12={ birth=yes }
+	127.10.27={ death=yes }
+}
+292={
+	name=Gopala
+	dynasty=2
+	dna="jfjmhiplflm"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=8 stewardship=7 intrigue=8 learning=4
+	add_trait=midas_touched add_trait=celibate add_trait=trusting add_trait=craven add_trait=just 
+	add_trait=humble add_trait=gregarious 
+	father=288	#Dhaulshaya
+	76.7.21={ birth=yes }
+	132.1.16={ death=yes }
+}
+293={
+	name=Surajpal
+	dynasty=2
+	dna="efhbmmagfmn"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=6 stewardship=5 intrigue=4 learning=8
+	add_trait=martial_cleric add_trait=proud add_trait=cynical add_trait=gluttonous add_trait=diligent 
+	add_trait=kind 
+	father=288	#Dhaulshaya
+	85.7.2={ birth=yes }
+	138.10.21={ death=yes }
+}
+294={
+	name=Dattadevi
+	female=yes
+	dynasty=2
+	dna="eibbipalfom"
+	culture=hindustani religion=pagan_indian
+	father=288	#Dhaulshaya
+	93.5.10={ birth=yes }
+	141.2.5={ death=yes }
+}
+295={
+	name=Prithviraja
+	dynasty=2
+	dna="hfjkoedlcah"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=8 stewardship=8 intrigue=5 learning=6
+	add_trait=grey_eminence add_trait=patient add_trait=diligent add_trait=shy add_trait=honest 
+	father=288	#Dhaulshaya
+	101.9.25={ birth=yes }
+	150.3.26={ death=yes }
+}
+296={
+	name=Jatanpal
+	dynasty=2
+	dna="igjmhipeadm"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=6 stewardship=8 intrigue=6 learning=6
+	add_trait=flamboyant_schemer add_trait=envious add_trait=brave add_trait=chaste add_trait=trusting 
+	father=292	#Gopala
+	84.1.10={ birth=yes }
+	148.12.28={ death=yes }
+}
+297={
+	name=Dattadevi
+	female=yes
+	dynasty=2
+	dna="ecpmkimnkle"
+	culture=hindustani religion=pagan_indian
+	father=292	#Gopala
+	92.7.2={ birth=yes }
+	149.2.12={ death=yes }
+}
+298={
+	name=Jaitugideva
+	dynasty=2
+	dna="jbjmoipkeln"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=6 stewardship=6 intrigue=6 learning=5
+	add_trait=skilled_tactician add_trait=honest add_trait=patient add_trait=kind 
+	father=292	#Gopala
+	97.9.17={ birth=yes }
+	150.12.4={ death=yes }
+}
+299={
+	name=Sohanpal
+	dynasty=2
+	dna="jljahgplblm"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=5 stewardship=5 intrigue=4 learning=6
+	add_trait=tough_soldier add_trait=mystic add_trait=just add_trait=paranoid add_trait=cruel 
+	add_trait=humble add_trait=zealous 
+	father=292	#Gopala
+	103.1.12={ birth=yes }
+	149.11.10={ death=yes }
+}
+300={
+	name=Doth
+	dynasty=2
+	dna="igkghijhamm"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=4 stewardship=5 intrigue=7 learning=4
+	add_trait=flamboyant_schemer add_trait=gregarious add_trait=kind add_trait=temperate add_trait=honest 
+	father=296	#Jatanpal
+	95.8.5={ birth=yes }
+	151.11.17={ death=yes }
+}
+301={
+	name=Rana
+	dynasty=2
+	dna="pghmpiaeidm"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=6 stewardship=4 intrigue=7 learning=4
+	add_trait=charismatic_negotiator add_trait=paranoid add_trait=brave add_trait=wroth add_trait=diligent 
+	add_trait=cynical add_trait=wounded 
+	father=296	#Jatanpal
+	104.4.15={ birth=yes }
+	167.1.31={ death=yes }
+}
+302={
+	name=Trilochanpala
+	dynasty=2
+	dna="idjmhifnpdm"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=7 stewardship=8 intrigue=5 learning=4
+	add_trait=misguided_warrior add_trait=brave add_trait=proud add_trait=just add_trait=chaste 
+	father=296	#Jatanpal
+	113.7.4={ birth=yes }
+	173.7.1={ death=yes }
+}
+303={
+	name=Beejpal
+	dynasty=2
+	dna="igabhigfmje"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=4 stewardship=7 intrigue=8 learning=5
+	add_trait=flamboyant_schemer add_trait=hunter add_trait=cruel add_trait=gluttonous add_trait=ambitious 
+	add_trait=just add_trait=patient add_trait=lunatic 
+	father=300	#Doth
+	105.1.15={ birth=yes }
+	173.10.26={ death=yes }
+}
+304={
+	name=Puppadevi
+	female=yes
+	dynasty=2
+	dna="igjlhijhamg"
+	culture=hindustani religion=pagan_indian
+	father=300	#Doth
+	112.9.6={ birth=yes }
+	169.1.23={ death=yes }
+}
+305={
+	name=Dehanagadevi
+	female=yes
+	dynasty=2
+	dna="ipkmhidkamn"
+	culture=hindustani religion=pagan_indian
+	father=300	#Doth
+	120.6.11={ birth=yes }
+	178.8.31={ death=yes }
+}
+306={
+	name=Kakhopala
+	dynasty=2
+	dna="igkgmljcamg"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=8 stewardship=6 intrigue=6 learning=5
+	add_trait=charismatic_negotiator add_trait=celibate add_trait=patient add_trait=humble add_trait=gregarious 
+	add_trait=slothful add_trait=just 
+	father=300	#Doth
+	125.4.23={ birth=yes }
+	181.12.10={ death=yes }
+}
+307={
+	name=Rahila
+	dynasty=2
+	dna="fckgkibhamm"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=4 stewardship=6 intrigue=5 learning=7
+	add_trait=tough_soldier add_trait=hunter add_trait=trusting add_trait=just add_trait=patient 
+	add_trait=proud add_trait=craven add_trait=ambitious 
+	father=300	#Doth
+	130.6.19={ birth=yes }
+	176.11.12={ death=yes }
+}
+308={
+	name=Mahidevi
+	female=yes
+	dynasty=2
+	dna="igchbijkamm"
+	culture=hindustani religion=pagan_indian
+	father=300	#Doth
+	139.8.8={ birth=yes }
+	185.7.24={ death=yes }
+}
+309={
+	name=Jayapala
+	dynasty=2
+	dna="igfbgigfmmk"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=4 stewardship=4 intrigue=8 learning=8
+	add_trait=tough_soldier add_trait=slothful add_trait=shy add_trait=cruel add_trait=ill 
+	father=303	#Beejpal
+	115.12.3={ birth=yes }
+	163.1.6={ death=yes }
+}
+310={
+	name=Dilipapala
+	dynasty=2
+	dna="jlffhngjmje"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=6 stewardship=6 intrigue=5 learning=5
+	add_trait=tough_soldier add_trait=gluttonous add_trait=shy add_trait=brave add_trait=diligent 
+	father=303	#Beejpal
+	126.8.9={ birth=yes }
+	184.3.22={ death=yes }
+}
+311={
+	name=Jhetpala
+	dynasty=2
+	dna="fgabhcifmbe"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=6 stewardship=6 intrigue=8 learning=8
+	add_trait=detached_priest add_trait=kind add_trait=zealous add_trait=content 
+	father=303	#Beejpal
+	133.4.3={ birth=yes }
+	200.1.7={ death=yes }
+}
+312={
+	name=Karmavati
+	female=yes
+	dynasty=2
+	dna="icajkdgdnde"
+	culture=hindustani religion=pagan_indian
+	father=303	#Beejpal
+	143.3.24={ birth=yes }
+	195.7.29={ death=yes }
+}
+313={
+	name=Paramardideva
+	dynasty=2
+	dna="aebbeefhmmb"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=8 stewardship=4 intrigue=4 learning=7
+	add_trait=indulgent_wastrel add_trait=chaste add_trait=proud add_trait=gluttonous add_trait=trusting 
+	add_trait=shy add_trait=content 
+	father=309	#Jayapala
+	125.1.5={ birth=yes }
+	191.3.10={ death=yes }
+}
+314={
+	name=Arjunpala
+	dynasty=2
+	dna="ijacligbmmc"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=6 stewardship=5 intrigue=8 learning=4
+	add_trait=scholarly_theologian add_trait=poet add_trait=charitable add_trait=trusting add_trait=wroth 
+	add_trait=lustful add_trait=kind 
+	father=309	#Jayapala
+	129.5.12={ birth=yes }
+	179.4.15={ death=yes }
+}
+315={
+	name=Rajamati
+	female=yes
+	dynasty=2
+	dna="ogfbgikfmmk"
+	culture=hindustani religion=pagan_indian
+	father=309	#Jayapala
+	137.3.1={ birth=yes }
+	196.9.9={ death=yes }
+}
+316={
+	name=Sanyukta
+	female=yes
+	dynasty=2
+	dna="ommlginemnn"
+	culture=hindustani religion=pagan_indian
+	father=309	#Jayapala
+	144.9.2={ birth=yes }
+	213.9.14={ death=yes }
+}
+317={
+	name=Govindapala
+	dynasty=2
+	dna="dekcgogfmbk"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=8 stewardship=5 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=scholar add_trait=charitable add_trait=cruel add_trait=shy 
+	add_trait=envious 
+	father=309	#Jayapala
+	149.10.9={ birth=yes }
+	223.9.4={ death=yes }
+}
+318={
+	name=Kanhad
+	dynasty=2
+	dna="pakpgiofmak"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=8 stewardship=8 intrigue=5 learning=7
+	add_trait=flamboyant_schemer add_trait=content add_trait=cynical add_trait=charitable add_trait=patient 
+	father=309	#Jayapala
+	156.11.8={ birth=yes }
+	211.1.24={ death=yes }
+}
+319={
+	name=Kalayandevi
+	female=yes
+	dynasty=2
+	dna="ipgbiijkhgn"
+	culture=hindustani religion=pagan_indian
+	father=309	#Jayapala
+	162.4.24={ birth=yes }
+	222.1.15={ death=yes }
+}
+320={
+	name=Arjunpala
+	dynasty=2
+	dna="mekheefhmmb"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=4 stewardship=4 intrigue=4 learning=8
+	add_trait=detached_priest add_trait=cruel add_trait=kind add_trait=diligent add_trait=lustful 
+	father=313	#Paramardideva
+	130.7.26={ birth=yes }
+	191.6.6={ death=yes }
+}
+321={
+	name=Ramabhadra
+	dynasty=2
+	dna="ipbaefdonem"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=4 stewardship=7 intrigue=7 learning=5
+	add_trait=misguided_warrior add_trait=envious add_trait=cruel 
+	father=313	#Paramardideva
+	138.11.1={ birth=yes }
+	228.7.16={ death=yes }
+}
+322={
+	name=Kanchuka
+	female=yes
+	dynasty=2
+	dna="bfcbcaficmo"
+	culture=hindustani religion=pagan_indian
+	father=313	#Paramardideva
+	144.2.21={ birth=yes }
+	208.6.5={ death=yes }
+}
+323={
+	name=Nattadevi
+	female=yes
+	dynasty=2
+	dna="eefmjmchnmc"
+	culture=hindustani religion=pagan_indian
+	father=313	#Paramardideva
+	149.2.8={ birth=yes }
+	215.5.5={ death=yes }
+}
+324={
+	name=Salivaahan
+	dynasty=2
+	dna="ahpbeefpmmb"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=7 stewardship=8 intrigue=8 learning=4
+	add_trait=charismatic_negotiator add_trait=gluttonous add_trait=craven add_trait=arbitrary add_trait=humble 
+	add_trait=possessed 
+	father=313	#Paramardideva
+	157.10.23={ birth=yes }
+	209.3.24={ death=yes }
+}
+325={
+	name=Harshapala
+	dynasty=2
+	dna="anfjldkhgml"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=4 stewardship=8 intrigue=5 learning=5
+	add_trait=grey_eminence add_trait=impaler add_trait=shy add_trait=wroth 
+	father=313	#Paramardideva
+	161.12.3={ birth=yes }
+	206.11.25={ death=yes }
+}
+326={
+	name=Kamal
+	dynasty=2
+	dna="aebflefdmmb"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=4 stewardship=4 intrigue=5 learning=5
+	add_trait=grey_eminence add_trait=duelist add_trait=paranoid add_trait=temperate add_trait=cynical 
+	add_trait=chaste add_trait=arbitrary 
+	father=313	#Paramardideva
+	168.3.12={ birth=yes }
+	241.3.28={ death=yes }
+}
+327={
+	name=Draupad
+	dynasty=2
+	dna="pefhmgflmeb"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=4 stewardship=7 intrigue=8 learning=4
+	add_trait=martial_cleric add_trait=wroth add_trait=envious add_trait=wounded 
+	father=320	#Arjunpala
+	133.6.26={ birth=yes }
+	193.5.24={ death=yes }
+}
+328={
+	name=Rijhpala
+	dynasty=2
+	dna="mckhebohomb"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=7 stewardship=8 intrigue=4 learning=5
+	add_trait=misguided_warrior add_trait=deceitful add_trait=proud add_trait=content add_trait=craven 
+	add_trait=greedy add_trait=possessed 
+	father=320	#Arjunpala
+	141.4.24={ birth=yes }
+	212.3.14={ death=yes }
+}
+329={
+	name=Vachhal
+	dynasty=2
+	dna="meapepahemo"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=5 stewardship=5 intrigue=4 learning=8
+	add_trait=misguided_warrior add_trait=content add_trait=honest 
+	father=320	#Arjunpala
+	148.10.11={ birth=yes }
+	205.10.23={ death=yes }
+}
+330={
+	name=Subhatavarman
+	dynasty=2
+	dna="mjkfeeflehb"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=6 stewardship=5 intrigue=7 learning=6
+	add_trait=skilled_tactician add_trait=humble add_trait=chaste add_trait=gregarious add_trait=craven 
+	add_trait=kind add_trait=cruel add_trait=ill add_trait=fair 
+	father=320	#Arjunpala
+	155.3.5={ birth=yes }
+	205.8.21={ death=yes }
+}
+331={
+	name=Prasadhanadevi
+	female=yes
+	dynasty=2
+	dna="oebeeefhmcb"
+	culture=hindustani religion=pagan_indian
+	father=320	#Arjunpala
+	161.10.1={ birth=yes }
+	234.1.8={ death=yes }
+}
+332={
+	name=Somasi
+	dynasty=2
+	dna="aifdncfomjb"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=5 stewardship=8 intrigue=4 learning=4
+	add_trait=midas_touched add_trait=paranoid add_trait=charitable 
+	father=320	#Arjunpala
+	166.1.14={ birth=yes }
+	231.1.8={ death=yes }
+}
+333={
+	name=Anantadevi
+	female=yes
+	dynasty=2
+	dna="kelnejiameb"
+	culture=hindustani religion=pagan_indian
+	father=320	#Arjunpala
+	172.4.18={ birth=yes }
+	221.8.27={ death=yes }
+}
+334={
+	name=Varshpal
+	dynasty=2
+	dna="pefhmgelmek"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=6 stewardship=5 intrigue=8 learning=4
+	add_trait=grey_eminence add_trait=duelist add_trait=ambitious add_trait=deceitful add_trait=humble 
+	add_trait=shy 
+	father=327	#Draupad
+	134.10.18={ birth=yes }
+	204.12.29={ death=yes }
+}
+335={
+	name=Bahadur-Singh
+	dynasty=2
+	dna="pefhmgflgeb"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=8 stewardship=5 intrigue=7 learning=8
+	add_trait=thrifty_clerk add_trait=charitable add_trait=just add_trait=zealous add_trait=humble 
+	father=327	#Draupad
+	140.9.13={ birth=yes }
+	211.1.19={ death=yes }
+}
+336={
+	name=Vasudev
+	dynasty=2
+	dna="peppfoklmke"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=8
+	add_trait=misguided_warrior add_trait=craven add_trait=content 
+	father=327	#Draupad
+	144.12.25={ birth=yes }
+	204.4.7={ death=yes }
+}
+337={
+	name=Karmavati
+	female=yes
+	dynasty=2
+	dna="fnfedcflmen"
+	culture=hindustani religion=pagan_indian
+	father=327	#Draupad
+	150.12.22={ birth=yes }
+	212.11.22={ death=yes }
+}
+338={
+	name=Kanchuka
+	female=yes
+	dynasty=2
+	dna="pffdmnmlcen"
+	culture=hindustani religion=pagan_indian
+	father=327	#Draupad
+	156.12.4={ birth=yes }
+	211.8.29={ death=yes }
+}
+339={
+	name=Roshandeva
+	dynasty=2
+	dna="plfbdoainab"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=8 stewardship=4 intrigue=7 learning=4
+	add_trait=charismatic_negotiator add_trait=hunter add_trait=trusting add_trait=proud add_trait=craven 
+	father=327	#Draupad
+	162.6.11={ birth=yes }
+	223.9.29={ death=yes }
+}
+340={
+	name=Shrimitradevi
+	female=yes
+	dynasty=2
+	dna="lefnmgllmab"
+	culture=hindustani religion=pagan_indian
+	father=327	#Draupad
+	170.9.19={ birth=yes }
+	224.3.31={ death=yes }
+}
+341={
+	name=Nagdeo
+	dynasty=2
+	dna="peigogelgdk"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=5 stewardship=5 intrigue=8 learning=5
+	add_trait=midas_touched add_trait=lustful add_trait=zealous 
+	father=334	#Varshpal
+	147.3.10={ birth=yes }
+	214.7.23={ death=yes }
+}
+342={
+	name=Prasadhanadevi
+	female=yes
+	dynasty=2
+	dna="pkmfmlkmaek"
+	culture=hindustani religion=pagan_indian
+	father=334	#Varshpal
+	152.12.13={ birth=yes }
+	224.11.13={ death=yes }
+}
+343={
+	name=Prasadhanadevi
+	female=yes
+	dynasty=2
+	dna="oefhoeenmek"
+	culture=hindustani religion=pagan_indian
+	father=334	#Varshpal
+	158.3.21={ birth=yes }
+	205.12.24={ death=yes }
+}
+344={
+	name=Shrimitradevi
+	female=yes
+	dynasty=2
+	dna="dafdmcelbpn"
+	culture=hindustani religion=pagan_indian
+	father=334	#Varshpal
+	167.2.24={ birth=yes }
+	204.10.28={ death=yes }
+}
+345={
+	name=Kanchuka
+	female=yes
+	dynasty=2
+	dna="dofhggeloek"
+	culture=hindustani religion=pagan_indian
+	father=334	#Varshpal
+	172.9.2={ birth=yes }
+	229.2.23={ death=yes }
+}
+346={
+	name=Dhruvasvamini
+	female=yes
+	dynasty=2
+	dna="kppgdaelldk"
+	culture=hindustani religion=pagan_indian
+	father=341	#Nagdeo
+	151.9.22={ birth=yes }
+	226.9.2={ death=yes }
+}
+347={
+	name=Prasadhanadevi
+	female=yes
+	dynasty=2
+	dna="ceddpmeagdf"
+	culture=hindustani religion=pagan_indian
+	father=341	#Nagdeo
+	156.12.7={ birth=yes }
+	218.9.30={ death=yes }
+}
+348={
+	name=Gandadeva
+	dynasty=2
+	dna="jeipopnlpdg"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=7 stewardship=4 intrigue=7 learning=4
+	add_trait=charismatic_negotiator add_trait=poet add_trait=slothful add_trait=shy add_trait=just 
+	add_trait=stressed 
+	father=341	#Nagdeo
+	164.2.27={ birth=yes }
+	211.5.15={ death=yes }
+}
+349={
+	name=Jagatpal
+	dynasty=2
+	dna="jeibjondpig"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=6 stewardship=5 intrigue=5 learning=7
+	add_trait=indulgent_wastrel add_trait=celibate add_trait=cruel add_trait=wroth add_trait=paranoid 
+	add_trait=proud add_trait=gluttonous 
+	father=348	#Gandadeva
+	174.10.17={ birth=yes }
+	222.7.15={ death=yes }
+}
+350={
+	name=Ramachandra
+	dynasty=2
+	dna="mfipdpcieij"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=4 stewardship=5 intrigue=5 learning=6
+	add_trait=midas_touched add_trait=hedonist add_trait=slothful add_trait=patient add_trait=greedy 
+	add_trait=cynical add_trait=content 
+	father=348	#Gandadeva
+	181.3.21={ birth=yes }
+	234.3.1={ death=yes }
+}
+351={
+	name=Jatanpala
+	dynasty=2
+	dna="leipocnlpng"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=6 stewardship=8 intrigue=6 learning=4
+	add_trait=detached_priest add_trait=just add_trait=wroth 
+	father=348	#Gandadeva
+	187.6.20={ birth=yes }
+	241.10.29={ death=yes }
+}
+352={
+	name=Kakanvati
+	female=yes
+	dynasty=2
+	dna="oeipmmnocdp"
+	culture=hindustani religion=pagan_indian
+	father=348	#Gandadeva
+	193.6.13={ birth=yes }
+	254.8.6={ death=yes }
+}
+353={
+	name=Ajmal
+	dynasty=2
+	dna="jeipoehloac"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=6 stewardship=6 intrigue=5 learning=5
+	add_trait=detached_priest add_trait=wroth add_trait=honest add_trait=chaste add_trait=ill 
+	father=348	#Gandadeva
+	197.4.23={ birth=yes }
+	268.5.18={ death=yes }
+}
+354={
+	name=Prithvipal
+	dynasty=2
+	dna="geihhfnomip"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=6 stewardship=8 intrigue=6 learning=5
+	add_trait=midas_touched add_trait=paranoid add_trait=just add_trait=cynical add_trait=diligent 
+	add_trait=depressed 
+	father=349	#Jagatpal
+	183.8.17={ birth=yes }
+	230.6.21={ death=yes }
+}
+355={
+	name=Dhruvasvamini
+	female=yes
+	dynasty=2
+	dna="fkohkonjpig"
+	culture=hindustani religion=pagan_indian
+	father=349	#Jagatpal
+	190.10.2={ birth=yes }
+	251.10.22={ death=yes }
+}
+356={
+	name=Sanyukta
+	female=yes
+	dynasty=2
+	dna="feinhhgfmip"
+	culture=hindustani religion=pagan_indian
+	father=354	#Prithvipal
+	198.2.5={ birth=yes }
+	258.6.24={ death=yes }
+}
+357={
+	name=Sisupala
+	dynasty=2
+	dna="jeibognojkg"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=4 stewardship=7 intrigue=5 learning=7
+	add_trait=grey_eminence add_trait=patient add_trait=zealous add_trait=brave add_trait=ambitious 
+	add_trait=chaste 
+	father=354	#Prithvipal
+	205.4.14={ birth=yes }
+	260.1.9={ death=yes }
+}
+358={
+	name=Shurapala
+	dynasty=2
+	dna="phijhfeibpp"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=6 stewardship=7 intrigue=6 learning=4
+	add_trait=tough_soldier add_trait=cynical add_trait=temperate add_trait=cruel add_trait=trusting 
+	father=354	#Prithvipal
+	211.3.17={ birth=yes }
+	294.9.5={ death=yes }
+}
+359={
+	name=Akal
+	female=yes
+	dynasty=2
+	dna="gcdabmmmgbp"
+	culture=hindustani religion=pagan_indian
+	father=354	#Prithvipal
+	220.10.27={ birth=yes }
+	277.5.24={ death=yes }
+}
+360={
+	name=Kanwar
+	female=yes
+	dynasty=2
+	dna="gnibkinomfp"
+	culture=hindustani religion=pagan_indian
+	father=354	#Prithvipal
+	226.1.20={ birth=yes }
+	284.4.16={ death=yes }
+}
+361={
+	name=Mahidevi
+	female=yes
+	dynasty=2
+	dna="iiidhenbmig"
+	culture=hindustani religion=pagan_indian
+	father=354	#Prithvipal
+	232.7.1={ birth=yes }
+	278.6.6={ death=yes }
+}
+362={
+	name=Bhoj
+	dynasty=2
+	dna="imcdgkmimbh"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=5 stewardship=5 intrigue=7 learning=4
+	add_trait=indulgent_wastrel add_trait=craven add_trait=deceitful add_trait=gluttonous 
+	father=354	#Prithvipal
+	238.1.11={ birth=yes }
+	296.1.25={ death=yes }
+}
+363={
+	name=Uddharandeva
+	dynasty=2
+	dna="keikomnehed"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=5 stewardship=5 intrigue=6 learning=4
+	add_trait=flamboyant_schemer add_trait=cruel add_trait=deceitful add_trait=craven add_trait=ambitious 
+	add_trait=kind 
+	father=357	#Sisupala
+	205.1.19={ birth=yes }
+	273.2.28={ death=yes }
+}
+364={
+	name=Kumaradevi
+	female=yes
+	dynasty=2
+	dna="cbinogjgkkb"
+	culture=hindustani religion=pagan_indian
+	father=357	#Sisupala
+	210.11.11={ birth=yes }
+	284.8.3={ death=yes }
+}
+365={
+	name=Jatanpal
+	dynasty=2
+	dna="jhgbogmdgkg"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=5 stewardship=8 intrigue=8 learning=8
+	add_trait=charismatic_negotiator add_trait=wroth add_trait=cruel add_trait=stressed 
+	father=357	#Sisupala
+	214.4.25={ birth=yes }
+	252.2.2={ death=yes }
+}
+366={
+	name=Maharani
+	female=yes
+	dynasty=2
+	dna="onidognojei"
+	culture=hindustani religion=pagan_indian
+	father=357	#Sisupala
+	219.2.1={ birth=yes }
+	267.9.11={ death=yes }
+}
+367={
+	name=Sanyukta
+	female=yes
+	dynasty=2
+	dna="aejecdcojfl"
+	culture=hindustani religion=pagan_indian
+	father=357	#Sisupala
+	225.4.2={ birth=yes }
+	272.1.22={ death=yes }
+}
+368={
+	name=Doth
+	dynasty=2
+	dna="nkikoanehed"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=5 stewardship=4 intrigue=8 learning=7
+	add_trait=elusive_shadow add_trait=slothful add_trait=kind add_trait=lustful add_trait=ambitious 
+	add_trait=humble add_trait=hunchback 
+	father=363	#Uddharandeva
+	221.11.7={ birth=yes }
+	271.2.24={ death=yes }
+}
+369={
+	name=Prithvipal
+	dynasty=2
+	dna="geieoanfhed"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=8 stewardship=8 intrigue=5 learning=7
+	add_trait=charismatic_negotiator add_trait=greedy add_trait=slothful add_trait=just add_trait=temperate 
+	father=363	#Uddharandeva
+	228.6.23={ birth=yes }
+	297.2.20={ death=yes }
+}
+370={
+	name=Puppadevi
+	female=yes
+	dynasty=2
+	dna="keikomnemen"
+	culture=hindustani religion=pagan_indian
+	father=363	#Uddharandeva
+	237.11.17={ birth=yes }
+	301.11.21={ death=yes }
+}
+371={
+	name=Nattadevi
+	female=yes
+	dynasty=2
+	dna="keiandgehnp"
+	culture=hindustani religion=pagan_indian
+	father=363	#Uddharandeva
+	241.5.27={ birth=yes }
+	325.8.17={ death=yes }
+}
+372={
+	name=Maharani
+	female=yes
+	dynasty=2
+	dna="laipohnloem"
+	culture=hindustani religion=pagan_indian
+	father=368	#Doth
+	232.6.24={ birth=yes }
+	283.6.12={ death=yes }
+}
+373={
+	name=Lakshman
+	female=yes
+	dynasty=2
+	dna="bkicjagaple"
+	culture=hindustani religion=pagan_indian
+	father=368	#Doth
+	239.11.5={ birth=yes }
+	304.3.23={ death=yes }
+}
+374={
+	name=Prithipala
+	dynasty=2
+	dna="nhikpajddel"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=6 stewardship=6 intrigue=5 learning=6
+	add_trait=mastermind_theologian add_trait=diligent add_trait=envious add_trait=proud 
+	father=368	#Doth
+	246.8.10={ birth=yes }
+	294.6.9={ death=yes }
+}
+375={
+	name=Prabhavatigupta
+	female=yes
+	dynasty=2
+	dna="opfpoadkhdd"
+	culture=hindustani religion=pagan_indian
+	father=368	#Doth
+	249.6.10={ birth=yes }
+	315.2.22={ death=yes }
+}
+376={
+	name=Ganapatideva
+	dynasty=2
+	dna="nmcelanehel"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=5 stewardship=6 intrigue=7 learning=8
+	add_trait=thrifty_clerk add_trait=content add_trait=deceitful add_trait=cruel add_trait=chaste 
+	add_trait=drunkard 
+	father=368	#Doth
+	256.8.23={ birth=yes }
+	313.2.14={ death=yes }
+}
+377={
+	name=Birpal
+	dynasty=2
+	dna="apikhadecel"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=7 stewardship=6 intrigue=7 learning=8
+	add_trait=intricate_webweaver add_trait=slothful add_trait=chaste add_trait=gluttonous add_trait=cruel 
+	add_trait=envious add_trait=drunkard 
+	father=368	#Doth
+	260.2.22={ birth=yes }
+	330.12.16={ death=yes }
+}
+378={
+	name=Jayavarman
+	dynasty=2
+	dna="ngbjeabjhed"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=5 stewardship=6 intrigue=8 learning=5
+	add_trait=scholarly_theologian add_trait=paranoid add_trait=ambitious add_trait=ill 
+	father=368	#Doth
+	265.8.21={ birth=yes }
+	326.2.10={ death=yes }
+}
+379={
+	name=Jaitugideva
+	dynasty=2
+	dna="nmjinnjdiel"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=7 stewardship=8 intrigue=7 learning=4
+	add_trait=thrifty_clerk add_trait=deceitful add_trait=cynical add_trait=greedy add_trait=shy 
+	add_trait=humble 
+	father=374	#Prithipala
+	258.9.17={ birth=yes }
+	323.11.18={ death=yes }
+}
+380={
+	name=Puppadevi
+	female=yes
+	dynasty=2
+	dna="ghkkaajkgcj"
+	culture=hindustani religion=pagan_indian
+	father=374	#Prithipala
+	262.11.23={ birth=yes }
+	329.12.24={ death=yes }
+}
+381={
+	name=Lakshman
+	female=yes
+	dynasty=2
+	dna="ghnhoajdeee"
+	culture=hindustani religion=pagan_indian
+	father=374	#Prithipala
+	267.12.14={ birth=yes }
+	329.9.3={ death=yes }
+}
+382={
+	name=Rana
+	dynasty=2
+	dna="nhgkpajldel"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=8 stewardship=5 intrigue=6 learning=8
+	add_trait=indulgent_wastrel add_trait=chaste add_trait=slothful add_trait=craven add_trait=lisp 
+	father=374	#Prithipala
+	271.5.15={ birth=yes }
+	345.6.1={ death=yes }
+}
+383={
+	name=Vijayasakti
+	dynasty=2
+	dna="ahihjcjddgp"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=4
+	add_trait=detached_priest add_trait=scholar add_trait=paranoid add_trait=envious 
+	father=374	#Prithipala
+	278.1.7={ birth=yes }
+	328.1.2={ death=yes }
+}
+384={
+	name=Maharani
+	female=yes
+	dynasty=2
+	dna="dhiopgpdfmi"
+	culture=hindustani religion=pagan_indian
+	father=374	#Prithipala
+	285.2.9={ birth=yes }
+	336.9.9={ death=yes }
+}
+385={
+	name=Dhruvasvamini
+	female=yes
+	dynasty=2
+	dna="noicpbjddel"
+	culture=hindustani religion=pagan_indian
+	father=374	#Prithipala
+	292.2.4={ birth=yes }
+	355.7.9={ death=yes }
+}
+386={
+	name=Bisaldeva
+	dynasty=2
+	dna="imkcnnhliec"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=7 stewardship=7 intrigue=4 learning=5
+	add_trait=mastermind_theologian add_trait=deceitful add_trait=charitable add_trait=shy add_trait=slothful 
+	father=379	#Jaitugideva
+	268.7.4={ birth=yes }
+	342.5.16={ death=yes }
+}
+387={
+	name=Govindraj
+	dynasty=2
+	dna="nmolnljdiel"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=4 stewardship=4 intrigue=5 learning=5
+	add_trait=intricate_webweaver add_trait=ambitious add_trait=kind add_trait=lustful add_trait=paranoid 
+	father=379	#Jaitugideva
+	275.1.14={ birth=yes }
+	327.7.25={ death=yes }
+}
+388={
+	name=Gopal
+	dynasty=2
+	dna="bejikciiged"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=7 stewardship=7 intrigue=5 learning=6
+	add_trait=flamboyant_schemer add_trait=craven add_trait=content add_trait=proud add_trait=lunatic 
+	father=379	#Jaitugideva
+	280.1.5={ birth=yes }
+	325.10.6={ death=yes }
+}
+389={
+	name=Akal
+	female=yes
+	dynasty=2
+	dna="ecjinngpibh"
+	culture=hindustani religion=pagan_indian
+	father=379	#Jaitugideva
+	284.3.23={ birth=yes }
+	337.9.4={ death=yes }
+}
+390={
+	name=Hemavati
+	female=yes
+	dynasty=2
+	dna="nmdinkjpiel"
+	culture=hindustani religion=pagan_indian
+	father=379	#Jaitugideva
+	288.5.7={ birth=yes }
+	341.7.28={ death=yes }
+}
+391={
+	name=Prabhavatigupta
+	female=yes
+	dynasty=2
+	dna="dgcignfdicl"
+	culture=hindustani religion=pagan_indian
+	father=379	#Jaitugideva
+	295.5.3={ birth=yes }
+	353.4.26={ death=yes }
+}
+392={
+	name=Madanavarman
+	dynasty=2
+	dna="mmjdgnjhieh"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=5 stewardship=4 intrigue=6 learning=4
+	add_trait=elusive_shadow add_trait=scholar add_trait=proud add_trait=slothful add_trait=deceitful 
+	add_trait=patient add_trait=trusting 
+	father=379	#Jaitugideva
+	302.12.21={ birth=yes }
+	358.9.7={ death=yes }
+}
+393={
+	name=Nattadevi
+	female=yes
+	dynasty=2
+	dna="cjkmedgcfcd"
+	culture=hindustani religion=pagan_indian
+	father=386	#Bisaldeva
+	272.11.22={ birth=yes }
+	346.7.17={ death=yes }
+}
+394={
+	name=Rangraj
+	dynasty=2
+	dna="ffklbphpmcc"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=6 stewardship=7 intrigue=7 learning=5
+	add_trait=charismatic_negotiator add_trait=just add_trait=shy add_trait=charitable add_trait=zealous 
+	add_trait=chaste 
+	father=386	#Bisaldeva
+	281.2.24={ birth=yes }
+	353.6.20={ death=yes }
+}
+395={
+	name=Naravarman
+	dynasty=2
+	dna="dnknfmhlclh"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=4 stewardship=6 intrigue=5 learning=8
+	add_trait=thrifty_clerk add_trait=ambitious add_trait=slothful add_trait=envious add_trait=cruel 
+	add_trait=wroth add_trait=arbitrary add_trait=clubfooted 
+	father=386	#Bisaldeva
+	286.2.6={ birth=yes }
+	332.8.25={ death=yes }
+}
+396={
+	name=Prasadhanadevi
+	female=yes
+	dynasty=2
+	dna="kfkonnhleed"
+	culture=hindustani religion=pagan_indian
+	father=386	#Bisaldeva
+	296.7.24={ birth=yes }
+	354.11.27={ death=yes }
+}
+397={
+	name=Sanyukta
+	female=yes
+	dynasty=2
+	dna="gfkkbohimob"
+	culture=hindustani religion=pagan_indian
+	father=394	#Rangraj
+	281.9.8={ birth=yes }
+	336.3.5={ death=yes }
+}
+398={
+	name=Udaysangh
+	dynasty=2
+	dna="ffglbphpjcc"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=6 stewardship=5 intrigue=6 learning=7
+	add_trait=thrifty_clerk add_trait=hedonist add_trait=lustful add_trait=kind add_trait=gregarious 
+	add_trait=ambitious add_trait=charitable add_trait=patient 
+	father=394	#Rangraj
+	288.2.18={ birth=yes }
+	352.7.18={ death=yes }
+}
+399={
+	name=Kumarapala
+	dynasty=2
+	dna="ffglbebplbc"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=6 stewardship=4 intrigue=6 learning=4
+	add_trait=martial_cleric add_trait=hedonist add_trait=cruel add_trait=diligent add_trait=content 
+	add_trait=charitable add_trait=depressed 
+	father=398	#Udaysangh
+	292.1.11={ birth=yes }
+	353.2.17={ death=yes }
+}
+400={
+	name=Prabhavati
+	female=yes
+	dynasty=2
+	dna="dnhlbpggjmj"
+	culture=hindustani religion=pagan_indian
+	father=398	#Udaysangh
+	299.2.24={ birth=yes }
+	362.3.13={ death=yes }
+}
+401={
+	name=Prithipala
+	dynasty=2
+	dna="fogllekplnc"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=6 stewardship=5 intrigue=5 learning=5
+	add_trait=midas_touched add_trait=paranoid add_trait=craven add_trait=zealous add_trait=content 
+	add_trait=humble 
+	father=399	#Kumarapala
+	295.4.23={ birth=yes }
+	344.5.30={ death=yes }
+}
+402={
+	name=Achalraj
+	dynasty=2
+	dna="ffecbepipgd"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=4 stewardship=5 intrigue=7 learning=4
+	add_trait=indulgent_wastrel add_trait=envious add_trait=proud add_trait=arbitrary add_trait=gregarious 
+	add_trait=depressed 
+	father=399	#Kumarapala
+	302.4.8={ birth=yes }
+	346.4.19={ death=yes }
+}
+403={
+	name=Ladahachandra
+	dynasty=2
+	dna="opcbbebdfbo"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=6 stewardship=5 intrigue=4 learning=8
+	add_trait=tough_soldier add_trait=greedy add_trait=deceitful add_trait=humble add_trait=arbitrary 
+	add_trait=zealous 
+	father=399	#Kumarapala
+	310.2.5={ birth=yes }
+	355.1.28={ death=yes }
+}
+404={
+	name=Draupad
+	dynasty=2
+	dna="cogalkmpjnk"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=7 stewardship=5 intrigue=4 learning=8
+	add_trait=martial_cleric add_trait=craven add_trait=chaste add_trait=gluttonous add_trait=content 
+	father=401	#Prithipala
+	307.3.25={ birth=yes }
+	373.8.12={ death=yes }
+}
+405={
+	name=Nannuka
+	dynasty=2
+	dna="fjglkekblnc"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=6 stewardship=5 intrigue=6 learning=7
+	add_trait=skilled_tactician add_trait=chaste add_trait=content add_trait=proud add_trait=slothful 
+	add_trait=just add_trait=deceitful 
+	father=401	#Prithipala
+	314.9.22={ birth=yes }
+	372.10.23={ death=yes }
+}
+406={
+	name=Mahidevi
+	female=yes
+	dynasty=2
+	dna="aogkbefdlao"
+	culture=hindustani religion=pagan_indian
+	father=401	#Prithipala
+	323.11.20={ birth=yes }
+	384.6.16={ death=yes }
+}
+407={
+	name=Karmavati
+	female=yes
+	dynasty=2
+	dna="fogllekelhc"
+	culture=hindustani religion=pagan_indian
+	father=401	#Prithipala
+	331.9.16={ birth=yes }
+	378.10.3={ death=yes }
+}
+408={
+	name=Damayanti
+	female=yes
+	dynasty=2
+	dna="comjhbhgeoj"
+	culture=hindustani religion=pagan_indian
+	father=404	#Draupad
+	309.12.4={ birth=yes }
+	379.10.27={ death=yes }
+}
+409={
+	name=Sukhinpal
+	dynasty=2
+	dna="cogdlfmpjno"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=4 stewardship=6 intrigue=7 learning=8
+	add_trait=flamboyant_schemer add_trait=humble add_trait=charitable add_trait=slothful add_trait=zealous 
+	add_trait=lustful 
+	father=404	#Draupad
+	316.4.26={ birth=yes }
+	389.8.29={ death=yes }
+}
+410={
+	name=Kumaradevi
+	female=yes
+	dynasty=2
+	dna="cogaebmmjnk"
+	culture=hindustani religion=pagan_indian
+	father=404	#Draupad
+	322.12.21={ birth=yes }
+	396.11.7={ death=yes }
+}
+411={
+	name=Prithvi
+	dynasty=2
+	dna="bohdlfepino"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=7 stewardship=5 intrigue=8 learning=7
+	add_trait=detached_priest add_trait=impaler add_trait=slothful add_trait=paranoid add_trait=ambitious 
+	add_trait=greedy add_trait=cruel add_trait=wroth 
+	father=409	#Sukhinpal
+	326.3.25={ birth=yes }
+	400.6.6={ death=yes }
+}
+412={
+	name=Lakshman
+	female=yes
+	dynasty=2
+	dna="jogeedmpkng"
+	culture=hindustani religion=pagan_indian
+	father=409	#Sukhinpal
+	329.6.27={ birth=yes }
+	401.3.10={ death=yes }
+}
+413={
+	name=Jhetpala
+	dynasty=2
+	dna="cofjlgccdno"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=8 stewardship=7 intrigue=7 learning=8
+	add_trait=elusive_shadow add_trait=hedonist add_trait=temperate add_trait=just add_trait=chaste 
+	add_trait=envious 
+	father=409	#Sukhinpal
+	334.9.3={ birth=yes }
+	390.5.6={ death=yes }
+}
+414={
+	name=Kakanvati
+	female=yes
+	dynasty=2
+	dna="coddlpdabno"
+	culture=hindustani religion=pagan_indian
+	father=409	#Sukhinpal
+	341.4.14={ birth=yes }
+	397.1.19={ death=yes }
+}
+415={
+	name=Traillokyachandra
+	dynasty=2
+	dna="bhldlfjiing"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=8 stewardship=5 intrigue=6 learning=6
+	add_trait=grey_eminence add_trait=diligent add_trait=cruel add_trait=trusting 
+	father=411	#Prithvi
+	333.2.1={ birth=yes }
+	421.1.19={ death=yes }
+}
+416={
+	name=Dattadevi
+	female=yes
+	dynasty=2
+	dna="bfhklaicgnh"
+	culture=hindustani religion=pagan_indian
+	father=411	#Prithvi
+	340.8.25={ birth=yes }
+	410.5.31={ death=yes }
+}
+417={
+	name=Chand
+	dynasty=2
+	dna="bamdcheplbo"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=8 stewardship=6 intrigue=6 learning=5
+	add_trait=grey_eminence add_trait=celibate add_trait=patient add_trait=shy 
+	father=411	#Prithvi
+	346.12.26={ birth=yes }
+	397.5.20={ death=yes }
+}
+418={
+	name=Ratnapala
+	dynasty=2
+	dna="bofppfepinb"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=4 stewardship=7 intrigue=5 learning=4
+	add_trait=mastermind_theologian add_trait=duelist add_trait=gregarious add_trait=just add_trait=ill 
+	father=411	#Prithvi
+	353.5.14={ birth=yes }
+	427.2.27={ death=yes }
+}
+419={
+	name=Prithipala
+	dynasty=2
+	dna="khgmpnphijg"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=7 stewardship=4 intrigue=8 learning=5
+	add_trait=intricate_webweaver add_trait=honest add_trait=shy add_trait=cynical add_trait=paranoid 
+	add_trait=content 
+	father=415	#Traillokyachandra
+	345.6.18={ birth=yes }
+	409.10.22={ death=yes }
+}
+420={
+	name=Prithipala
+	dynasty=2
+	dna="bhcblfjnlng"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=4 stewardship=6 intrigue=5 learning=6
+	add_trait=charismatic_negotiator add_trait=charitable add_trait=chaste add_trait=paranoid add_trait=brave 
+	add_trait=depressed add_trait=lunatic 
+	father=415	#Traillokyachandra
+	353.7.11={ birth=yes }
+	419.9.23={ death=yes }
+}
+421={
+	name=Dhruvasvamini
+	female=yes
+	dynasty=2
+	dna="baadlflijoa"
+	culture=hindustani religion=pagan_indian
+	father=415	#Traillokyachandra
+	359.10.13={ birth=yes }
+	413.6.20={ death=yes }
+}
+422={
+	name=Arjunpal
+	dynasty=2
+	dna="jkdbpjppijn"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=4 stewardship=4 intrigue=7 learning=7
+	add_trait=tough_soldier add_trait=diligent add_trait=brave add_trait=greedy add_trait=ambitious 
+	add_trait=proud 
+	father=419	#Prithipala
+	345.8.24={ birth=yes }
+	411.1.2={ death=yes }
+}
+423={
+	name=Prasadhanadevi
+	female=yes
+	dynasty=2
+	dna="kdbmknhcicc"
+	culture=hindustani religion=pagan_indian
+	father=419	#Prithipala
+	349.12.7={ birth=yes }
+	417.8.10={ death=yes }
+}
+424={
+	name=Prabhavatigupta
+	female=yes
+	dynasty=2
+	dna="pnampnpdmjg"
+	culture=hindustani religion=pagan_indian
+	father=419	#Prithipala
+	354.10.1={ birth=yes }
+	409.12.2={ death=yes }
+}
+425={
+	name=Khetrapal
+	dynasty=2
+	dna="kagmpkpnibg"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=6 stewardship=4 intrigue=6 learning=7
+	add_trait=indulgent_wastrel add_trait=duelist add_trait=gluttonous add_trait=trusting add_trait=proud 
+	add_trait=arbitrary add_trait=craven 
+	father=419	#Prithipala
+	358.12.4={ birth=yes }
+	431.7.11={ death=yes }
+}
+426={
+	name=Kiratpala
+	dynasty=2
+	dna="khbekmemigg"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=4 stewardship=5 intrigue=6 learning=6
+	add_trait=detached_priest add_trait=paranoid add_trait=cruel add_trait=charitable add_trait=shy 
+	father=419	#Prithipala
+	365.6.26={ birth=yes }
+	408.2.22={ death=yes }
+}
+427={
+	name=Gangeya
+	dynasty=2
+	dna="cbflpadhcjl"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=6 stewardship=5 intrigue=5 learning=8
+	add_trait=misguided_warrior add_trait=craven add_trait=content add_trait=humble add_trait=chaste 
+	add_trait=slothful add_trait=cruel 
+	father=419	#Prithipala
+	369.6.23={ birth=yes }
+	417.4.10={ death=yes }
+}
+428={
+	name=Shrimitradevi
+	female=yes
+	dynasty=2
+	dna="hacmpfihija"
+	culture=hindustani religion=pagan_indian
+	father=419	#Prithipala
+	376.5.26={ birth=yes }
+	430.7.16={ death=yes }
+}
+429={
+	name=Krishnray
+	dynasty=2
+	dna="dofbpippinb"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=7 stewardship=4 intrigue=5 learning=6
+	add_trait=charismatic_negotiator add_trait=envious add_trait=cruel add_trait=chaste add_trait=zealous 
+	father=422	#Arjunpal
+	357.12.11={ birth=yes }
+	429.6.24={ death=yes }
+}
+430={
+	name=Bhopal
+	dynasty=2
+	dna="nbnbpcphllj"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=8 stewardship=5 intrigue=8 learning=7
+	add_trait=scholarly_theologian add_trait=trusting add_trait=chaste add_trait=content add_trait=diligent 
+	add_trait=wroth 
+	father=422	#Arjunpal
+	365.12.5={ birth=yes }
+	436.2.15={ death=yes }
+}
+431={
+	name=Dharmapala
+	dynasty=2
+	dna="gbfchicpnmm"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=7 stewardship=8 intrigue=7 learning=6
+	add_trait=tough_soldier add_trait=charitable add_trait=brave 
+	father=429	#Krishnray
+	362.8.23={ birth=yes }
+	430.4.3={ death=yes }
+}
+432={
+	name=Kanwar
+	female=yes
+	dynasty=2
+	dna="dnfopilpbnb"
+	culture=hindustani religion=pagan_indian
+	father=429	#Krishnray
+	368.2.5={ birth=yes }
+	440.1.5={ death=yes }
+}
+433={
+	name=Shrimitradevi
+	female=yes
+	dynasty=2
+	dna="dlgjaappidb"
+	culture=hindustani religion=pagan_indian
+	father=429	#Krishnray
+	374.11.2={ birth=yes }
+	433.4.18={ death=yes }
+}
+434={
+	name=Karmavati
+	female=yes
+	dynasty=2
+	dna="doemlijppnd"
+	culture=hindustani religion=pagan_indian
+	father=429	#Krishnray
+	379.12.16={ birth=yes }
+	431.11.24={ death=yes }
+}
+435={
+	name=Surajpala
+	dynasty=2
+	dna="hafchcccmmi"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=8 stewardship=6 intrigue=5 learning=7
+	add_trait=detached_priest add_trait=zealous add_trait=paranoid add_trait=diligent 
+	father=431	#Dharmapala
+	369.10.10={ birth=yes }
+	420.2.29={ death=yes }
+}
+436={
+	name=Sanyukta
+	female=yes
+	dynasty=2
+	dna="gbbfciojnjm"
+	culture=hindustani religion=pagan_indian
+	father=431	#Dharmapala
+	378.1.4={ birth=yes }
+	427.6.28={ death=yes }
+}
+437={
+	name=Devavarman
+	dynasty=2
+	dna="emfahaedilm"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=4 stewardship=4 intrigue=5 learning=6
+	add_trait=flamboyant_schemer add_trait=proud add_trait=charitable add_trait=arbitrary add_trait=deceitful 
+	add_trait=temperate add_trait=brave 
+	father=431	#Dharmapala
+	385.3.23={ birth=yes }
+	445.8.29={ death=yes }
+}
+438={
+	name=Sohanpal
+	dynasty=2
+	dna="pgpjhfconmm"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=5 stewardship=7 intrigue=4 learning=8
+	add_trait=misguided_warrior add_trait=hedonist add_trait=craven add_trait=chaste 
+	father=431	#Dharmapala
+	390.11.2={ birth=yes }
+	449.11.6={ death=yes }
+}
+439={
+	name=Traillokyachandra
+	dynasty=2
+	dna="hafjdcmimmi"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=4 stewardship=6 intrigue=5 learning=7
+	add_trait=thrifty_clerk add_trait=content add_trait=temperate add_trait=cruel add_trait=charitable 
+	father=435	#Surajpala
+	380.5.3={ birth=yes }
+	451.2.8={ death=yes }
+}
+440={
+	name=Anantadevi
+	female=yes
+	dynasty=2
+	dna="honeheemmmj"
+	culture=hindustani religion=pagan_indian
+	father=435	#Surajpala
+	388.7.16={ birth=yes }
+	463.2.14={ death=yes }
+}
+441={
+	name=Puppadevi
+	female=yes
+	dynasty=2
+	dna="jchdhbclamm"
+	culture=hindustani religion=pagan_indian
+	father=435	#Surajpala
+	392.12.19={ birth=yes }
+	460.9.17={ death=yes }
+}
+442={
+	name=Harsa
+	dynasty=2
+	dna="hllcccdcmfl"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=5 stewardship=5 intrigue=5 learning=7
+	add_trait=charismatic_negotiator add_trait=cruel add_trait=trusting add_trait=brave add_trait=proud 
+	add_trait=weak 
+	father=435	#Surajpala
+	399.1.21={ birth=yes }
+	466.10.8={ death=yes }
+}
+443={
+	name=Kalayandevi
+	female=yes
+	dynasty=2
+	dna="hhdjkcnohmi"
+	culture=hindustani religion=pagan_indian
+	father=435	#Surajpala
+	406.10.12={ birth=yes }
+	464.11.24={ death=yes }
+}
+444={
+	name=Birpal
+	dynasty=2
+	dna="hdfjpohiapj"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=5 stewardship=5 intrigue=5 learning=7
+	add_trait=elusive_shadow add_trait=chaste add_trait=envious add_trait=honest add_trait=ambitious 
+	father=439	#Traillokyachandra
+	396.8.19={ birth=yes }
+	449.11.18={ death=yes }
+}
+445={
+	name=Akal
+	female=yes
+	dynasty=2
+	dna="hcfnoopdgli"
+	culture=hindustani religion=pagan_indian
+	father=439	#Traillokyachandra
+	400.3.25={ birth=yes }
+	461.1.12={ death=yes }
+}
+446={
+	name=Rajamati
+	female=yes
+	dynasty=2
+	dna="aagjpohilpj"
+	culture=hindustani religion=pagan_indian
+	father=444	#Birpal
+	408.5.14={ birth=yes }
+	453.12.6={ death=yes }
+}
+447={
+	name=Govindaraja
+	dynasty=2
+	dna="aihjpoecaml"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=4 stewardship=6 intrigue=7 learning=6
+	add_trait=intricate_webweaver add_trait=gregarious add_trait=ambitious add_trait=patient add_trait=cynical 
+	add_trait=kind 
+	father=444	#Birpal
+	416.4.24={ birth=yes }
+	480.5.31={ death=yes }
+}
+448={
+	name=Rajamati
+	female=yes
+	dynasty=2
+	dna="gdifihaikjj"
+	culture=hindustani religion=pagan_indian
+	father=444	#Birpal
+	421.4.23={ birth=yes }
+	495.1.31={ death=yes }
+}
+449={
+	name=Udaysangh
+	dynasty=2
+	dna="hdfekpndoif"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=6 stewardship=8 intrigue=6 learning=7
+	add_trait=elusive_shadow add_trait=hedonist add_trait=slothful add_trait=humble add_trait=shy 
+	add_trait=lunatic 
+	father=444	#Birpal
+	427.12.24={ birth=yes }
+	493.2.21={ death=yes }
+}
+450={
+	name=Mahidevi
+	female=yes
+	dynasty=2
+	dna="hdfgpeoiaam"
+	culture=hindustani religion=pagan_indian
+	father=444	#Birpal
+	434.9.11={ birth=yes }
+	498.11.3={ death=yes }
+}
+451={
+	name=Dehanagadevi
+	female=yes
+	dynasty=2
+	dna="adfjhnhpige"
+	culture=hindustani religion=pagan_indian
+	father=444	#Birpal
+	437.11.8={ birth=yes }
+	510.10.10={ death=yes }
+}
+452={
+	name=Roshandeva
+	dynasty=2
+	dna="ngfjppipgpn"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=6 stewardship=6 intrigue=6 learning=6
+	add_trait=thrifty_clerk add_trait=patient add_trait=arbitrary add_trait=temperate add_trait=craven 
+	add_trait=ambitious add_trait=kind 
+	father=444	#Birpal
+	443.9.10={ birth=yes }
+	513.3.6={ death=yes }
+}
+453={
+	name=Ramachandra
+	dynasty=2
+	dna="hljjpbecbmk"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=4 stewardship=4 intrigue=7 learning=8
+	add_trait=martial_cleric add_trait=envious add_trait=craven add_trait=temperate add_trait=zealous 
+	add_trait=wounded 
+	father=447	#Govindaraja
+	427.12.17={ birth=yes }
+	475.3.31={ death=yes }
+}
+454={
+	name=Sanyukta
+	female=yes
+	dynasty=2
+	dna="aimgpodcmml"
+	culture=hindustani religion=pagan_indian
+	father=447	#Govindaraja
+	433.7.13={ birth=yes }
+	505.12.21={ death=yes }
+}
+455={
+	name=Prabhavatigupta
+	female=yes
+	dynasty=2
+	dna="nehfaoeiogb"
+	culture=hindustani religion=pagan_indian
+	father=447	#Govindaraja
+	439.12.25={ birth=yes }
+	475.4.24={ death=yes }
+}
+456={
+	name=Dattadevi
+	female=yes
+	dynasty=2
+	dna="giljpfecfhb"
+	culture=hindustani religion=pagan_indian
+	father=447	#Govindaraja
+	445.6.1={ birth=yes }
+	494.7.12={ death=yes }
+}
+457={
+	name=Anantadevi
+	female=yes
+	dynasty=2
+	dna="aibjbnegkmn"
+	culture=hindustani religion=pagan_indian
+	father=447	#Govindaraja
+	454.1.11={ birth=yes }
+	505.8.30={ death=yes }
+}
+458={
+	name=Kakhopala
+	dynasty=2
+	dna="pilfpdejaml"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=6 stewardship=5 intrigue=8 learning=6
+	add_trait=detached_priest add_trait=impaler add_trait=honest add_trait=temperate add_trait=humble 
+	add_trait=charitable add_trait=wroth 
+	father=447	#Govindaraja
+	461.11.2={ birth=yes }
+	531.10.13={ death=yes }
+}
+459={
+	name=Mahidevi
+	female=yes
+	dynasty=2
+	dna="kihjphecahl"
+	culture=hindustani religion=pagan_indian
+	father=447	#Govindaraja
+	468.3.26={ birth=yes }
+	527.9.12={ death=yes }
+}
+460={
+	name=Prasadhanadevi
+	female=yes
+	dynasty=2
+	dna="nnffepdcpkb"
+	culture=hindustani religion=pagan_indian
+	father=453	#Ramachandra
+	432.11.26={ birth=yes }
+	480.8.7={ death=yes }
+}
+461={
+	name=Nagapala
+	dynasty=2
+	dna="hijjpbijbmk"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=7 stewardship=7 intrigue=7 learning=5
+	add_trait=misguided_warrior add_trait=hunter add_trait=greedy add_trait=cruel add_trait=slothful 
+	add_trait=kind add_trait=trusting add_trait=content 
+	father=453	#Ramachandra
+	439.5.7={ birth=yes }
+	495.5.2={ death=yes }
+}
+462={
+	name=Yasovarman
+	dynasty=2
+	dna="fmjjokebbmf"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=6 stewardship=4 intrigue=4 learning=5
+	add_trait=skilled_tactician add_trait=humble add_trait=content add_trait=gregarious add_trait=lustful 
+	father=453	#Ramachandra
+	447.4.25={ birth=yes }
+	501.7.21={ death=yes }
+}
+463={
+	name=Hemavati
+	female=yes
+	dynasty=2
+	dna="hejnpbocjmk"
+	culture=hindustani religion=pagan_indian
+	father=453	#Ramachandra
+	454.10.6={ birth=yes }
+	509.11.18={ death=yes }
+}
+464={
+	name=Indrapala
+	dynasty=2
+	dna="kdjkhbpcbgb"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=4 stewardship=7 intrigue=7 learning=5
+	add_trait=flamboyant_schemer add_trait=honest add_trait=just add_trait=greedy add_trait=patient 
+	add_trait=temperate 
+	father=453	#Ramachandra
+	460.9.26={ birth=yes }
+	523.11.3={ death=yes }
+}
+465={
+	name=Gopal
+	dynasty=2
+	dna="ipjjjdeflbi"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=7 stewardship=7 intrigue=6 learning=7
+	add_trait=tough_soldier add_trait=brave add_trait=arbitrary 
+	father=453	#Ramachandra
+	467.9.14={ birth=yes }
+	512.9.26={ death=yes }
+}
+466={
+	name=Shrimitradevi
+	female=yes
+	dynasty=2
+	dna="hlndjbepbpc"
+	culture=hindustani religion=pagan_indian
+	father=453	#Ramachandra
+	474.12.22={ birth=yes }
+	511.4.5={ death=yes }
+}
+467={
+	name=Gambhir
+	dynasty=2
+	dna="hffjhkibbmo"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=7 stewardship=8 intrigue=8 learning=7
+	add_trait=indulgent_wastrel add_trait=greedy add_trait=humble add_trait=wroth add_trait=lunatic 
+	father=461	#Nagapala
+	449.11.14={ birth=yes }
+	517.6.16={ death=yes }
+}
+468={
+	name=Kumaradevi
+	female=yes
+	dynasty=2
+	dna="hfldpbfcmfk"
+	culture=hindustani religion=pagan_indian
+	father=461	#Nagapala
+	457.1.21={ birth=yes }
+	530.1.5={ death=yes }
+}
+469={
+	name=Sukhinpal
+	dynasty=2
+	dna="bjpohpcojmo"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=6 stewardship=5 intrigue=5 learning=8
+	add_trait=intricate_webweaver add_trait=shy add_trait=wroth add_trait=temperate 
+	father=467	#Gambhir
+	464.9.19={ birth=yes }
+	515.12.13={ death=yes }
+}
+470={
+	name=Ladahachandra
+	dynasty=2
+	dna="hnfjhkkbbmo"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=7 stewardship=8 intrigue=5 learning=4
+	add_trait=midas_touched add_trait=duelist add_trait=proud add_trait=cruel add_trait=gregarious 
+	father=467	#Gambhir
+	471.4.3={ birth=yes }
+	541.8.22={ death=yes }
+}
+471={
+	name=Jhetpala
+	dynasty=2
+	dna="ijafhpmndmo"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=5 stewardship=8 intrigue=6 learning=4
+	add_trait=flamboyant_schemer add_trait=trusting add_trait=kind add_trait=lustful 
+	father=469	#Sukhinpal
+	471.11.18={ birth=yes }
+	533.7.20={ death=yes }
+}
+472={
+	name=Vachhal
+	dynasty=2
+	dna="bjpohdcmdop"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=7 stewardship=5 intrigue=8 learning=5
+	add_trait=intricate_webweaver add_trait=deceitful add_trait=arbitrary add_trait=gluttonous add_trait=chaste 
+	add_trait=gregarious 
+	father=469	#Sukhinpal
+	477.7.20={ birth=yes }
+	526.10.17={ death=yes }
+}
+473={
+	name=Kumarapala
+	dynasty=2
+	dna="bjpodejljde"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=8 stewardship=7 intrigue=4 learning=8
+	add_trait=midas_touched add_trait=diligent add_trait=zealous add_trait=paranoid add_trait=greedy 
+	add_trait=lustful add_trait=temperate 
+	father=469	#Sukhinpal
+	485.11.22={ birth=yes }
+	538.12.10={ death=yes }
+}
+474={
+	name=Dhruvadevi
+	female=yes
+	dynasty=2
+	dna="lpiihgcojmk"
+	culture=hindustani religion=pagan_indian
+	father=469	#Sukhinpal
+	492.10.16={ birth=yes }
+	566.9.16={ death=yes }
+}
+475={
+	name=Sanyukta
+	female=yes
+	dynasty=2
+	dna="ojhgnphonml"
+	culture=hindustani religion=pagan_indian
+	father=469	#Sukhinpal
+	499.4.11={ birth=yes }
+	549.7.25={ death=yes }
+}
+476={
+	name=Anuppal
+	dynasty=2
+	dna="ljjfhpmbbma"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=8 stewardship=7 intrigue=8 learning=8
+	add_trait=charismatic_negotiator add_trait=celibate add_trait=slothful add_trait=cruel add_trait=proud 
+	add_trait=trusting add_trait=gregarious 
+	father=471	#Jhetpala
+	478.5.8={ birth=yes }
+	539.6.9={ death=yes }
+}
+477={
+	name=Jayavarman
+	dynasty=2
+	dna="hkafdpfnleo"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=7 stewardship=8 intrigue=8 learning=7
+	add_trait=naive_appeaser add_trait=content add_trait=zealous add_trait=envious 
+	father=471	#Jhetpala
+	487.5.8={ birth=yes }
+	535.3.16={ death=yes }
+}
+478={
+	name=Maharani
+	female=yes
+	dynasty=2
+	dna="ijednbmndmi"
+	culture=hindustani religion=pagan_indian
+	father=471	#Jhetpala
+	493.7.18={ birth=yes }
+	539.11.1={ death=yes }
+}
+479={
+	name=Someshvara
+	dynasty=2
+	dna="ljbchkdbbma"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=7 stewardship=4 intrigue=7 learning=5
+	add_trait=detached_priest add_trait=chaste add_trait=trusting add_trait=drunkard 
+	father=476	#Anuppal
+	481.9.13={ birth=yes }
+	550.3.13={ death=yes }
+}
+480={
+	name=Dattadevi
+	female=yes
+	dynasty=2
+	dna="mjplhnmbbaa"
+	culture=hindustani religion=pagan_indian
+	father=476	#Anuppal
+	486.6.11={ birth=yes }
+	532.6.25={ death=yes }
+}
+481={
+	name=Dehanagadevi
+	female=yes
+	dynasty=2
+	dna="lijfifmbbme"
+	culture=hindustani religion=pagan_indian
+	father=476	#Anuppal
+	494.7.9={ birth=yes }
+	566.4.8={ death=yes }
+}
+482={
+	name=Vinayakapala
+	dynasty=2
+	dna="eejchpmbbic"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=6 stewardship=6 intrigue=6 learning=4
+	add_trait=midas_touched add_trait=content add_trait=just add_trait=honest add_trait=paranoid 
+	father=476	#Anuppal
+	499.8.15={ birth=yes }
+	549.9.29={ death=yes }
+}
+483={
+	name=Maharani
+	female=yes
+	dynasty=2
+	dna="lgbnmjmfgma"
+	culture=hindustani religion=pagan_indian
+	father=476	#Anuppal
+	503.8.24={ birth=yes }
+	569.9.18={ death=yes }
+}
+484={
+	name=Vihangpal
+	dynasty=2
+	dna="ajefhohgbfe"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=5 stewardship=6 intrigue=4 learning=8
+	add_trait=intricate_webweaver add_trait=temperate add_trait=gregarious 
+	father=476	#Anuppal
+	509.5.18={ birth=yes }
+	560.12.1={ death=yes }
+}
+485={
+	name=Hemavati
+	female=yes
+	dynasty=2
+	dna="mojfopblbma"
+	culture=hindustani religion=pagan_indian
+	father=476	#Anuppal
+	514.5.24={ birth=yes }
+	573.8.12={ death=yes }
+}
+486={
+	name=Akal
+	female=yes
+	dynasty=2
+	dna="mdbcmkdnbji"
+	culture=hindustani religion=pagan_indian
+	father=479	#Someshvara
+	491.6.21={ birth=yes }
+	563.11.26={ death=yes }
+}
+487={
+	name=Damayanti
+	female=yes
+	dynasty=2
+	dna="ldicoadbcga"
+	culture=hindustani religion=pagan_indian
+	father=479	#Someshvara
+	501.10.11={ birth=yes }
+	567.10.22={ death=yes }
+}
+488={
+	name=Nattadevi
+	female=yes
+	dynasty=2
+	dna="heichjbibmg"
+	culture=hindustani religion=pagan_indian
+	father=479	#Someshvara
+	507.1.27={ birth=yes }
+	579.2.25={ death=yes }
+}
+489={
+	name=Sisupal
+	dynasty=2
+	dna="leghojdbfga"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=8 stewardship=4 intrigue=4 learning=6
+	add_trait=detached_priest add_trait=paranoid add_trait=cynical add_trait=kind add_trait=cruel 
+	father=479	#Someshvara
+	516.8.18={ birth=yes }
+	575.8.5={ death=yes }
+}
+490={
+	name=Dehanagadevi
+	female=yes
+	dynasty=2
+	dna="leodojdbfgo"
+	culture=hindustani religion=pagan_indian
+	father=489	#Sisupal
+	527.6.3={ birth=yes }
+	588.7.14={ death=yes }
+}
+491={
+	name=Khetrapal
+	dynasty=2
+	dna="lighacdofda"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=7 stewardship=5 intrigue=4 learning=4
+	add_trait=flamboyant_schemer add_trait=greedy add_trait=content add_trait=deceitful 
+	father=489	#Sisupal
+	536.6.11={ birth=yes }
+	585.8.19={ death=yes }
+}
+492={
+	name=Harpal
+	dynasty=2
+	dna="lekhofdbfgb"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=5 stewardship=8 intrigue=7 learning=5
+	add_trait=detached_priest add_trait=humble add_trait=patient add_trait=greedy add_trait=craven 
+	add_trait=kind add_trait=ill 
+	father=489	#Sisupal
+	547.4.19={ birth=yes }
+	578.6.5={ death=yes }
+}
+493={
+	name=Jayapala
+	dynasty=2
+	dna="lhleachofca"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=6 stewardship=4 intrigue=6 learning=6
+	add_trait=elusive_shadow add_trait=shy add_trait=diligent add_trait=humble add_trait=patient 
+	add_trait=depressed 
+	father=491	#Khetrapal
+	550.11.8={ birth=yes }
+	604.7.10={ death=yes }
+}
+494={
+	name=Achalraja
+	dynasty=2
+	dna="pighacdomfa"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=7 stewardship=8 intrigue=6 learning=7
+	add_trait=grey_eminence add_trait=just add_trait=deceitful add_trait=gregarious add_trait=drunkard 
+	father=491	#Khetrapal
+	554.3.3={ birth=yes }
+	604.6.25={ death=yes }
+}
+495={
+	name=Maharani
+	female=yes
+	dynasty=2
+	dna="pnghadjopjj"
+	culture=hindustani religion=pagan_indian
+	father=491	#Khetrapal
+	562.3.23={ birth=yes }
+	610.11.1={ death=yes }
+}
+496={
+	name=Nattadevi
+	female=yes
+	dynasty=2
+	dna="oighabdkldm"
+	culture=hindustani religion=pagan_indian
+	father=491	#Khetrapal
+	570.11.20={ birth=yes }
+	631.10.22={ death=yes }
+}
+497={
+	name=Arjunpala
+	dynasty=2
+	dna="phceapdgffe"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=5 stewardship=4 intrigue=8 learning=5
+	add_trait=midas_touched add_trait=gluttonous add_trait=lustful add_trait=cruel add_trait=zealous 
+	add_trait=stressed 
+	father=493	#Jayapala
+	561.6.10={ birth=yes }
+	609.12.18={ death=yes }
+}
+498={
+	name=Prabhavatigupta
+	female=yes
+	dynasty=2
+	dna="ohlgaihblha"
+	culture=hindustani religion=pagan_indian
+	father=493	#Jayapala
+	570.3.11={ birth=yes }
+	615.3.28={ death=yes }
+}
+499={
+	name=Surajpal
+	dynasty=2
+	dna="lhddachopcl"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=8 stewardship=5 intrigue=5 learning=4
+	add_trait=detached_priest add_trait=humble add_trait=brave add_trait=kind 
+	father=493	#Jayapala
+	579.5.1={ birth=yes }
+	655.4.24={ death=yes }
+}
+500={
+	name=Jaspal
+	dynasty=2
+	dna="phcolnbgife"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=7 stewardship=6 intrigue=5 learning=8
+	add_trait=detached_priest add_trait=content add_trait=greedy add_trait=proud add_trait=brave 
+	father=497	#Arjunpala
+	564.12.22={ birth=yes }
+	616.8.14={ death=yes }
+}
+501={
+	name=Gopal
+	dynasty=2
+	dna="ppcehndgjfe"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=7 stewardship=5 intrigue=7 learning=7
+	add_trait=elusive_shadow add_trait=paranoid add_trait=brave add_trait=cruel 
+	father=497	#Arjunpala
+	574.2.27={ birth=yes }
+	623.11.4={ death=yes }
+}
+502={
+	name=Maharani
+	female=yes
+	dynasty=2
+	dna="dkleihglfhe"
+	culture=hindustani religion=pagan_indian
+	father=497	#Arjunpala
+	583.3.27={ birth=yes }
+	655.3.16={ death=yes }
+}
+503={
+	name=Dhruvadevi
+	female=yes
+	dynasty=2
+	dna="phgebpfpfah"
+	culture=hindustani religion=pagan_indian
+	father=497	#Arjunpala
+	588.4.13={ birth=yes }
+	621.5.7={ death=yes }
+}
+504={
+	name=Kailaspal
+	dynasty=2
+	dna="phcoofogafo"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=7 stewardship=8 intrigue=7 learning=5
+	add_trait=detached_priest add_trait=charitable add_trait=deceitful add_trait=brave add_trait=diligent 
+	father=500	#Jaspal
+	566.8.2={ birth=yes }
+	632.2.23={ death=yes }
+}
+505={
+	name=Sukhinpala
+	dynasty=2
+	dna="dbbjnbbgfod"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=7 stewardship=4 intrigue=7 learning=8
+	add_trait=charismatic_negotiator add_trait=zealous add_trait=gregarious add_trait=stressed add_trait=weak 
+	father=500	#Jaspal
+	574.2.7={ birth=yes }
+	638.4.25={ death=yes }
+}
+506={
+	name=Akal
+	female=yes
+	dynasty=2
+	dna="ekcopnbgipo"
+	culture=hindustani religion=pagan_indian
+	father=500	#Jaspal
+	581.11.10={ birth=yes }
+	650.4.9={ death=yes }
+}
+507={
+	name=Karmavati
+	female=yes
+	dynasty=2
+	dna="khjolboaimg"
+	culture=hindustani religion=pagan_indian
+	father=500	#Jaspal
+	590.12.14={ birth=yes }
+	655.10.13={ death=yes }
+}
+508={
+	name=Lokpala
+	dynasty=2
+	dna="bncobclkimb"
+	culture=hindustani religion=pagan_indian
+	martial=5 diplomacy=5 stewardship=6 intrigue=6 learning=6
+	add_trait=grey_eminence add_trait=duelist add_trait=trusting add_trait=envious add_trait=patient 
+	add_trait=slothful add_trait=cynical 
+	father=500	#Jaspal
+	598.7.17={ birth=yes }
+	646.12.5={ death=yes }
+}
+509={
+	name=Dilippal
+	dynasty=2
+	dna="pmpobfoeakj"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=8 stewardship=5 intrigue=6 learning=5
+	add_trait=intricate_webweaver add_trait=celibate add_trait=charitable add_trait=patient add_trait=temperate 
+	father=504	#Kailaspal
+	580.6.12={ birth=yes }
+	629.9.28={ death=yes }
+}
+510={
+	name=Rajamati
+	female=yes
+	dynasty=2
+	dna="khcoofogmfo"
+	culture=hindustani religion=pagan_indian
+	father=504	#Kailaspal
+	587.4.9={ birth=yes }
+	643.10.5={ death=yes }
+}
+511={
+	name=Nannuka
+	dynasty=2
+	dna="hheojnjgaio"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=7 stewardship=6 intrigue=7 learning=4
+	add_trait=naive_appeaser add_trait=celibate add_trait=shy add_trait=just add_trait=zealous 
+	add_trait=diligent add_trait=kind add_trait=humble 
+	father=504	#Kailaspal
+	595.2.12={ birth=yes }
+	652.5.28={ death=yes }
+}
+512={
+	name=Ramabhadra
+	dynasty=2
+	dna="plcncfomico"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=7 stewardship=4 intrigue=7 learning=4
+	add_trait=intricate_webweaver add_trait=just add_trait=shy add_trait=content add_trait=depressed 
+	father=504	#Kailaspal
+	600.4.18={ birth=yes }
+	667.12.17={ death=yes }
+}
+513={
+	name=Govindachandra
+	dynasty=2
+	dna="pppobdolaap"
+	culture=hindustani religion=pagan_indian
+	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=4
+	add_trait=charismatic_negotiator add_trait=gluttonous add_trait=charitable add_trait=chaste add_trait=envious 
+	add_trait=zealous 
+	father=509	#Dilippal
+	580.11.6={ birth=yes }
+	658.12.21={ death=yes }
+}
+514={
+	name=Rajamati
+	female=yes
+	dynasty=2
+	dna="pipolfgmkkd"
+	culture=hindustani religion=pagan_indian
+	father=509	#Dilippal
+	587.12.1={ birth=yes }
+	659.4.27={ death=yes }
+}
+515={
+	name=Karmavati
+	female=yes
+	dynasty=2
+	dna="amppbfoiekj"
+	culture=hindustani religion=pagan_indian
+	father=509	#Dilippal
+	595.1.23={ birth=yes }
+	668.3.5={ death=yes }
+}
+516={
+	name=Khadag
+	dynasty=2
+	dna="ampodcojchd"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=4 stewardship=6 intrigue=5 learning=5
+	add_trait=scholarly_theologian add_trait=cruel add_trait=envious add_trait=humble 
+	father=509	#Dilippal
+	601.10.21={ birth=yes }
+	680.8.7={ death=yes }
+}
+517={
+	name=Nattadevi
+	female=yes
+	dynasty=2
+	dna="pmjcjfiggoa"
+	culture=hindustani religion=pagan_indian
+	father=509	#Dilippal
+	607.4.19={ birth=yes }
+	662.4.7={ death=yes }
+}
+518={
+	name=Uddharandeva
+	dynasty=2
+	dna="ppaobdmlaao"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=4 stewardship=5 intrigue=6 learning=4
+	add_trait=misguided_warrior add_trait=content add_trait=greedy add_trait=proud 
+	father=513	#Govindachandra
+	592.5.12={ birth=yes }
+	642.6.17={ death=yes }
+}
+519={
+	name=Nattadevi
+	female=yes
+	dynasty=2
+	dna="bnaojdhlaap"
+	culture=hindustani religion=pagan_indian
+	father=513	#Govindachandra
+	600.8.10={ birth=yes }
+	658.2.9={ death=yes }
+}
+520={
+	name=Brahmdevpal
+	dynasty=2
+	dna="hpobndofaap"
+	culture=hindustani religion=pagan_indian
+	martial=8 diplomacy=4 stewardship=8 intrigue=4 learning=6
+	add_trait=detached_priest add_trait=wroth add_trait=kind add_trait=cynical 
+	father=513	#Govindachandra
+	605.6.24={ birth=yes }
+	677.4.20={ death=yes }
+}
+521={
+	name=Bhilpala
+	dynasty=2
+	dna="aikocdolaab"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=7 stewardship=5 intrigue=7 learning=5
+	add_trait=flamboyant_schemer add_trait=mystic add_trait=wroth add_trait=ambitious add_trait=trusting 
+	add_trait=envious 
+	father=513	#Govindachandra
+	611.12.11={ birth=yes }
+	673.3.23={ death=yes }
+}
+522={
+	name=Udayaditya
+	dynasty=2
+	dna="kplobhmaedc"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=7 stewardship=5 intrigue=8 learning=8
+	add_trait=misguided_warrior add_trait=charitable add_trait=paranoid add_trait=brave 
+	father=518	#Uddharandeva
+	602.7.3={ birth=yes }
+	646.12.21={ death=yes }
+}
+523={
+	name=Dhruvadevi
+	female=yes
+	dynasty=2
+	dna="mpkhbdmjblg"
+	culture=hindustani religion=pagan_indian
+	father=518	#Uddharandeva
+	608.4.6={ birth=yes }
+	668.7.28={ death=yes }
+}
+524={
+	name=Vinayakapala
+	dynasty=2
+	dna="apaigkimaag"
+	culture=hindustani religion=pagan_indian
+	martial=7 diplomacy=7 stewardship=6 intrigue=7 learning=6
+	add_trait=misguided_warrior add_trait=celibate add_trait=diligent add_trait=chaste add_trait=envious 
+	add_trait=craven add_trait=shy 
+	father=518	#Uddharandeva
+	614.9.19={ birth=yes }
+	668.9.27={ death=yes }
+}
+525={
+	name=Nattadevi
+	female=yes
+	dynasty=2
+	dna="bpjcciolmao"
+	culture=hindustani religion=pagan_indian
+	father=518	#Uddharandeva
+	618.7.7={ birth=yes }
+	673.1.26={ death=yes }
+}
+526={
+	name=Mahipala
+	dynasty=2
+	dna="ppcckkmmdco"
+	culture=hindustani religion=pagan_indian
+	martial=4 diplomacy=4 stewardship=5 intrigue=7 learning=7
+	add_trait=grey_eminence add_trait=cruel add_trait=cynical add_trait=proud add_trait=temperate 
+	add_trait=ambitious 
+	father=518	#Uddharandeva
+	624.10.1={ birth=yes }
+	669.4.25={ death=yes }
+}

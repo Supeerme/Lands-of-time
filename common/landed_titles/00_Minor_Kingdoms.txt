@@ -1,0 +1,55 @@
+
+#Minor Kingdoms (those that did not last long)
+
+k_elam = {
+#a kingdom that lasted a long time before being taken over by the Medes.	
+	color={ 0 0 100 }
+	color2={ 100 10 0 }
+	capital = 645 # Hendjan
+#	short_name = yes
+	
+#	title = "Emperor"
+#	title_female = "Empress"
+	culture = persian
+	religion = pagan_persian
+
+}
+k_urartu = {
+#	
+	color={ 100 0 52 }
+	color2={ 200 0 54 }
+	capital = 686 # Oromieh (unknown)
+#	short_name = yes
+	
+	title = "Emperor"
+	title_female = "Empress"
+	culture = armenian
+	religion = pagan
+
+}
+k_phrygia = {
+# A Legendary kingdom where King Midas once lived.
+	color={ 100 0 52 }
+	color2={ 200 0 54 }
+	capital = 753 # Ankara 
+#	short_name = yes
+	
+	title = "Emperor"
+	title_female = "Empress"
+	culture = phrygian
+	religion = pagan_greek
+
+}
+k_etruria	= {
+# A kingdom that once dominated Italy only to be wiped out by the Romans.
+	color={ 100 0 52 }
+	color2={ 200 0 54 }
+	capital = 753 # Ankara 
+#	short_name = yes
+	
+	title = "Emperor"
+	title_female = "Empress"
+	culture = etruscan
+	religion = pagan_italian
+
+}

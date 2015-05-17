@@ -1,0 +1,6 @@
+20.1.1 = {
+holder = 2
+}
+20.1.1={
+	liege="e_indo_aryan"
+}

@@ -1,0 +1,196 @@
+#traits/BAD Traits go here.
+spriteTypes = {
+#ATTACKER traits/BAD
+	spriteType = {
+		name = "GFX_trait_poor_attacker"
+		texturefile = "gfx/traits/BAD/poor_attacker.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_indifferent_attacker"
+		texturefile = "gfx/traits/BAD/indifferent_attacker.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_incompetent_attacker"
+		texturefile = "gfx/traits/BAD/incompetent_attacker.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_pathetic_attacker"
+		texturefile = "gfx/traits/BAD/pathetic_attacker.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+#
+		spriteType = {
+		name = "GFX_trait_blatant_adulterer"
+		texturefile = "gfx/traits/BAD/blatant_adulterer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+		spriteType = {
+		name = "GFX_trait_casual_adulterer"
+		texturefile = "gfx/traits/BAD/casual_adulterer.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+		spriteType = {
+		name = "GFX_trait_womaniser"
+		texturefile = "gfx/traits/BAD/womaniser.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+#	
+		spriteType = {
+		name = "GFX_trait_incompetent_defender"
+		texturefile = "gfx/traits/BAD/incompetent_defender.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+		spriteType = {
+		name = "GFX_trait_indifferent_defender"
+		texturefile = "gfx/traits/BAD/indifferent_defender.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+		spriteType = {
+		name = "GFX_trait_irredeemably_foul_mouthed"
+		texturefile = "gfx/traits/BAD/irredeemably_foul_mouthed.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+		spriteType = {
+		name = "GFX_trait_likes_a_drink"
+		texturefile = "gfx/traits/BAD/likes_a_drink.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+		spriteType = {
+		name = "GFX_trait_minion"
+		texturefile = "gfx/traits/BAD/minion.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+		spriteType = {
+		name = "GFX_trait_paralytic"
+		texturefile = "gfx/traits/BAD/paralytic.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+		spriteType = {
+		name = "GFX_trait_incompetent_commander"
+		texturefile = "gfx/traits/BAD/incompetent_commander.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+		spriteType = {
+		name = "GFX_trait_drunken_lout"
+		texturefile = "gfx/traits/BAD/drunken_lout.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+		spriteType = {
+		name = "GFX_trait_foul_mouthed"
+		texturefile = "gfx/traits/BAD/foul_mouthed.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+		spriteType = {
+		name = "GFX_trait_pathetic_commander"
+		texturefile = "gfx/traits/BAD/pathetic_commander.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+		spriteType = {
+		name = "GFX_trait_pathetic_defender"
+		texturefile = "gfx/traits/BAD/pathetic_defender.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+		spriteType = {
+		name = "GFX_trait_poor_commander"
+		texturefile = "gfx/traits/BAD/poor_commander.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+		spriteType = {
+		name = "GFX_trait_poor_defender"
+		texturefile = "gfx/traits/BAD/.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+		spriteType = {
+		name = "GFX_trait_social_drinker"
+		texturefile = "gfx/traits/BAD/social_drinker.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+		spriteType = {
+		name = "GFX_trait_sot"
+		texturefile = "gfx/traits/BAD/sot.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+		spriteType = {
+		name = "GFX_trait_strong_language"
+		texturefile = "gfx/traits/BAD/strong_language.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+		spriteType = {
+		name = "GFX_trait_swears_like_a_trooper"
+		texturefile = "gfx/traits/BAD/swears_like_a_trooper.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	
+}

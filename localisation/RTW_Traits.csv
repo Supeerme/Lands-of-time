@@ -1,0 +1,1056 @@
+#; ;;;;;;;;;;;;x
+#_desc;  ;;;;;;;;;;;;;x
+#COMMANDER GOOD
+confident_commander;Confident Commander;;;;;;;;;;;;x
+confident_commander_desc;This person has been seen to be confident in commanding troops.;;;;;;;;;;;;;x
+good_commander;Good Commander;;;;;;;;;;;;x
+good_commander_desc;This person has been proven to be a good commander.;;;;;;;;;;;;;x
+superior_commander;Superior Commander;;;;;;;;;;;;x
+superior_commander_desc;This person has become a superior commander in comparison of their commanders.;;;;;;;;;;;;;x
+great_commander;Great Commander;;;;;;;;;;;;x
+great_commander_desc;This person has been hailed as one of the greatest of commanders.;;;;;;;;;;;;;x
+legendary_commander;Legendary Commander ;;;;;;;;;;;;x
+legendary_commander_desc;This person is truly the greatest of all commanders. Legends and internet forums shall weave great tales of this person!;;;;;;;;;;;;;x
+#COMMANDER BAD
+indifferent_commander;Indifferent Commander;;;;;;;;;;;;x
+indifferent_commander_desc;This person seems a little indifferent when commanding troops.;;;;;;;;;;;;;x
+incompetent_commander;Incompetent Commander;;;;;;;;;;;;x
+incompetent_commander_desc;This person struggles to commander troops well.;;;;;;;;;;;;;x
+poor_commander;Poor Commander;;;;;;;;;;;;x
+poor_commander_desc;This person has become famous for their poor commanding skills, troops are wary of this person.;;;;;;;;;;;;;x
+pathetic_commander;Pathetic Commander;;;;;;;;;;;;x
+pathetic_commander_desc;This person can't command a bunch of school children if they could have tried! Troops flee at the thought of this person leading them.;;;;;;;;;;;;;x
+#ATTACKER GOOD
+confident_attacker;Confident Attacker;;;;;;;;;;;;x
+confident_attacker_desc;This person has been seen to be confident in attacking.;;;;;;;;;;;;;x
+good_attacker;Good Attacker;;;;;;;;;;;;x
+good_attacker_desc;This person has been proven to be a good attacker  ;;;;;;;;;;;;;x
+superior_attacker;Superior Attacker ;;;;;;;;;;;;x
+superior_attacker_desc;This person has become a superior attacker.   ;;;;;;;;;;;;;x
+great_attacker;Great Attacker ;;;;;;;;;;;;x
+great_attacker_desc;People are hailing this person as one of the greatest attackers in the world.;;;;;;;;;;;;;x
+heroic_attacker;Heroic Attacker;;;;;;;;;;;;x
+heroic_attacker_desc;This person has become famous for the heroic attacking ability this person possessed in battle.;;;;;;;;;;;;;x
+#ATTACKER BAD
+indifferent_attacker;Indifferent Attacker;;;;;;;;;;;;x
+indifferent_attacker_desc;This person seems to be a little indifferent while attacking.;;;;;;;;;;;;;x
+incompetent_attacker;Incompetent Attacker;;;;;;;;;;;;x
+incompetent_attacker_desc;This person is incompetent at attacking. ;;;;;;;;;;;;;x
+poor_attacker;Poor Attacking ;;;;;;;;;;;;x
+poor_attacker_desc;This person have become famous for poor attacking ability in battle.;;;;;;;;;;;;;x
+pathetic_attacker;Pathetic Attacker;;;;;;;;;;;;x
+pathetic_attacker_desc;This person can't even make a pack a wolves attack prey without losing!;;;;;;;;;;;;;x
+#DEFENDER GOOD
+confident_in_defence;Confident in Defence;;;;;;;;;;;;x
+confident_in_defence_desc;This person is confident in defence.;;;;;;;;;;;;;x
+good_defender;Good Defender;;;;;;;;;;;;x
+good_defender_desc;This person have proven to be at defence.;;;;;;;;;;;;;x
+superior_defender;Superior Defender;;;;;;;;;;;;x
+superior_defender_desc;This person has become a superior defender.;;;;;;;;;;;;;x
+great_defender;Great Defender;;;;;;;;;;;;x
+great_defender_desc;People are hailing this person as one of the greatest defender of all time.;;;;;;;;;;;;;x
+heroic_defender;Heroic Defender;;;;;;;;;;;;x
+heroic_defender_desc;Tales will be written about this person thanks to the sheer defence abilities this person commands.;;;;;;;;;;;;;x
+#DEFENDER BAD
+indifferent_defender;Indifferent Defender;;;;;;;;;;;;x
+indifferent_defender_desc;This person seems a little indifferent while defending.;;;;;;;;;;;;;x
+incompetent_defender;Incompetent Defender;;;;;;;;;;;;x
+incompetent_defender_desc; This person is incompetent at defending.;;;;;;;;;;;;;x
+poor_defender;Poor Defender;;;;;;;;;;;;x
+poor_defender_desc;This person have become famous for the poor defending abilities in battles.;;;;;;;;;;;;;x
+pathetic_defender;Pathetic Defender;;;;;;;;;;;;x
+pathetic_defender_desc;This person can't even defend a rock pool without failing!;;;;;;;;;;;;;x
+#DRINKER BAD
+social_drinker;Social Drinker;;;;;;;;;;;;x
+social_drinker_desc;This person likes to drink during feasts and around other people.;;;;;;;;;;;;;x
+likes_a_drink;Likes A Drink;;;;;;;;;;;;x
+likes_a_drink_desc;This person have been seen drinking a bit more than necessary during feasts and around other people.;;;;;;;;;;;;;x
+drunken_lout;Drunken Lout;;;;;;;;;;;;x
+drunken_lout_desc;This person have been seen drinking a lot more than necessary during feasts and around other people.;;;;;;;;;;;;;x
+sot;Sot;;;;;;;;;;;;x
+sot_desc;This person have been seen drinking all the time while spending most of the time slurring and staggering around.;;;;;;;;;;;;;x
+paralytic;Paralytic;;;;;;;;;;;;x
+paralytic_desc;This person drinks so much, walking is impossible and spends all of the time in bed, drunk.;;;;;;;;;;;;;x
+#DRINKER GOOD
+sober;Sober;;;;;;;;;;;;x
+sober_desc;This person have been seen refusing drinks at feasts and around other people.;;;;;;;;;;;;;x
+abstemious;Abstemious;;;;;;;;;;;;x
+abstemious_desc;This person have been seen drinking little if any drinks at feasts and around other people.;;;;;;;;;;;;;x
+teetotal;Teetotal;;;;;;;;;;;;x
+teetotal_desc;This person have never drank a single drop of drinks at feasts and around other people.;;;;;;;;;;;;;x
+#LANGUAGE BAD
+strong_language;Uses Strong Language;;;;;;;;;;;;x
+strong_language_desc;This person likes to use swear words at times.;;;;;;;;;;;;;x
+foul_mouthed;Foul Mouthed;;;;;;;;;;;;x
+foul_mouthed_desc;This person uses swear words more than most people.;;;;;;;;;;;;;x
+swears_like_a_trooper;Swears Like A Trooper;;;;;;;;;;;;x
+swears_like_a_trooper_desc;This person uses more swear words thank ordinary words while talking.;;;;;;;;;;;;;x
+irredeemably_foul_mouthed;Irredeemably Foul Mouthed;;;;;;;;;;;;x
+irredeemably_foul_mouthed_desc;The only thing uttered by this person is swear words.;;;;;;;;;;;;;x
+#HOMO TRAITS (NEED HOMOSEXUAL TRAIT)
+minion;Minion;;;;;;;;;;;;x
+minion_desc;This person likes to work for another person of any desire.;;;;;;;;;;;;;x
+#LUSTFUL BAD (NEED LUSTFUL [DUH] )
+casual_adulterer;Casual Adulterer;;;;;;;;;;;;x
+casual_adulterer_desc;This person have been committing adultery in a casual manner.;;;;;;;;;;;;;x
+blatant_adulterer;Blatant Adulterer;;;;;;;;;;;;x
+blatant_adulterer_desc;This person cares little of such things called spouse loyalty.;;;;;;;;;;;;;x
+womaniser;Womaniser;;;;;;;;;;;;x
+womaniser_desc;Women Beware! This man like to lay with ladies and none shall stop him!;;;;;;;;;;;;;x
+#AMBUSHER GOOD
+good_ambusher;Good Ambusher;;;;;;;;;;;;x
+good_ambusher_desc;This person is good at Ambushing the enemy. ;;;;;;;;;;;;;x
+sneaky_ambusher;Sneaky Ambusher;;;;;;;;;;;;x
+sneaky_ambusher_desc;This person is surprisingly good at Ambushing the enemy. ;;;;;;;;;;;;;x
+exceptional_ambusher;Exceptional Ambusher;;;;;;;;;;;;x
+exceptional_ambusher_desc;This person is legendary for the great Ambushing this person have done. ;;;;;;;;;;;;;x
+#AMBUSHER BAD
+poor_ambusher;Poor Ambusher;;;;;;;;;;;;x
+poor_ambusher_desc;This person tries but fails to ambush the enemy most of the time. ;;;;;;;;;;;;;x
+rotten_ambusher;Rotten Ambusher;;;;;;;;;;;;x
+rotten_ambusher_desc;This person is well known for the awful ambushing attempts against the enemy. ;;;;;;;;;;;;;x
+pathetic_ambusher;Pathetic Ambusher;;;;;;;;;;;;x
+pathetic_ambusher_desc;This person better at playing Peek-a-Boo than ambushing the enemy.;;;;;;;;;;;;;x
+#DISCIPLINARIAN GOOD
+obsessional_trainer;Obsessional Trainer;;;;;;;;;;;;x
+obsessional_trainer_desc;This person likes to train the troops like a wolf around sheep..;;;;;;;;;;;;;x
+drillmaster;Drillmaster;;;;;;;;;;;;x
+drillmaster_desc;This person tends to be harsh towards the troops. But it works?;;;;;;;;;;;;;x
+martinet;Martinet;;;;;;;;;;;;x
+martinet_desc;Whips and canes are a common troop fear around this person.;;;;;;;;;;;;;x
+#DISCIPLINARIAN BAD
+poor_disciplinarian;Poor Disciplinarian;;;;;;;;;;;;x
+poor_disciplinarian_desc;This person would let the troops do what they want to insure loyalty.;;;;;;;;;;;;;x
+too_considerate;Too Considerate;;;;;;;;;;;;x
+too_considerate_desc;This person tends to let troops get away with mistakes far too often.;;;;;;;;;;;;;x
+kills_with_kindness;Kills with Kindness;;;;;;;;;;;;x
+kills_with_kindness_desc;This person cannot order the troops without saying please and thank yous.;;;;;;;;;;;;;x
+#SIEGE ATTACKER GOOD
+gate_breaker;Gate Breaker;;;;;;;;;;;;x
+gate_breaker_desc;This person is skilled at breaking into forts.;;;;;;;;;;;;;x
+wall_breaker;Wall Breaker;;;;;;;;;;;;x
+wall_breaker_desc;This person is quite skilled in breaking walls apart with the siege weapons.;;;;;;;;;;;;;x
+into_the_breach;Into the Breach!;;;;;;;;;;;;x
+into_the_breach_desc;This person is well known for impregnating the impregnable.;;;;;;;;;;;;;x
+legendary_siege_expert;Legendary Siege Expert;;;;;;;;;;;;x
+legendary_siege_expert_desc;This person is legendary for the power to enter seemly impossible forts. This person may even enter Troy without any sweat!;;;;;;;;;;;;;x
+#SIEGE ATTACKER BAD
+dislikes_attacking_walls;Dislikes Attacking Walls;;;;;;;;;;;;x
+dislikes_attacking_walls_desc;This person is known for the lack of besieging prowess.;;;;;;;;;;;;;x
+useless_besieger;Useless Besieger;;;;;;;;;;;;x
+useless_besieger_desc;This person is known for the shocking lack of besieging prowess.;;;;;;;;;;;;;x
+pathetic_besieger;Pathetic Besieger;;;;;;;;;;;;x
+pathetic_besieger_desc;This person will never take a single sandcastle let along a fortress!;;;;;;;;;;;;;x
+#SIEGE DEFENDER GOOD
+gate_keeper;Gate Keeper;;;;;;;;;;;;x
+gate_keeper_desc;This person is well known for the stalwart defence of the land;;;;;;;;;;;;;x
+strong_as_stone;Strong as Stone;;;;;;;;;;;;x
+strong_as_stone_desc;This person is like a walking fortress, few can break the fortress defence with this person in charge.;;;;;;;;;;;;;x
+none_shall_pass;None Shall Pass!;;;;;;;;;;;;x
+none_shall_pass_desc;This person is famous for the defending the indefensible.;;;;;;;;;;;;;x
+legendary_city_defender;Legendary City Defender;;;;;;;;;;;;x
+legendary_city_defender_desc;This person may have been a reincarnation of the defenders of Troy!;;;;;;;;;;;;;x
+#SIEGE DEFENDER BAD
+cowers_behind_walls;Cowers Behind Walls;;;;;;;;;;;;x
+cowers_behind_walls_desc;This person feels excessively safe under siege.;;;;;;;;;;;;;x
+pathetic_defender_of_cities;Pathetic Defender of Cities;;;;;;;;;;;;x
+pathetic_defender_of_cities_desc;This person cannot defend the Fortress no matter what.;;;;;;;;;;;;;x
+liability_in_defence;Liability in Defence;;;;;;;;;;;;x
+liability_in_defence_desc;This person is better off opening the gates than to defend.;;;;;;;;;;;;;x
+# BRAVE GOOD (FAMOUSLY_COURAGEOUS AND ABOVE NEEDS BRAVE)
+untouched_by_fear;Untouched by Fear;;;;;;;;;;;;x
+untouched_by_fear_desc;This person have been noticed for the lack of fear they have.;;;;;;;;;;;;;x
+famously_courageous;Famously Courageous;;;;;;;;;;;;x
+famously_courageous_desc;This person have become famous for the sheer courage they have.;;;;;;;;;;;;;x
+utterly_fearless;Utterly Fearless;;;;;;;;;;;;x
+utterly_fearless_desc;This person makes statues seem cowardly.;;;;;;;;;;;;;x
+insanely_brave;Insanely Brave;;;;;;;;;;;;x
+insanely_brave_desc;This person is considered insane due to the total lack of fear, even the gods are seen as cowards compared to this person.;;;;;;;;;;;;;x
+#BRAVE BAD (RULED_BY_FEAR NEED CRAVEN)
+doubtful_courage;Doubtful Courage;;;;;;;;;;;;x
+doubtful_courage_desc;This person have their courage questioned by their fellows.;;;;;;;;;;;;;x
+morbidly_fearful;Morbidly Fearful;;;;;;;;;;;;x
+morbidly_fearful_desc;This person have been seen running away from spiders.;;;;;;;;;;;;;x
+ruled_by_fear;Ruled by Fear;;;;;;;;;;;;x
+ruled_by_fear_desc;This person hides in the closet for fear of everything.;;;;;;;;;;;;;x
+#LAZY BAD (INDOLENT AND ABOVE NEEDS SLOTH)
+rather_lazy;Rather Lazy;;;;;;;;;;;;x
+rather_lazy_desc;This person tends to be lazy at times.;;;;;;;;;;;;;x
+lazy;Lazy;;;;;;;;;;;;x
+lazy_desc;This person tends to be lazy.;;;;;;;;;;;;;x
+indolent;Indolent;;;;;;;;;;;;x
+indolent_desc;This person tends to spend more time doing nothing and having servents do things for them.;;;;;;;;;;;;;x
+indolent_lardy_arse;Indolent Lardy Arse;;;;;;;;;;;;x
+indolent_lardy_arse_desc;This person spends more time and effort making sure that they would never have to lift a finger.;;;;;;;;;;;;;x
+#LAZY GOOD 
+lively;Lively;;;;;;;;;;;;x
+lively_desc;This person have been seen doing exercise.;;;;;;;;;;;;;x
+very_lively;Very Lively;;;;;;;;;;;;x
+very_lively_desc;This person have been seen doing labour for entertainment.;;;;;;;;;;;;;x
+energetic;Energetic;;;;;;;;;;;;x
+energetic_desc;This person seems to keep going when most other people would tire.;;;;;;;;;;;;;x
+blessed_with_vitality;Blessed with Vitality;;;;;;;;;;;;x
+blessed_with_vitality_desc;This person keeps going and going and going...;;;;;;;;;;;;;x
+# BERSERKER (NEED BERSERKER TRAIT TO PROGRESS)
+axe_biter;Axe Biter;;;;;;;;;;;;x
+axe_biter_desc;This person when Berserk to bite axes to hold the sheer rage within.;;;;;;;;;;;;;x
+shield_biter;Shield Biter;;;;;;;;;;;;x
+shield_biter_desc;This person when Berserk to bite shields to hold the sheer rage within.;;;;;;;;;;;;;x
+#FOREIGNER BAD
+distrusts_outsiders;Distrusts Foreigners;;;;;;;;;;;;x
+distrusts_outsiders_desc;This person sees Foreigners as distrustful.;;;;;;;;;;;;;x
+hates_strangers;Hates Foreigners;;;;;;;;;;;;x
+hates_strangers_desc;This person hates any Foreigners that they do not personally know.;;;;;;;;;;;;;x
+loathes_foreigners;Loathes Foreigners;;;;;;;;;;;;x
+loathes_foreigners_desc;This person speaks loudly against any Foreigners, friend or other.;;;;;;;;;;;;;x
+#FOREIGNERS GOOD
+welcoming_to_foreigners;Welcoming to Foreigners;;;;;;;;;;;;x
+welcoming_to_foreigners_desc;This person is seen allowing Foreigners to rest in their homes.;;;;;;;;;;;;;x
+likes_strangers;Likes Foreigners;;;;;;;;;;;;x
+likes_strangers_desc;This person sees Foreigners as future friends;;;;;;;;;;;;;x
+fascinated_by_outsiders;Fascinated by Foreigners;;;;;;;;;;;;x
+fascinated_by_outsiders_desc;This person finds Foreigners and their foreign ways as worthy causes to study.;;;;;;;;;;;;;x
+#PUBLICFAITH BAD (NEED CYNICAL)
+faithless;Faithless;;;;;;;;;;;;x
+faithless_desc;This person have recently lost faith with the gods.;;;;;;;;;;;;;x
+atheist;Atheist;;;;;;;;;;;;x
+atheist_desc;This person have made their lost faith public.;;;;;;;;;;;;;x
+despises_the_gods;Despises the Gods;;;;;;;;;;;;x
+despises_the_gods_desc;This person feel that the Gods have abandoned them.;;;;;;;;;;;;;x
+hates_the_gods;Hates the Gods;;;;;;;;;;;;x
+hates_the_gods_desc;This person loudly speaks against the Gods, much to the horror and anger of others.;;;;;;;;;;;;;x
+#PUBLICFAITH GOOD (HONOUERS_THE_GODS NEED ZEALOT)
+devout;Devout;;;;;;;;;;;;x
+devout_desc;This person follows the Gods publicly.;;;;;;;;;;;;;x
+religious;Religious;;;;;;;;;;;;x
+religious_desc;This person follows the Gods more than most people.;;;;;;;;;;;;;x
+honours_the_gods;Honours the Gods;;;;;;;;;;;;x
+honours_the_gods_desc;This person Honours the Gods to an almost unhealthy degree.;;;;;;;;;;;;;x
+venerates_the_gods;Venerates the gods;;;;;;;;;;;;x
+venerates_the_gods_desc;This person spends their enitre waking life in prayer and other stuff that the Gods may have commanded them to do.;;;;;;;;;;;;;x
+#WARLORD (MORE CONQUEST THE HIGHER!)
+war_chief;War Chief;;;;;;;;;;;;x
+war_chief_desc;This person have conquered a County making them a War Chief.;;;;;;;;;;;;;x
+mighty_war_chief;Mighty War Chief;;;;;;;;;;;;x
+mighty_war_chief_desc;This person have conquered a Duchy making them a Mighty War Chief.;;;;;;;;;;;;;x
+warlord;Warlord;;;;;;;;;;;;x
+warlord_desc;This person have conquered a Kingdom, people now declare this person as a Warlord!;;;;;;;;;;;;;x
+legendary_warlord;Legendary Warlord;;;;;;;;;;;;x
+legendary_warlord_desc;This person shall be recorded as a Legendary Warlord for having conquered a entire Empire!;;;;;;;;;;;;;x
+#ADMINISTRATOR GOOD
+bureaucrat;Bureaucrat;;;;;;;;;;;;x
+bureaucrat_desc;This person have been noted for good Bureaucratic skills.;;;;;;;;;;;;;x
+skilled_bureaucrat;Skilled Bureaucrat;;;;;;;;;;;;x
+skilled_bureaucrat_desc;This person have been noted for very good Bureaucratic skills.;;;;;;;;;;;;;x
+superb_administrator;Superb Bureaucrat;;;;;;;;;;;;x
+superb_administrator_desc;This person have been noted for Superb Bureaucratic skills.;;;;;;;;;;;;;x
+#ADMINISTRATOR BAD
+jobsworth;Jobs-worth;;;;;;;;;;;;x
+jobsworth_desc;This person have been noted for sticking to the rules far too much.;;;;;;;;;;;;;x
+administratively_inept;Administratively Inept;;;;;;;;;;;;x
+administratively_inept_desc;This person have been noted for the poor Bureaucratic skills.;;;;;;;;;;;;;x
+stunningly_incompetent;Stunningly Incompetent;;;;;;;;;;;;x
+stunningly_incompetent_desc;This person is unable to run a wine stand let alone a nation!;;;;;;;;;;;;;x
+#SPEAKER GOOD
+outstanding_speaker;Outstanding Speaker;;;;;;;;;;;;x
+outstanding_speaker_desc;This person is well known for the great speeches they make.;;;;;;;;;;;;;x
+famous_orator;Famous Orator;;;;;;;;;;;;x
+famous_orator_desc;This person is famous for the their speeches.;;;;;;;;;;;;;x
+great_orator;Great Orator;;;;;;;;;;;;x
+great_orator_desc;This person is recorded as one of the Greats. Homer may have a new rival!;;;;;;;;;;;;;x
+#SPEAKER BAD
+tedious_speaker;Tedious Speaker;;;;;;;;;;;;x
+tedious_speaker_desc;This person tends to drone on while making their speeches.;;;;;;;;;;;;;x
+boring_speaker;Boring Speaker;;;;;;;;;;;;x
+boring_speaker_desc;This person is famous for the sheer boring nature of speech.;;;;;;;;;;;;;x
+boring_beyond_belief;Boring Beyond Belief;;;;;;;;;;;;x
+boring_beyond_belief_desc;This person is a dread of all parties as merely uttering puts people off.;;;;;;;;;;;;;x
+boring_little_tit;Boring Little Tit;;;;;;;;;;;;x
+boring_little_tit_desc;This person is so boring, if this person dictates a Comedy, it shall be used for funerals!;;;;;;;;;;;;;x
+#DEBATER
+fluent_speaker;Fluent Speaker;;;;;;;;;;;;x
+fluent_speaker_desc;This person is well known for the fluent nature of their debates.;;;;;;;;;;;;;x
+skilled_debater;Skilled Debater;;;;;;;;;;;;x
+skilled_debater_desc;This person can win debates without problems.;;;;;;;;;;;;;x
+rhetorical_expert;Rhetorical Expert;;;;;;;;;;;;x
+rhetorical_expert_desc;This person can out debate an entire senate without a sweat.;;;;;;;;;;;;;x
+#POET (MUST OBTAIN POET SKILL FOR EPIC_POET)
+fond_of_poetry;Fond of Poetry;;;;;;;;;;;;x
+fond_of_poetry_desc;This person likes Poetry and spends time reading them.;;;;;;;;;;;;;x
+epic_poet;Epic Poet;;;;;;;;;;;;x
+epic_poet_desc;This person have become world famous for the sheer mastery of Poetry.;;;;;;;;;;;;;x
+#STRATEGIC SKILLS
+understanding_of_strategy;Understanding of Strategy;;;;;;;;;;;;x
+understanding_of_strategy_desc;This person understands the basics of Strategy.;;;;;;;;;;;;;x
+strategic_expert;Strategic Expert;;;;;;;;;;;;x
+strategic_expert_desc;This person is able to do Strategic command better than others.;;;;;;;;;;;;;x
+strategist;Strategist;;;;;;;;;;;;x
+strategist_desc;This person is a qualified Strategist. Tends to see the bigger picture better than most.;;;;;;;;;;;;;x
+#TACTICAL SKILL
+understanding_of_tactics;Understanding of Tactics ;;;;;;;;;;;;x
+understanding_of_tactics_desc;This person understands the basics of Tactics.;;;;;;;;;;;;;x
+tactical_expert;Tactical Expert;;;;;;;;;;;;x
+tactical_expert_desc;This person is able to do Tactical command better than others.;;;;;;;;;;;;;x
+tactician;Tactician;;;;;;;;;;;;x
+tactician_desc;This person is a qualified Tactician. Tends to see the smaller picture better than most.;;;;;;;;;;;;;x
+#MATH SKILLS
+understanding_of_mathematics;Understanding of Mathematics;;;;;;;;;;;;x
+understanding_of_mathematics_desc;This person understands the basics of Mathematics.;;;;;;;;;;;;;x
+mathematics_expert;Mathematics Expert;;;;;;;;;;;;x
+mathematics_expert_desc;This person is able to do Mathematics better than others.;;;;;;;;;;;;;x
+mathematician;Mathematician;;;;;;;;;;;;x
+mathematician_desc;This person is a qualified Mathematician. Tends to see the Mathematics behind the economy better than most.;;;;;;;;;;;;;x
+#NATURAL PHILOSOPHY SKILL
+understanding_of_natural_philosophy;Understanding of Natural Philosophy;;;;;;;;;;;;x
+understanding_of_natural_philosophy_desc;This person understands the basics of Natural Philosophy.;;;;;;;;;;;;;x
+expert_on_natural_philosophy;Expert on Natural Philosophy;;;;;;;;;;;;x
+expert_on_natural_philosophy_desc;This person is able to do Natural Philosophy better than others.;;;;;;;;;;;;;x
+natural_philosopher;Natural Philosopher;;;;;;;;;;;;x
+natural_philosopher_desc;This person is a qualified Tactician. Tends to see the Natural Philosophy behind politics better than most.;;;;;;;;;;;;;x
+#POLITICS SKILLS
+political_animal;Political Animal;;;;;;;;;;;;x
+political_animal_desc;This person likes to get involved with Politics time to time. Is showing signs of improvement.;;;;;;;;;;;;;x
+politician;Politician;;;;;;;;;;;;x
+politician_desc;This person have dedicated themselves in Politics.;;;;;;;;;;;;;x
+consummate_politician;Consummate Politician;;;;;;;;;;;;x
+consummate_politician_desc;This person is a expert in Politics and all the pitfalls within it.;;;;;;;;;;;;;x
+#LOGISTICAL SKILLS
+understanding_of_logistics;Understanding of Logistics;;;;;;;;;;;;x
+understanding_of_logistics_desc;This person understands the basics of Logistics.;;;;;;;;;;;;;x
+logistics_expert;Logistics Expert;;;;;;;;;;;;x
+logistics_expert_desc;This person is able to do Logistics better than others.;;;;;;;;;;;;;x
+logistician;Logistician;;;;;;;;;;;;x
+logistician_desc;This person is a qualified Logistician. Tends to see the Logistics behind the Military supply better than most.;;;;;;;;;;;;;x
+# PHILOSOPY SKILL
+philosophically_inclined;Philosophically Inclined;;;;;;;;;;;;x
+philosophically_inclined_desc;This person is spending time thinking of the meaning of life.;;;;;;;;;;;;;x
+philosopher;Philosopher;;;;;;;;;;;;x
+philosopher_desc;This person spends most of the time thinking of the higher purpose of humanity.;;;;;;;;;;;;;x
+abstruse_philosopher;Abstruse Philosopher;;;;;;;;;;;;x
+abstruse_philosopher_desc;This person spends all the time thinking of a reason why a birds can fly.;;;;;;;;;;;;;x
+#RABBLEROUSER
+agitator;Agitator;;;;;;;;;;;;x
+agitator_desc;This person can encourage people to do things through words.;;;;;;;;;;;;;x
+tub-thumper;Tub Thumper;;;;;;;;;;;;x
+tub-thumper_desc;This person make crowds listen to their cause.;;;;;;;;;;;;;x
+rabblerouser;Rabble Rouser;;;;;;;;;;;;x
+rabblerouser_desc;This person can sway a large crowd to doing what somebody wants them to do.;;;;;;;;;;;;;x
+demagogue;Demagogue;;;;;;;;;;;;x
+demagogue_desc;This person can sway an entire nation to follow somebody wishes.;;;;;;;;;;;;;x
+#ARCHITECT SKILL
+aspiring_architect;Aspiring Architect;;;;;;;;;;;;x
+aspiring_architect_desc;This person is a Aspiring Architect.So far this person knows how to make things cheaper but not faster.;;;;;;;;;;;;;x
+architect;Architect;;;;;;;;;;;;x
+architect_desc;This person is an Architect that will make buildings cheaper and faster.;;;;;;;;;;;;;x
+great_architect;Great Architect;;;;;;;;;;;;x
+great_architect_desc;This person is world famous. The Great Architect may have built wonders or built an impressive building.;;;;;;;;;;;;;x
+#VICTOR (ROMANS LIKES THESE PEOPLE)
+vanquisher;Vanquisher;;;;;;;;;;;;x
+vanquisher_desc;This Roman have been known as a Vanquisher of foes.;;;;;;;;;;;;;x
+great_vanquisher;Great Vanquisher;;;;;;;;;;;;x
+great_vanquisher_desc;This Roman is a Great Vanquisher of foes, the people love this Roman.;;;;;;;;;;;;;x
+conqueror;Conqueror;;;;;;;;;;;;x
+conqueror_desc;This Roman is a Conqueror of nations. This Roman Came,Saw and Conquered.;;;;;;;;;;;;;x
+#VICTOR (OTHERS CULTURES LIKE THESE PEOPLE)
+victor;Victor;;;;;;;;;;;;x
+victor_desc;This Person have been Victorious in wars lately.;;;;;;;;;;;;;x
+famous_victor;Famous Victor;;;;;;;;;;;;x
+famous_victor_desc;This person have become famous for the recent Victory.;;;;;;;;;;;;;x
+conquering_hero;Conquering Hero;;;;;;;;;;;;x
+conquering_hero_desc;This person have become legendary for conquering a nation. This person shall be remembered as a hero!;;;;;;;;;;;;;x
+#EPICUREAN
+gourmet_of_life;Gourmet of Life;;;;;;;;;;;;x
+gourmet_of_life_desc;This person likes the pleasures of Life.;;;;;;;;;;;;;x
+refined_tastes;Refined Tastes;;;;;;;;;;;;x
+refined_tastes_desc;This person revels in expensive.;;;;;;;;;;;;;x
+rarified_tastes;Rarefied Tastes;;;;;;;;;;;;x
+rarified_tastes_desc;This person demands nothing more than the rarest and the most expensive of life.;;;;;;;;;;;;;x
+#STOIC
+restrained;Restrained;;;;;;;;;;;;x
+restrained_desc;This person tend to act in a calm manner.;;;;;;;;;;;;;x
+cold_manner;Cold Manner;;;;;;;;;;;;x
+cold_manner_desc;This person haven't been showing much emotions, making them seem cold-hearted.;;;;;;;;;;;;;x
+stoic;Stoic;;;;;;;;;;;;x
+stoic_desc;This person dedicated to the pursuit of all things knowledgeable and have renounced all emotions.;;;;;;;;;;;;;x
+#AUSTERE
+stern;Stern;;;;;;;;;;;;x
+stern_desc;This person doesn't enjoy being flashy.;;;;;;;;;;;;;x
+spartan;Spartan;;;;;;;;;;;;x
+spartan_desc;This person is either grown up in a Spartan environment or this person have very few items of wealth.;;;;;;;;;;;;;x
+austere;Austere;;;;;;;;;;;;x
+austere_desc;This person avoids anything that they may consider "wealthy". They tend to give more money away than they earn.;;;;;;;;;;;;;x
+self_enforced_poverty;Self Enforced Poverty;;;;;;;;;;;;x
+self_enforced_poverty_desc;This person have given all that they own to spend the rest of their life in Poverty. Presumably to be considered holy if not messianic.;;;;;;;;;;;;;x
+#AESTHETICS
+lover_of_beauty;Lover of Beauty;;;;;;;;;;;;x
+lover_of_beauty_desc;This person enjoys looking at beautiful things such as art or music.;;;;;;;;;;;;;x
+connoisseur;Connoisseur;;;;;;;;;;;;x
+connoisseur_desc;This person is well versed in the fine arts world.;;;;;;;;;;;;;x
+aesthete;Aesthete;;;;;;;;;;;;x
+aesthete_desc;This person surrounds themselves of pure beauty and judge everything in terms of Aesthetics. No ugliness is allowed!;;;;;;;;;;;;;x
+#APICIAN ROMAN VICE (NEED GLUTTON FOR APICIAN_GLUTTON)
+gourmand;Gourmand;;;;;;;;;;;;x
+gourmand_desc;This person likes to eat many rare things.;;;;;;;;;;;;;x
+apician_glutton;Apician Glutton;;;;;;;;;;;;x
+apician_glutton_desc;This person gorge themselves on highly expensive food just for the sake of it.;;;;;;;;;;;;;x
+#IGNORANCE
+ignorant;Ignorant;;;;;;;;;;;;x
+ignorant_desc;This person is Ignorant of the world around them.;;;;;;;;;;;;;x
+very_ignorant;Very Ignorant;;;;;;;;;;;;x
+very_ignorant_desc;This person is very Ignorant of the world around them.;;;;;;;;;;;;;x
+willfully_ignorant;Wilfully Ignorant;;;;;;;;;;;;x
+willfully_ignorant_desc;This person is Ignorant of the world around them and proud of it. Some consider these people an embarrassment.;;;;;;;;;;;;;x
+#GAMBLING
+likes_a_fluttler;Likes a Flutter;;;;;;;;;;;;x
+likes_a_fluttler_desc;This person likes to spend a few coins on games of chance.;;;;;;;;;;;;;x
+gambler;Gambler;;;;;;;;;;;;x
+gambler_desc;This person likes to gamble most of their money for the thrill.;;;;;;;;;;;;;x
+inveterate_gambler;Inveterate Gambler;;;;;;;;;;;;x
+inveterate_gambler_desc;This person is addicted to gambling and now spends time trying to get more money by any means.;;;;;;;;;;;;;x
+ruled_by_luck;Ruled by Luck;;;;;;;;;;;;x
+ruled_by_luck_desc;This person is so obsessed with gambling that the now make their decisions by flipping a two headed coin.;;;;;;;;;;;;;x
+#BRAG
+self_publicist;Self Publicist;;;;;;;;;;;;x
+self_publicist_desc;This person have made a book that speaks fondly of them.;;;;;;;;;;;;;x
+spin_doctor;Spin Doctor;;;;;;;;;;;;x
+spin_doctor_desc;This person tends to make themselves or someone else look far better than they should be.;;;;;;;;;;;;;x
+narcissist;Narcissist;;;;;;;;;;;;x
+narcissist_desc;This person considers themselves as perfect in every way and will tell everyone around them.;;;;;;;;;;;;;x
+#ASSASSIN MASTER
+clean_hands;Clean Hands;;;;;;;;;;;;x
+clean_hands_desc;People tend to die around this person but no one can really prove who done it.;;;;;;;;;;;;;x
+killer_from_necessity;Killer from Necessity;;;;;;;;;;;;x
+killer_from_necessity_desc;Death tends to follow whenever this person visits, is this person cursed? or something else is going on?;;;;;;;;;;;;;x
+master_of_assassins;Master of Assassins;;;;;;;;;;;;x
+master_of_assassins_desc;This person have been found out as a master of some assassins. That explains the strange deaths!;;;;;;;;;;;;;x
+#SPYCATCHER
+counter_spy;Counter Spy;;;;;;;;;;;;x
+counter_spy_desc;This person knows how to prevent spies from doing their jobs.;;;;;;;;;;;;;x
+counter_espionage;Counter Espionage;;;;;;;;;;;;x
+counter_espionage_desc;This person knows how to break spy rings, decode messages and other things spies use.;;;;;;;;;;;;;x
+spycatcher;Spy Catcher;;;;;;;;;;;;x
+spycatcher_desc;This person have managed to catch spies, this is quite dangerous for any spies to stay.;;;;;;;;;;;;;x
+#ASSASSINCATCHER (ONLY GET IF LIVES ASSASSIN ATTEMPTS)
+survivor;Survivor;;;;;;;;;;;;x
+survivor_desc;This person have survived assassinations. Was it sheer luck?;;;;;;;;;;;;;x
+expert_survivor;Expert Survivor;;;;;;;;;;;;x
+expert_survivor_desc;This person have survived many attempts making it far harder for plotters to get a dagger in them.;;;;;;;;;;;;;x
+immune_to_death?;Immune to Death?;;;;;;;;;;;;x
+immune_to_death?_desc;Despite any attempts and various things to kill this person, they refuse to die. Is the gods protecting them?;;;;;;;;;;;;;x
+#SPY GOOD
+sneaky;Sneaky;;;;;;;;;;;;x
+sneaky_desc;This person have been well known for sneaking past the guards at night.;;;;;;;;;;;;;x
+spy;Spy;;;;;;;;;;;;x
+spy_desc;This person is a spy willing to do someone dirty work.;;;;;;;;;;;;;x
+superior_spy;Superior Spy;;;;;;;;;;;;x
+superior_spy_desc;This person is a Superior spy willing to do someone dirty work.;;;;;;;;;;;;;x
+expert_spy;Expert Spy;;;;;;;;;;;;x
+expert_spy_desc;This person is a Expert spy willing to do someone dirty work.;;;;;;;;;;;;;x
+master_spy;Master Spy;;;;;;;;;;;;x
+master_spy_desc;This person is a Master spy willing to do someone dirty work.;;;;;;;;;;;;;x
+#SPY BAD
+poor_spy;Poor Spy;;;;;;;;;;;;x
+poor_spy_desc;This person is trying but failing to be a spy.;;;;;;;;;;;;;x
+inferior_spy;Inferior Spy;;;;;;;;;;;;x
+inferior_spy_desc;This person can't seem to spy as well as others.;;;;;;;;;;;;;x
+useless_spy;Useless Spy;;;;;;;;;;;;x
+useless_spy_desc;Perhaps this person should look for a different job.;;;;;;;;;;;;;x
+#ASSASSIN GOOD
+cutthroat;Cut Throat;;;;;;;;;;;;x
+cutthroat_desc;This person have a disturbing fascination to taking someone life.;;;;;;;;;;;;;x
+murderer;Murderer;;;;;;;;;;;;x
+murderer_desc;This person have killed in cold blood.;;;;;;;;;;;;;x
+assassin;Assassin;;;;;;;;;;;;x
+assassin_desc;This person have a started to obtain a name for themselves for killing others.;;;;;;;;;;;;;x
+expert_assassin;Expert Assassin;;;;;;;;;;;;x
+expert_assassin_desc;This person is an expert in killing others, those who name is on the list, beware!;;;;;;;;;;;;;x
+master_assassin;Master Assassin;;;;;;;;;;;;x
+master_assassin_desc;This person have never seen failure when their strike their targets. Flee if you must!;;;;;;;;;;;;;x
+#ASSASSIN BAD
+inept_poisoner;Inept Poisoner;;;;;;;;;;;;x
+inept_poisoner_desc;This person have failed to kill someone, thankfully it might have been a mistake?;;;;;;;;;;;;;x
+poor_murderer;Poor Murderer;;;;;;;;;;;;x
+poor_murderer_desc;This person tried to kill someone but so far nothing. Maybe their not cut out for the job?;;;;;;;;;;;;;x
+useless_assassin;Useless Assassin;;;;;;;;;;;;x
+useless_assassin_desc;This person needs to start looking for a different job before they get caught again.;;;;;;;;;;;;;x
+#PERSONAL SECURITY BAD (NEED TRUSTFUL FOR TRUSTING_FOOL)
+careless;Careless;;;;;;;;;;;;x
+careless_desc;This person is rather careless, misplacing items and forgetting minor problems.;;;;;;;;;;;;;x
+careless_of_security;Careless of Security;;;;;;;;;;;;x
+careless_of_security_desc;This person feels so safe that they forget to bring their bodyguards with them. This might come back to haunt them.;;;;;;;;;;;;;x
+trusting_fool;Trusting Fool;;;;;;;;;;;;x
+trusting_fool_desc;This person either doesn't understand or care that people might what them dead.;;;;;;;;;;;;;x
+#PERSONAL SECURITY GOOD
+watchful;Watchful;;;;;;;;;;;;x
+watchful_desc;This person tends to keep a close eye around them.;;;;;;;;;;;;;x
+security_conscious;Security Conscious;;;;;;;;;;;;x
+security_conscious_desc;This person know what someone is out to get them and tend to have a bodyguard next to them at all times.;;;;;;;;;;;;;x
+obessed_by_security;Obsessed by Security;;;;;;;;;;;;x
+obessed_by_security_desc;This person surrounds themselves with bodyguards,even in bath and bed.;;;;;;;;;;;;;x
+#TRUSTING (LEAD UP TO TRUSTING TRAIT)
+no_enemies;No Enemies;;;;;;;;;;;;x
+no_enemies_desc;This person thinks that everyone loves them.;;;;;;;;;;;;;x
+ingenuous;Ingenuous;;;;;;;;;;;;x
+ingenuous_desc;This person sees people without hate or malice towards them.;;;;;;;;;;;;;x
+#PARANOIA (LEAD UP TO PARANOID TRAIT)
+scant_trust;Scant Trust;;;;;;;;;;;;x
+scant_trust_desc;This person doesn't like to trust others.;;;;;;;;;;;;;x
+suspicious;Suspicious;;;;;;;;;;;;x
+suspicious_desc;This person suspects others more than most.;;;;;;;;;;;;;x
+a_bit_paranoid;A Bit Paranoid;;;;;;;;;;;;x
+a_bit_paranoid_desc;This person thinks people are out to get them. Maybe they are right but...;;;;;;;;;;;;;x
+#DIPLOMAT GOOD
+tactful;Tactful;;;;;;;;;;;;x
+tactful_desc;This person knows what to say without causing offence.;;;;;;;;;;;;;x
+courteous;Courteous;;;;;;;;;;;;x
+courteous_desc;This person knows what to do and say without causing offence to others. A little bow goes a long way.;;;;;;;;;;;;;x
+diplomatic;Diplomatic;;;;;;;;;;;;x
+diplomatic_desc;This person can hold their tongue if offence is suspected.;;;;;;;;;;;;;x
+polished_diplomat;Polished Diplomat;;;;;;;;;;;;x
+polished_diplomat_desc;This person can say hurtful things to someone and still make it like honey.;;;;;;;;;;;;;x
+expert_diplomat;Expert Diplomat;;;;;;;;;;;;x
+expert_diplomat_desc;This person can stop entire wars with their tongue.;;;;;;;;;;;;;x
+#DIPLOMAT BAD
+tactless;Tactless;;;;;;;;;;;;x
+tactless_desc;This person have a habit of saying what on their mind, even if it cause offence.;;;;;;;;;;;;;x
+discourteous;Discourteous;;;;;;;;;;;;x
+discourteous_desc;This person cares little for common courteous behaviour, a little bow is shameful to their eyes.;;;;;;;;;;;;;x
+undiplomatic;Undiplomatic;;;;;;;;;;;;x
+undiplomatic_desc;This person will offend many if they can.Honey like words is for weaklings.;;;;;;;;;;;;;x
+#LIAR (DECIEVER NEEDED FOR THESE TRAITS)
+untruthful;Untruthful;;;;;;;;;;;;x
+untruthful_desc;This person is known for the lack of trustfulness of their words..;;;;;;;;;;;;;x
+economical_with_the_truth;Economical with the Truth;;;;;;;;;;;;x
+economical_with_the_truth_desc;This person have been caught out lying to others but still lies to avoid trouble.;;;;;;;;;;;;;x
+liar;Liar;;;;;;;;;;;;x
+liar_desc;This person cannot speak many truths without others suspecting falsehood. Don't hire this person for shepherding!;;;;;;;;;;;;;x
+pathological_liar;Pathological Liar;;;;;;;;;;;;x
+pathological_liar_desc;No matter how hard this person tries, lies spew out of their mouth. Even in death lies will come out.;;;;;;;;;;;;;x
+#RICH BAD (STARTS GETTING THESES TRAITS WHEN RICH 1K+ GOLD)
+finacially_irregular;Financially Irregular;;;;;;;;;;;;x
+finacially_irregular_desc;This person seem to earn more gold than than normal..;;;;;;;;;;;;;x
+fiscally_flexible;Fiscally Flexible;;;;;;;;;;;;x
+fiscally_flexible_desc;This person is strongly suspect to skimming a few coins of the treasury.;;;;;;;;;;;;;x
+embezzler;Embezzler;;;;;;;;;;;;x
+embezzler_desc;This person have been caught red handed and now only fools shall give them a job involving coins.;;;;;;;;;;;;;x
+#DECEIVER (LIKE LIAR BUT BOTH LEADS TO IT)
+sly;Sly;;;;;;;;;;;;x
+sly_desc;This person have a strange habit of avoiding trouble with their silver tongue.;;;;;;;;;;;;;x
+#UPRIGHT (NEVER DO ANYTHING FOR OWN GAIN)
+trusty;Trusty;;;;;;;;;;;;x
+trusty_desc;This person can be trusted with your coins.;;;;;;;;;;;;;x
+upright;Upright;;;;;;;;;;;;x
+upright_desc;This person can be trusted with your own life if it must come to that.;;;;;;;;;;;;;x
+#CORRUPT
+flexible;Flexible;;;;;;;;;;;;x
+flexible_desc;This person considers laws to be bendable.;;;;;;;;;;;;x
+dubious;Dubious;;;;;;;;;;;;x
+dubious_desc;This person have appointed friends and family to high places. Is this person corrupt?;;;;;;;;;;;;;x
+corrupt;Corrupt;;;;;;;;;;;;x
+corrupt_desc;This person have been outed as Corrupt, the peasants are angry, might want to remove them before anything "bad" happens to them.;;;;;;;;;;;;;x
+#AUTHORITARIAN (TROOPS LOVE THESE TRAITS EXPECT PEASANTS )
+strict;Strict;;;;;;;;;;;;x
+strict_desc;This person tends to be strict around others. Shortcomings is not tolerated.;;;;;;;;;;;;;x
+authoritarian;Authoritarian;;;;;;;;;;;;x
+authoritarian_desc;This person have punished others for shortcoming or even supposed lack of discipline.;;;;;;;;;;;;;x
+whips_and_canes;Whipper and Caner;;;;;;;;;;;;x
+whips_and_canes_desc;This person have been seen whipping children for petty errors.;;;;;;;;;;;;;x
+#AUTHORITARIAN GOVERNER (OTHER PEOPLE LOVE THESE TRAITS EXPECT PEASANTS)
+strict_governor;Strict Governor;;;;;;;;;;;;x
+strict_governor_desc;This person sees lawbreakers dimly and tend to punish peasants for minor crimes..;;;;;;;;;;;;;x
+harsh_governer;Harsh Governor;;;;;;;;;;;;x
+harsh_governer_desc;This person does not care for such petty things called "morals" when punishment is metered out towards the peasants.;;;;;;;;;;;;;x
+authoritarian_governer;Authoritarian Governor;;;;;;;;;;;;x
+authoritarian_governer_desc;This person acts more like a tyrant than a governor. Even Draco will cry out in outrage for the harsh nature of the they rule.;;;;;;;;;;;;;x
+#NON AUTHORITARIAN GOVERNER
+considerate_governor;Considerate Governor;;;;;;;;;;;;x
+considerate_governor_desc;This person feels that the peasants should be looked after. Lawbreakers are given mercy if they so desire.;;;;;;;;;;;;;x
+benevolent_governor;Benevolent Governor;;;;;;;;;;;;x
+benevolent_governor_desc;This person punish lawbreakers but is also fair to the peasants.;;;;;;;;;;;;;x
+liberal_governer;Liberal Governor;;;;;;;;;;;;x
+liberal_governer_desc;This person would allow anyone or anything to happen if it means the peasants are happy. Many peasants enjoy their freedom.;;;;;;;;;;;;;x
+#DISLOYAL (WILL BE LESS WILLING TO FIGHT FOR LEIGE)
+apparently_loyal;Apparent Loyalty;;;;;;;;;;;;x
+apparently_loyal_desc;This person seems to loyal but few evidence show that they are truly loyal.;;;;;;;;;;;;;x
+doubtful_loyalties;Doubtful Loyalties;;;;;;;;;;;;x
+doubtful_loyalties_desc;Others suspect that this person is not really loyal to their liege but no one can prove it...Yet.;;;;;;;;;;;;;x
+disloyal;Disloyal;;;;;;;;;;;;x
+disloyal_desc;This person have shown their true colours, turncoat or otherwise this person betrayed their liege.;;;;;;;;;;;;;x
+starscream;Blatantly Disloyal;;;;;;;;;;;;x
+starscream_desc;This person care little for loyalty, if they can get ahead then they shall shops yours off first.;;;;;;;;;;;;;x
+#LOYAL (WILL NEVER BETRAY LEGIE)
+publicly_loyal;Publicly Loyal;;;;;;;;;;;;x
+publicly_loyal_desc;This person boast more than most of their loyalty to their liege but few evidence show that they are truely loyal.;;;;;;;;;;;;;x
+proven_loyalties;Proven Loyalties;;;;;;;;;;;;x
+proven_loyalties_desc;This person have proven their loyalties in act of valour or battle.;;;;;;;;;;;;;x
+loyal;Loyal;;;;;;;;;;;;x
+loyal_desc;This person is loyal and will not betray you or their liege.;;;;;;;;;;;;;x
+fanatically_loyal;Fanatically Loyal;;;;;;;;;;;;x
+fanatically_loyal_desc;This person will never betray someone even if they betray them.;;;;;;;;;;;;;x
+#SMOOTH TALKER
+plausible;Plausible Talker;;;;;;;;;;;;x
+plausible_desc;This person have talked their way out of sticky problems for some time.;;;;;;;;;;;;;x
+slick;Slick Talker;;;;;;;;;;;;x
+slick_desc;This person can sell or convince to do something without them knowing that they been duped.;;;;;;;;;;;;;x
+smooth_talker;Smooth Talker;;;;;;;;;;;;x
+smooth_talker_desc;Men or women beware! This person will make you do things without you even suspecting a thing!;;;;;;;;;;;;;x
+#CUCKOLD
+subject_to_rumours;Subject to Rumours;;;;;;;;;;;;x
+subject_to_rumours_desc;This women have been suspected of adultery, thankfully for her no-one have talked to the husband first..;;;;;;;;;;;;;x
+cuckold;Cuckold;;;;;;;;;;;;x
+cuckold_desc;This man have been found without a loyal wife and many snicker behind him for his lack of control.;;;;;;;;;;;;;x
+outraged_husband;Outraged Husband;;;;;;;;;;;;x
+outraged_husband_desc;This women have been caught by their husband while having a affair, many feel that she will learn from this.;;;;;;;;;;;;;x
+#FARMER GOOD
+grower;Grower;;;;;;;;;;;;x
+grower_desc;This person enjoys growing things in the gardens and have dreams of owning a farm.;;;;;;;;;;;;;x
+farmer;Farmer;;;;;;;;;;;;x
+farmer_desc;This person currently owns farms and is enjoying it.;;;;;;;;;;;;;x
+agriculturalist;Agriculturalist;;;;;;;;;;;;x
+agriculturalist_desc;This person have many farms and is enjoying the success and wealth that the farms bring.;;;;;;;;;;;;;x
+#FARMER BAD
+poor_farming;Poor Farmer;;;;;;;;;;;;x
+poor_farming_desc;This person have tried but failed to produce a good harvest.;;;;;;;;;;;;;x
+dislikes_farming;Dislikes Farming;;;;;;;;;;;;x
+dislikes_farming_desc;This person have given up on the farm and now hires other farmers to work on the farm.;;;;;;;;;;;;;x
+loathes_farmers;Loathes Farmers;;;;;;;;;;;;x
+loathes_farmers_desc;This person hates the farmers that live on the farms as they are more successful. They take that rage towards other farmers in the land as well.;;;;;;;;;;;;;x
+#MINER GOOD
+miner;Miner;;;;;;;;;;;;x
+miner_desc;This person worked in the mines before working for the state.;;;;;;;;;;;;;x
+superior_miner;Superior Miner;;;;;;;;;;;;x
+superior_miner_desc;This person is quite skilled in the mines, bringing those skills to improve the land.;;;;;;;;;;;;;x
+expert_miner;Expert Miner;;;;;;;;;;;;x
+expert_miner_desc;This person was a expert in the mines before leaving and now uses that knowledge to great effect across the lands.;;;;;;;;;;;;;x
+# MINER BAD
+indifferent_miner;Indifferent Miner;;;;;;;;;;;;x
+indifferent_miner_desc;This person either tried to succeed or struggled to work in the mines. The lack of skills makes it hard for them to enjoy the harsh world of mining.;;;;;;;;;;;;;x
+poor_miner;Poor Miner;;;;;;;;;;;;x
+poor_miner_desc;This person have failed to succeed or was fired from the mines for the lack of skills.;;;;;;;;;;;;;x
+bad_mine_manager;Bad Mine Manager;;;;;;;;;;;;x
+bad_mine_manager_desc;This person has the embarrassing honour of making a mine become bankrupt. This lack of skill is now effecting the other mines.;;;;;;;;;;;;;x
+#ENGINEER GOOD
+engineer;Engineer;;;;;;;;;;;;x
+engineer_desc;This person have built war machines for others and is using that skills to improve the land.;;;;;;;;;;;;;x
+superior_engineer;Superior Engineer;;;;;;;;;;;;x
+superior_engineer_desc;This person have built complex war machines and have been quite skilled at the art of designing other machines.;;;;;;;;;;;;;x
+master_engineer;Master Engineer;;;;;;;;;;;;x
+master_engineer_desc;This person can be expected to design and build anything that others may baulk at. Flying machines or steel horses may is this engineer forte.;;;;;;;;;;;;;x
+#ENGINEER BAD
+inferior_engineer;Inferior Engineer;;;;;;;;;;;;x
+inferior_engineer_desc;This person have built some shoddy war machines for others and they tend to find themselves with foolish patrons.;;;;;;;;;;;;;x
+bad_engineer;Bad Engineer;;;;;;;;;;;;x
+bad_engineer_desc;This person have made dangerous war machines that was more deadly for the troops than the enemy.;;;;;;;;;;;;;x
+appalling_engineer;Appalling Engineer;;;;;;;;;;;;x
+appalling_engineer_desc;This person is a threat to everyone around them when they create anything. Chairs with legs point the wrong way or even a bed with a post in the middle of it have been seen.;;;;;;;;;;;;;x
+#TRADER GOOD
+trader;Trader;;;;;;;;;;;;x
+trader_desc;This person used to be a trader before they worked at the state.;;;;;;;;;;;;;x
+superior_trader;Superior Trader;;;;;;;;;;;;x
+superior_trader_desc;This person used to be a trader and was able to get trade-goods and contracts better than others.;;;;;;;;;;;;;x
+master_trader;Master Trader;;;;;;;;;;;;x
+master_trader_desc;This person used to be a trader and was able to buy and sell anything of value, trade will flourish under this person.;;;;;;;;;;;;;x
+#TRADER BAD
+poor_trader;Poor Trader;;;;;;;;;;;;x
+poor_trader_desc;This person used to trade before loosing too many trade deals and cash.;;;;;;;;;;;;;x
+inferior_trader;Inferior Trader;;;;;;;;;;;;x
+inferior_trader_desc;This person doesn't understand the phrase Buy low, Sell high. Rather they would do the opposite.;;;;;;;;;;;;;x
+appalling_trader;Appalling Trader;;;;;;;;;;;;x
+appalling_trader_desc;This person is a danger to any coin owning trader, ships have found themselves with less cash than goods and entire trade companies have collapsed under their rule.;;;;;;;;;;;;;x
+#JUST (LEADS TO JUST AND ABSOLUTELY_JUST NEEDS JUST)
+even_handed;Even Handed;;;;;;;;;;;;x
+even_handed_desc;This person is well known for the fair nature of the judgements this person hands out.;;;;;;;;;;;;;x
+absolutely_just;Absolutely Just;;;;;;;;;;;;x
+absolutely_just_desc;The law is the law and none shall be wronged under this person.;;;;;;;;;;;;;x
+#UNJUST 
+judgemental;Judgemental;;;;;;;;;;;;x
+judgemental_desc;This person tends to find themselves handing out judgements without listening to the evidence.;;;;;;;;;;;;;x
+wrong_headed;Wrong Headed;;;;;;;;;;;;x
+wrong_headed_desc;This person is known for the lack of justice if the "wrong sort" of people are shown to them.;;;;;;;;;;;;;x
+unjust;Unjust;;;;;;;;;;;;x
+unjust_desc;The law is mine to use! Justice is a fool errand for this person.;;;;;;;;;;;;;x
+#HARSH JUSTICE
+punisher;Punisher;;;;;;;;;;;;x
+punisher_desc;This person is well known for the surprising harshness of their judgements.;;;;;;;;;;;;;x
+severe_punisher;Severe Punisher;;;;;;;;;;;;x
+severe_punisher_desc;This person does not care for mercy and tend to kill others for seemly minor crimes.;;;;;;;;;;;;;x
+harsh_punisher;Harsh Punisher;;;;;;;;;;;;x
+harsh_punisher_desc;This person have been known for demanding executions of children or petty crimes.;;;;;;;;;;;;;x
+# KIND JUSTICE
+lenient;Lenient;;;;;;;;;;;;x
+lenient_desc;This person doesn't like to hand out punishments that seem too harsh. Executions are rare under their rule.;;;;;;;;;;;;;x
+merciful_judge;Merciful Judge;;;;;;;;;;;;x
+merciful_judge_desc;This person tends to avoid executions, rather they prefer blood money or banishments.;;;;;;;;;;;;;x
+kind_judge;Kind Judge;;;;;;;;;;;;x
+kind_judge_desc;This person is well known among the land for the lack of harsh punishments. Making this difficult for those who are wronged toa accept.;;;;;;;;;;;;;x
+# HARSH RULER
+heartless_ruler;Heartless Ruler;;;;;;;;;;;;x
+heartless_ruler_desc;This ruler is known for the callous nature of their perception of their subjects.;;;;;;;;;;;;;x
+harsh_ruler;Harsh Ruler;;;;;;;;;;;;x
+harsh_ruler_desc;This ruler is known for the harsh and almost tyrannical nature of their rule.;;;;;;;;;;;;;x
+cruel_ruler;Cruel Ruler;;;;;;;;;;;;x
+cruel_ruler_desc;This ruler enjoys the suffering of their subjects.;;;;;;;;;;;;;x
+sadistic_ruler;Sadistic Ruler;;;;;;;;;;;;x
+sadistic_ruler_desc;This ruler finds the suffering of people almost erotic and tends to think of ever increasing sadistic punishments or games.;;;;;;;;;;;;;x
+#KIND RULER
+benevolent_ruler;Benevolent Ruler;;;;;;;;;;;;x
+benevolent_ruler_desc;This ruler is known for the rather soft touch towards their subjects.;;;;;;;;;;;;;x
+benign_ruler;Benign Ruler;;;;;;;;;;;;x
+benign_ruler_desc;This ruler is known for the kind and gentle nature of their rule.;;;;;;;;;;;;;x
+humane_ruler;Humane Ruler;;;;;;;;;;;;x
+humane_ruler_desc;This ruler never seems to hurt any of their subjects. Even the peasants have rights!;;;;;;;;;;;;;x
+#BUILDER GOOD
+superior_builder;Superior Builder;;;;;;;;;;;;x
+superior_builder_desc;This person is well known for the large constructions under their stead.;;;;;;;;;;;;;x
+excellent_builder;Excellent Builder;;;;;;;;;;;;x
+excellent_builder_desc;This person is well known for the high quality of the buildings under their stead.;;;;;;;;;;;;;x
+great_builder;Great Builder;;;;;;;;;;;;x
+great_builder_desc;This person is legendary for the constructions under their stead.;;;;;;;;;;;;;x
+#BUILDER BAD
+indifferent_builder;Indifferent Builder;;;;;;;;;;;;x
+indifferent_builder_desc;This person is well known for the shoddy work done on buildings under their stead.;;;;;;;;;;;;;x
+inferior_builder;Inferior Builder;;;;;;;;;;;;x
+inferior_builder_desc;This person is quite well known for the often dangerous work done on buildings under their stead.;;;;;;;;;;;;;x
+appalling_builder;Appalling Builder;;;;;;;;;;;;x
+appalling_builder_desc;This person is infamous for the disastrous work done on buildings under their stead.;;;;;;;;;;;;;x
+#HAPPY
+positive;Positive;;;;;;;;;;;;x
+positive_desc;This person considers the current moment to be quite good.;;;;;;;;;;;;;x
+optimistic;Optimistic;;;;;;;;;;;;x
+optimistic_desc;This person considers the current moment to be improving.;;;;;;;;;;;;;x
+#CALMNESS
+calm;Calm;;;;;;;;;;;;x
+calm_desc;This person doesn't see anything to be right or wrong right now.;;;;;;;;;;;;;x
+composed;Composed;;;;;;;;;;;;x
+composed_desc;This person seems to be content right now.;;;;;;;;;;;;;x
+#SADNESS (LEADS TO DEPRESSION)
+gloomy;Gloomy;;;;;;;;;;;;x
+gloomy_desc;This person had a bad time recently and is feeling gloomy.;;;;;;;;;;;;;x
+morose;Morose;;;;;;;;;;;;x
+morose_desc;This person had something awful happen to them and now is morose about life.;;;;;;;;;;;;;x
+melancholic;Melancholic;;;;;;;;;;;;x
+melancholic_desc;This person is on the edge of despair thanks to a terrible event or loss recently.;;;;;;;;;;;;;x
+#ANGER (LEADS TO WROTH)
+testy;Testy;;;;;;;;;;;;x
+testy_desc;This person is not happy about something right now and is willing to complain about something.;;;;;;;;;;;;;x
+cantankerous;Cantankerous;;;;;;;;;;;;x
+cantankerous_desc;This person is angry about something right now and will find things to let out steam.;;;;;;;;;;;;;x
+choleric;Choleric;;;;;;;;;;;;x
+choleric_desc;This person is extremely anger and will use this anger towards something and may attempt to kill someone.;;;;;;;;;;;;;x
+#GLADIATORS GOOD
+gladiatorial_fan;Gladiatorial Fan;;;;;;;;;;;;x
+gladiatorial_fan_desc;This person likes to see the Gladiators fights.;;;;;;;;;;;;;x
+gladiator_obsessed;Gladiator Obsessed;;;;;;;;;;;;x
+gladiator_obsessed_desc;This person spends a lot of time watching the Gladiators training.;;;;;;;;;;;;;x
+worships_gladiators;Worships Gladiators;;;;;;;;;;;;x
+worships_gladiators_desc;This person is spending all the day watching the fights and training and may even be thinking of becoming one!;;;;;;;;;;;;;x
+#GLADIATORS BAD
+no_taste_for_blood;No Taste for Bloodsports;;;;;;;;;;;;x
+no_taste_for_blood_desc;This person feels that Bloodsports are barbaric.;;;;;;;;;;;;;x
+quietly_dislikes_the_game;Quietly Dislikes the Gladiator Fights;;;;;;;;;;;;x
+quietly_dislikes_the_game_desc;This person feels that Gladiator fights should be banned but is unwilling to let other know.;;;;;;;;;;;;;x
+publicly_despises_the_games;Publicly Despises the Gladiator Fights;;;;;;;;;;;;x
+publicly_despises_the_games_desc;This person have made their feeling towards the gladiator fights known, much to the shame of their compatriots.;;;;;;;;;;;;;x
+#RACE GOOD
+race_goer;Race Goer;;;;;;;;;;;;x
+race_goer_desc;This person like to watch the races time to time.;;;;;;;;;;;;;x
+loves_races;Loves Races;;;;;;;;;;;;x
+loves_races_desc;This person loves the races and may even be thinking of becoming a racer!;;;;;;;;;;;;;x
+racer;Racer;;;;;;;;;;;;x
+racer_desc;This person have taken part of a race.;;;;;;;;;;;;;x
+champion_racer;Champion Racer;;;;;;;;;;;;x
+champion_racer_desc;This person have won races so often that they have won championships.;;;;;;;;;;;;;x
+#RACER BAD
+bored_by_race;Bored by Races;;;;;;;;;;;;x
+bored_by_race_desc;This person fails to see why watching things running around an oval is so exciting.;;;;;;;;;;;;;x
+reads_during_races;Reads during Races;;;;;;;;;;;;x
+reads_during_races_desc;This person likes to read during races, much to the disgust of other race goers.;;;;;;;;;;;;;x
+works_during_races;Works during Races;;;;;;;;;;;;x
+works_during_races_desc;This person is hated among other race goers for the blatant disregard of the race.;;;;;;;;;;;;;x
+#GENEROUS (LEADS TO GENEROUS)
+open_handed;Open Handed;;;;;;;;;;;;x
+open_handed_desc;This person is known for sharing more than others.;;;;;;;;;;;;;x
+unstinting;Unstinting;;;;;;;;;;;;x
+unstinting_desc;This person is known for handing a considerable amount of gifts to others.;;;;;;;;;;;;;x
+#MISER (LEADS TO GREEDY MAYBE)
+careful_with_money;Careful with Money;;;;;;;;;;;;x
+careful_with_money_desc;This person is known for the rather frugal manner they have towards money.;;;;;;;;;;;;;x
+tight_fisted;Tight Fisted;;;;;;;;;;;;x
+tight_fisted_desc;This person is known for not giving gifts to others unless they get a profit.;;;;;;;;;;;;;x
+miserly;Miserly;;;;;;;;;;;;x
+miserly_desc;This person is known for the total lack of gifts. A single coin that slips of their grasp is quickly hunted down and reclaimed.;;;;;;;;;;;;;x
+scrooge;Scrooge;;;;;;;;;;;;x
+scrooge_desc;This person considers charity as a fool tax, woe to those who work under this person.;;;;;;;;;;;;;x
+#FOREIGN_TASTES (PEOPLE DON'T LIKE IT WHEN YOU START LIKING OTHER CULTURES)
+foreign_interests;Interested in Foreign Cultures;;;;;;;;;;;;x
+foreign_interests_desc;This person is quite interested in the ways of other cultures.;;;;;;;;;;;;;x
+dresses_like_a_foreigner;Dresses Like a Foreigner;;;;;;;;;;;;x
+dresses_like_a_foreigner_desc;This person likes to dress up like a foreigner making others think that this person have gone "Native" on them.;;;;;;;;;;;;;x
+vulgar_foreign_tastes;Vulgar Foreign Tastes;;;;;;;;;;;;x
+vulgar_foreign_tastes_desc;This person can be seen trying to emulate foreign tastes right down to the very accent. This person have gone "Native".;;;;;;;;;;;;;x
+awful_foreign_affectation;Awful Foreign Affection;;;;;;;;;;;;x
+awful_foreign_affectation_desc;This person cannot call themselves their home culture any more, rather they are nothing more than the culture they so desire to be with.;;;;;;;;;;;;;x
+#TRUE ROMAN (HOW ROMAN IS THIS PERSON?)
+true_roman;True Roman;;;;;;;;;;;;x
+true_roman_desc;This person is considered a true Roman citizen compared to their backward cultures.;;;;;;;;;;;;;x
+good_honest_roman;Good Honest Roman;;;;;;;;;;;;x
+good_honest_roman_desc;This person have forsaken their old backward culture and now a fully romanized citizen.;;;;;;;;;;;;;x
+pinnacle_of_roman;Pinnacle of Roman;;;;;;;;;;;;x
+pinnacle_of_roman_desc;This person is nothing more than a true Roman. Any trace of their old culture is long gone now.;;;;;;;;;;;;;x
+# NOCTOPHOBIA (FEAR OF DARKNESS)
+scared_of_night;Scared of the Night;;;;;;;;;;;;x
+scared_of_night_desc;This person doesn't like to go out in the dark for fear of danger.;;;;;;;;;;;;;x
+night_terrors;Has Night Terrors;;;;;;;;;;;;x
+night_terrors_desc;This person tends to wake up at the middle of the night in terror.;;;;;;;;;;;;;x
+noctophobic;Noctophobic;;;;;;;;;;;;x
+noctophobic_desc;This person has a fear of darkness so great that they must not be able to sleep in the dark.;;;;;;;;;;;;;x
+#NOCTOPHILLA
+likes_the_dark;Likes the Dark;;;;;;;;;;;;x
+likes_the_dark_desc;This person likes the dark, it makes them feel safe.;;;;;;;;;;;;;x
+night_owl;Night Owl;;;;;;;;;;;;x
+night_owl_desc;This person spends more time out at night than the days. Maybe they used to be a wolf in their past life?;;;;;;;;;;;;;x
+noctophilic;Noctophilic;;;;;;;;;;;;x
+noctophilic_desc;This person loves the dark so much that they work in the dark.;;;;;;;;;;;;;x
+#PERVERTED (LUSTFUL NEEDED)
+immoral;Immoral;;;;;;;;;;;;x
+immoral_desc;This person have loose morals when it comes to the lust.;;;;;;;;;;;;;x
+degenerate;Degenerate;;;;;;;;;;;;x
+degenerate_desc;This person tend to enjoy things that most people consider inhumane.;;;;;;;;;;;;;x
+foul_practices;Foul Practices;;;;;;;;;;;;x
+foul_practices_desc;This person enjoys things that people feel disgust of even being there.;;;;;;;;;;;;;x
+debauched;Debauched;;;;;;;;;;;;x
+debauched_desc;This person enjoys things that tears the very moral fibre of man. Priests cry out in horror..;;;;;;;;;;;;;x
+not_safe_with_man_or_beast;Not Safe with Man or Beast;;;;;;;;;;;;x
+not_safe_with_man_or_beast_desc;Gods looks away as this person desires the unspeakable.;;;;;;;;;;;;;x
+#Sailor
+good_sailor;Good Sailor;;;;;;;;;;;;x
+good_sailor_desc;This person used to be a sailor before working for the state.;;;;;;;;;;;;;x
+nautical_expert;Nautical Expert;;;;;;;;;;;;x
+nautical_expert_desc;This person can predict the shifting of the weather before it happens. Ships are well looked after under this person.;;;;;;;;;;;;;x
+old_sea_dog;Old Sea Dog;;;;;;;;;;;;x
+old_sea_dog_desc;This person spent so long at sea that they don't know how to walk on land. The sheer skills this person shows makes the navy quite skilled.;;;;;;;;;;;;;x
+great_admiral;Great Admiral;;;;;;;;;;;;x
+great_admiral_desc;This person used to be a great admiral and is able to command any ship to do anything they desire.;;;;;;;;;;;;;x
+legendary_admiral;Legendary Admiral;;;;;;;;;;;;x
+legendary_admiral_desc;This person have become legendary for the naval expertise.;;;;;;;;;;;;;x
+#LANDLUBBER ARRR
+seasickness;Suffers from Seasickness;;;;;;;;;;;;x
+seasickness_desc;This person doesn't like going at sea. Rather they prefer to stay on land.;;;;;;;;;;;;;x
+poor_sailor;Poor Sailor;;;;;;;;;;;;x
+poor_sailor_desc;This sailor was unable to handle to tough requirements of sailing.;;;;;;;;;;;;;x
+wretched_landlubber;Wretched Landlubber;;;;;;;;;;;;x
+wretched_landlubber_desc;This person is so afraid of the sea that they will not be able to travel by sea.;;;;;;;;;;;;;x
+#SCARRED (HORRIBLY_SCARRED AND ABOVE NEED SCARRED)
+been_in_the_wars;Been in the Wars;;;;;;;;;;;;x
+been_in_the_wars_desc;This person have a few scars that is hard to see. Others find it enhances their looks.;;;;;;;;;;;;;x
+horribly_scarred;Horribly Scarred;;;;;;;;;;;;x
+horribly_scarred_desc;This person have had many scars all over themselves. War have not been kind to them.;;;;;;;;;;;;;x
+cruelly_scarred;Cruelly Scarred;;;;;;;;;;;;x
+cruelly_scarred_desc;This person have been disfigured by scars making them unsightly towards the other sex.;;;;;;;;;;;;;x
+monstrously_scarred;Monstrously Scarred;;;;;;;;;;;;x
+monstrously_scarred_desc;This person have been so disfigured by scars that children flee at the sight of them and others merely turn away in disgust.;;;;;;;;;;;;;x
+#PLOTTER GOOD
+plot_maker;Plot Maker;;;;;;;;;;;;x
+plot_maker_desc;This person have made several plots that worked in their favour.;;;;;;;;;;;;;x
+schemer;Schemer;;;;;;;;;;;;x
+schemer_desc;This person have made many plots that worked in their favour.;;;;;;;;;;;;;x
+conspirator;Conspirator;;;;;;;;;;;;x
+conspirator_desc;This person make a plot without a single problem arising.;;;;;;;;;;;;;x
+#PLOTTER BAD
+inept_plotter;Inept Plotter;;;;;;;;;;;;x
+inept_plotter_desc;This person have had their plots fail more than most.;;;;;;;;;;;;;x
+pathetic_schemer;Pathetic Schemer;;;;;;;;;;;;x
+pathetic_schemer_desc;This person have had their plots fail too often for it to be sheer luck.;;;;;;;;;;;;;x
+foolish_conspirator;Foolish Conspirator;;;;;;;;;;;;x
+foolish_conspirator_desc;This person cannot make a plot to save themselves.;;;;;;;;;;;;;x
+#TALKATIVE 
+loose_lipped;Loose Lipped;;;;;;;;;;;;x
+loose_lipped_desc;This person have got loose lips and tend to gossip.;;;;;;;;;;;;;x
+talkative;Talkative;;;;;;;;;;;;x
+talkative_desc;This person talks a lot and while it is nice at parties and feasts it's not so nice when your plotting something.;;;;;;;;;;;;;x
+foolishy_indiscreet;Foolishly Indiscreet;;;;;;;;;;;;x
+foolishy_indiscreet_desc;This person is unable to keep things discreet.;;;;;;;;;;;;;x
+secret_revealer;Cannot Keep Secrets;;;;;;;;;;;;x
+secret_revealer_desc;This person is unable to keep secrets to save themselves.;;;;;;;;;;;;;x
+#SECRETIVE
+discreet;Discreet;;;;;;;;;;;;x
+discreet_desc;This person is known for keep quite when they need to.;;;;;;;;;;;;;x
+close_mouthed;Close Mouthed;;;;;;;;;;;;x
+close_mouthed_desc;This person makes it very hard to get a full conversation but can be relied on in plots.;;;;;;;;;;;;;x
+secretive;Secretive;;;;;;;;;;;;x
+secretive_desc;Very few know what this person might be planning or thinking of whenever they talk to other people.;;;;;;;;;;;;;x
+#INFANTRY GOOD
+skilled_infantry_commander;Skilled Infantry Commander;;;;;;;;;;;;x
+skilled_infantry_commander_desc;This person is skilled when in command of Infantry.;;;;;;;;;;;;;x
+expert_infantry_commander;Expert Infantry Commander;;;;;;;;;;;;x
+expert_infantry_commander_desc;This person is an expert when in command of Infantry.;;;;;;;;;;;;;x
+infantry_commander_of_genius;Genius Infantry Commander;;;;;;;;;;;;x
+infantry_commander_of_genius_desc;This person is a genius when in command of Infantry.;;;;;;;;;;;;;x
+#INFANTRY BAD
+poor_infantry_commander;Poor Infantry Commander;;;;;;;;;;;;x
+poor_infantry_commander_desc;This person is a poor fit when in command of Infantry.;;;;;;;;;;;;;x
+inferior_infantry_commander;Inferior Infantry Commander;;;;;;;;;;;;x
+inferior_infantry_commander_desc;This person is a terrible fit when in command of Infantry.;;;;;;;;;;;;;x
+useless_infantry_commander;Useless Infantry Commander;;;;;;;;;;;;x
+useless_infantry_commander_desc;This person is useless when in command of Infantry.;;;;;;;;;;;;;x
+#CAVALRY GOOD
+skilled_cavalry_commander;Skilled Cavalry Commander;;;;;;;;;;;;x
+skilled_cavalry_commander_desc;This person is skilled when in command of Cavalry.;;;;;;;;;;;;;x
+expert_cavalry_commander;Expert Cavalry Commander;;;;;;;;;;;;x
+expert_cavalry_commander_desc;This person is an expert when in command of Cavalry.;;;;;;;;;;;;;x
+cavalry_commander_of_genius;Genius Cavalry Commander;;;;;;;;;;;;x
+cavalry_commander_of_genius_desc;This person is a genius when in command of Cavalry.;;;;;;;;;;;;;x
+# CAVALRY BAD
+poor_cavalry_commander;Poor Cavalry Commander;;;;;;;;;;;;x
+poor_cavalry_commander_desc;This person is a poor fit when in command of Cavalry.;;;;;;;;;;;;;x
+inferior_cavalry_commander;Inferior Cavalry Commander;;;;;;;;;;;;x
+inferior_cavalry_commander_desc;This person is a terrible fit when in command of Cavalry.;;;;;;;;;;;;;x
+useless_cavalry_commander;Useless Cavalry Commander;;;;;;;;;;;;x
+useless_cavalry_commander_desc;This person is useless when in command of Cavalry.;;;;;;;;;;;;;x
+#INBRED (FLAVOUR OF INBRED. NEED INBRED TO SHOW UP!)
+weak_chinned;Weak Chinned;;;;;;;;;;;;x
+weak_chinned_desc;This inbred as a weak chin.;;;;;;;;;;;;;x
+swivel_eyed;Swivel Eyed;;;;;;;;;;;;x
+swivel_eyed_desc;This inbred eyes are too large for their skull.;;;;;;;;;;;;;x
+feeble_of_brain;Feeble of Brain;;;;;;;;;;;;x
+feeble_of_brain_desc;This inbred is unable to think for themselves.;;;;;;;;;;;;;x
+thin_skulled;Thin Skull;;;;;;;;;;;;x
+thin_skulled_desc;This inbred must be careful due their thin skulls.;;;;;;;;;;;;;x
+bad_bloodline;Bad Bloodline;;;;;;;;;;;;x
+bad_bloodline_desc;This is an bad bloodline, full of inbreeding and other problems.;;;;;;;;;;;;;x
+#HANDSOME (HANDSOME NEEDED FOR NOBLE_ASPECT)
+good_looking;Good Looking;;;;;;;;;;;;x
+good_looking_desc;This person is well known for their good looks, not attractive but still better than most.;;;;;;;;;;;;;x
+noble_aspect;Noble Aspect;;;;;;;;;;;;x
+noble_aspect_desc;This person is well known for their looks, far more attractive than even the most attractive of people!;;;;;;;;;;;;;x
+goldlike_perfection;Godlike Perfection;;;;;;;;;;;;x
+goldlike_perfection_desc;The gods themselves must have crafted this person. This person beauty is almost sacrilegious!;;;;;;;;;;;;;x
+#UGLY (FLAVOUR OF UGLYNESS)
+plain_ugly;Plain;;;;;;;;;;;;x
+plain_ugly_desc;This person is simply plain, not beautiful in their own right.;;;;;;;;;;;;;x
+repellent;Repellent;;;;;;;;;;;;x
+repellent_desc;This person has a unsightly mark or some other condition that makes people unwilling to be with this person.;;;;;;;;;;;;;x
+scares_small_children;Scares Small Children;;;;;;;;;;;;x
+scares_small_children_desc;This person is so ugly that mothers have to shield their children eyes and street kids taunt this person.;;;;;;;;;;;;;x
+#FERTILE GOOD
+fruitful;Fruitful;;;;;;;;;;;;x
+fruitful_desc;This person seems to be...fuller in areas.;;;;;;;;;;;;;x
+fertile;Fertile;;;;;;;;;;;;x
+fertile_desc;This person seems to be...have more children than others..;;;;;;;;;;;;;x
+prolific;Prolific;;;;;;;;;;;;x
+prolific_desc;This person seems to be...have considerably more children than others..;;;;;;;;;;;;;x
+#FERTILE BAD
+flaccid;Flaccid;;;;;;;;;;;;x
+flaccid_desc;This man seems to be...unable to "get it up".;;;;;;;;;;;;;x
+infertile;Infertile;;;;;;;;;;;;x
+infertile_desc;This person seems to luckless with children.;;;;;;;;;;;;;x
+barren;Barren;;;;;;;;;;;;x
+barren_desc;This women seems to unable to give birth.;;;;;;;;;;;;;x
+#TAXMAN GOOD
+tax_assessor;Tax Assessor;;;;;;;;;;;;x
+tax_assessor_desc;This person job is to collect tax for the state.;;;;;;;;;;;;;x
+efficient_taxman;Efficient Tax-man;;;;;;;;;;;;x
+efficient_taxman_desc;This person is well known for the highly efficient manner in tax collection.;;;;;;;;;;;;;x
+cruelly_efficient_taxman;Cruelly Efficient Tax-man;;;;;;;;;;;;x
+cruelly_efficient_taxman_desc;This person doesn't care about the plight of others when it comes to tax collection.;;;;;;;;;;;;;x
+#TAXMAN BAD
+useless_assessor;Useless Assessor;;;;;;;;;;;;x
+useless_assessor_desc;This person seems to be failing to do their job as a tax man.;;;;;;;;;;;;;x
+inefficient_taxman;Inefficient Tax-man;;;;;;;;;;;;x
+inefficient_taxman_desc;This person is making things harder in tax collections either do to sheer stubbornness perhaps poor skills.;;;;;;;;;;;;;x
+tax_farmer;Tax farmer;;;;;;;;;;;;x
+tax_farmer_desc;This person is very good and getting tax but not to the state.;;;;;;;;;;;;;x
+#DIVORCED
+divorced;Divorced;;;;;;;;;;;;x
+divorced_desc;This person have been given a shameful mark of Divorce.;;;;;;;;;;;;;x
+#SUPERSTITIOUS
+rational_concerns;Rational Concerns;;;;;;;;;;;;x
+rational_concerns_desc;This person feels that the gods shall guide them but not directly.;;;;;;;;;;;;;x
+superstitious;Superstitious;;;;;;;;;;;;x
+superstitious_desc;This person feels that the gods are guiding them directly, but can't confirm it.;;;;;;;;;;;;;x
+hugly_superstitious;Hugely Superstitious;;;;;;;;;;;;x
+hugly_superstitious_desc;This person is convinced that the gods are guiding them directly and will take any small sign as a message of the gods.;;;;;;;;;;;;;x
+#PRAGMATIC
+rational_beliefs;Rational Beliefs;;;;;;;;;;;;x
+rational_beliefs_desc;This person feels that the gods are there but Man must make their own path.;;;;;;;;;;;;;x
+pragmatic;Pragmatic;;;;;;;;;;;;x
+pragmatic_desc;This person acts according what is important, not what is right.;;;;;;;;;;;;;x
+utterly_pragmatic;Utterly Pragmatic;;;;;;;;;;;;x
+utterly_pragmatic_desc;This person acts purely on what is important, even at a cost of their own family.;;;;;;;;;;;;;x
+#EXPENSIVE TASTES
+mildly_extravagant;Mildly Extravagant;;;;;;;;;;;;x
+mildly_extravagant_desc;This person have a habit of showing off some of their wealth.;;;;;;;;;;;;;x
+extravagant;Extravagant;;;;;;;;;;;;x
+extravagant_desc;This person have a habit of showing off their wealth at a cost of shame.;;;;;;;;;;;;;x
+wildly_extravagant;Wildly Extravagant;;;;;;;;;;;;x
+wildly_extravagant_desc;This person would rather spend more than the need to just to make everyone feel poor.;;;;;;;;;;;;;x
+#CHEAPSKATE
+downright_miserly;Downright Miserly;;;;;;;;;;;;x
+downright_miserly_desc;This person doesn't like to spend more than they need on items.;;;;;;;;;;;;;x
+cheapskate;Cheapskate;;;;;;;;;;;;x
+cheapstake_desc;This person only spends the bare minimum to get by.;;;;;;;;;;;;;x
+#HYPOCHONDRIAC (CAN BE GIVEN AFTER ILLNESS OR LOW HEALTH)
+feeling_poorly;Feeling Poorly;;;;;;;;;;;;x
+feeling_poorly_desc;This person doesn't feel well, Illness may appear soon, or they just recovered from one.;;;;;;;;;;;;;x
+given_to_ill_health;Given to Ill Health;;;;;;;;;;;;x
+given_to_ill_health_desc;This person gets ill more than others.;;;;;;;;;;;;;x
+hypochondriac;Hypochondriac;;;;;;;;;;;;x
+hypochondriac_desc;This person feels like they are ill even if they are perfectly healthy.;;;;;;;;;;;;;x
+#HALE AND HEARTY (HIGH HEALTH)
+in_the_pink;In the Pink;;;;;;;;;;;;x
+in_the_pink_desc;This person haven't been ill for some time.;;;;;;;;;;;;;x
+in_rude_health;In Rude Health;;;;;;;;;;;;x
+in_rude_health_desc;This person haven't fallen ill for a very long time.;;;;;;;;;;;;;x
+hale_and_hearty;Hale and Hearty;;;;;;;;;;;;x
+hale_and_hearty_desc;This person might never fall ill.;;;;;;;;;;;;;x
+#INSANE (FLAVOUR OF INSANE)
+hooting;Hooting;;;;;;;;;;;;x
+hooting_desc;This person is insane and hoots like an owl, making it unnerving for onlookers to be around.;;;;;;;;;;;;;x
+recluse;Recluse;;;;;;;;;;;;x
+recluse_desc;This person is insane and hides away from others, making it unnerving for onlookers to be around.;;;;;;;;;;;;;x
+talks_to_self;Talks to Self;;;;;;;;;;;;x
+talks_to_self_desc;This person is insane and likes to talk to themselves, making it unnerving for onlookers to be around.;;;;;;;;;;;;;x
+giggles_at_nothing;Giggles at Nothing;;;;;;;;;;;;x
+giggles_at_nothing_desc;This person is insane and likes to giggle at completely random times, making it unnerving for onlookers to be around.;;;;;;;;;;;;;x
+#BLOODTHIRSTY
+bloody;Bloody;;;;;;;;;;;;x
+bloody_desc;This person likes the sight of blood more than others.;;;;;;;;;;;;;x
+sanguinary;Sanguinary;;;;;;;;;;;;x
+sanguinary_desc;This person enjoys blood more than a healthy manner.;;;;;;;;;;;;;x
+bloodthirsty;Bloodthirsty;;;;;;;;;;;;x
+bloodthirsty_desc;This person enjoys blood to the point of drinking it.;;;;;;;;;;;;;x
+bathes_in_blood;Bathes in Blood;;;;;;;;;;;;x
+bathes_in_blood_desc;This person loves blood so much, they are bathing in it and they blood-lust is insatiable.;;;;;;;;;;;;;x
+#HAEMOPHOBIC
+lily_livered;Lily Livered;;;;;;;;;;;;x
+lily_livered_desc;This person pales at the sight of blood.;;;;;;;;;;;;;x
+hates_blood;Hates Blood;;;;;;;;;;;;x
+hates_blood_desc;This person doesn't like to look at blood and tend to avoid bloody scenes.;;;;;;;;;;;;;x
+terrified_by_blood;Terrified by Blood;;;;;;;;;;;;x
+terrified_by_blood_desc;This person is unable to look at blood without fainting.;;;;;;;;;;;;;x
+#WROTH 
+unquenched_anger;Unquenched Anger;;;;;;;;;;;;x
+unquenched_anger_desc;This person is very quick to anger and many servants walk away with bruises.;;;;;;;;;;;;;x
+uncontrollable_rage;Uncontrollable Rage;;;;;;;;;;;;x
+uncontrollable_rage_desc;This person is terrifying to be around when angry and servants are unable to withstand the savage beatings.;;;;;;;;;;;;;x
+#PIOUS
+reverent;Reverent;;;;;;;;;;;;x
+reverent_desc;This person follows the words of the Gods but no more.;;;;;;;;;;;;;x
+respects_the_gods;Respects the Gods;;;;;;;;;;;;x
+respects_the_gods_desc;This person feels that the Gods are worthy of respect.;;;;;;;;;;;;;x
+pious;Pious;;;;;;;;;;;;x
+pious_desc;This person follows the words of the Gods more closely than others. They may be become Zealots.;;;;;;;;;;;;;x
+#SACRILEGIOUS
+irreverent;Irreverent;;;;;;;;;;;;x
+irreverent_desc;This person doesn't follow the words of the gods.;;;;;;;;;;;;;x
+contemptuous_of_gods;Contemptuous of Gods;;;;;;;;;;;;x
+contemptuous_of_gods_desc;This person feels that the Gods are not worthy of respect.;;;;;;;;;;;;;x
+sacrilegious;Sacrilegious;;;;;;;;;;;;x
+sacrilegious_desc;This person actively speak ill of the Gods, even towards priests.;;;;;;;;;;;;;x
+#LEWD (LUSTY)
+filthy_minded;Filthy Minded;;;;;;;;;;;;x
+filthy_minded_desc;This person have a habit of letting people know what they want to do to the other sex.;;;;;;;;;;;;;x
+licentious;Licentious;;;;;;;;;;;;x
+licentious_desc;This person cares little for the other sex personal space and tends to grope.;;;;;;;;;;;;;x
+lewd;Lewd;;;;;;;;;;;;x
+lewd_desc;This person cares little for decently and actively seek the other sex to "play" with.;;;;;;;;;;;;;x

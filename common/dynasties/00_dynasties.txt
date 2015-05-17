@@ -1,0 +1,8 @@
+1 = {
+	name="Assur"
+	culture = assyrian
+}
+2 = {
+	name="Indus"
+	culture = hindustani
+}

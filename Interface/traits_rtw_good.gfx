@@ -1,0 +1,130 @@
+#traits/GOOD Traits go here.
+spriteTypes = {
+	spriteType = {
+		name = "GFX_trait_abstemious"
+		texturefile = "gfx/traits/GOOD/abstemious.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	
+	spriteType = {
+		name = "GFX_trait_confident_attacker"
+		texturefile = "gfx/traits/GOOD/confident_attacker.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_Confident_Commander"
+		texturefile = "gfx/traits/GOOD/Confident_Commander.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_confident_in_defence"
+		texturefile = "gfx/traits/GOOD/confident_in_defence.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_good_attacker"
+		texturefile = "gfx/traits/GOOD/good_attacker.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_good_commander"
+		texturefile = "gfx/traits/GOOD/good_commander.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_good_defender"
+		texturefile = "gfx/traits/GOOD/good_defender.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_great_attacker"
+		texturefile = "gfx/traits/GOOD/great_attacker.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_great_commander"
+		texturefile = "gfx/traits/GOOD/great_commander.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_great_defender"
+		texturefile = "gfx/traits/GOOD/great_defender.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_heroic_attacker"
+		texturefile = "gfx/traits/GOOD/heroic_attacker.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_heroic_defender"
+		texturefile = "gfx/traits/GOOD/heroic_defender.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_legendary_commander"
+		texturefile = "gfx/traits/GOOD/legendary_commander.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_sober"
+		texturefile = "gfx/traits/GOOD/sober.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_superior_attacker"
+		texturefile = "gfx/traits/GOOD/superior_attacker.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_superior_commander"
+		texturefile = "gfx/traits/GOOD/superior_commander.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_superior_defender"
+		texturefile = "gfx/traits/GOOD/superior_defender.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_teetotal"
+		texturefile = "gfx/traits/GOOD/teetotal.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+}

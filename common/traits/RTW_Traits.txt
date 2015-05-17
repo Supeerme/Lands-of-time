@@ -1,0 +1,4173 @@
+########################################################################################################
+# WARNING: IF YOU DON'T ADD NEW TRAITS LAST (IN THE LAST READ TRAIT FILE), IT WILL BREAK OLD SAVE GAMES!
+########################################################################################################
+
+########################################################################################################
+# ROME TOTAL WAR TRAITS: GOOD AND BAD TRAITS, TO USE WITH EVENTS AND EDUCATION!
+########################################################################################################
+##############################
+##############################
+
+#COMMANDER GOOD
+#
+confident_commander = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+good_commander = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+superior_commander = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+great_commander = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+legendary_commander = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+#COMMANDER BAD
+indifferent_commander = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+incompetent_commander = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+poor_commander = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+pathetic_commander = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+#ATTACKER GOOD
+confident_attacker = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+good_attacker = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+superior_attacker = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+great_attacker = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+heroic_attacker = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+#ATTACKER BAD
+indifferent_attacker = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+incompetent_attacker = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+poor_attacker = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+pathetic_attacker = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+#DEFENDER GOOD
+confident_in_defence = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+good_defender = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+superior_defender = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+great_defender = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+heroic_defender = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+#DEFENDER BAD
+indifferent_defender = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+incompetent_defender = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+poor_defender = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+pathetic_defender = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+#DRINKER BAD
+social_drinker = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+likes_a_drink = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+drunken_lout = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+sot = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+paralytic = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+#DRINKER GOOD
+sober = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+abstemious = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+teetotal = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#LANGUAGE BAD
+strong_language = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+foul_mouthed = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+swears_like_a_trooper = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+irredeemably_foul_mouthed = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+#HOMO TRAITS (NEED HOMOSEXUAL TRAIT)
+minion = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#LUSTFUL BAD (NEED LUSTFUL [DUH] )
+casual_adulterer = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+blatant_adulterer = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+womaniser = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#AMBUSHER GOOD
+good_ambusher = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+sneaky_ambusher = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+exceptional_ambusher = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#AMBUSHER BAD
+poor_ambusher = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+rotten_ambusher = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+pathetic_ambusher = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#DISCIPLINARIAN GOOD
+obsessional_trainer = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+drillmaster = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+martinet = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#DISCIPLINARIAN BAD
+#
+poor_disciplinarian = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+too_considerate = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+kills_with_kindness = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#SIEGE ATTACKER GOOD
+gate_breaker = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+wall_breaker = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+into_the_breach = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+legendary_siege_expert = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+#SIEGE ATTACKER BAD
+dislikes_attacking_walls = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+useless_besieger = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+pathetic_besieger = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#SIEGE DEFENDER GOOD
+gate_keeper = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+strong_as_stone = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+none_shall_pass = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+legendary_city_defender = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+#SIEGE DEFENDER BAD
+cowers_behind_walls = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+pathetic_defender_of_cities = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+liability_in_defence = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+# BRAVE GOOD (FAMOUSLY_COURAGEOUS AND ABOVE NEEDS BRAVE)
+untouched_by_fear = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+famously_courageous = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+utterly_fearless = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+insanely_brave = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+#BRAVE BAD (RULED_BY_FEAR NEED CRAVEN)
+doubtful_courage = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+morbidly_fearful = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+ruled_by_fear = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#LAZY BAD (INDOLENT AND ABOVE NEEDS SLOTH)
+rather_lazy = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+lazy = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+indolent = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+indolent_lardy_arse = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+#LAZY GOOD 
+lively = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+very_lively = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+energetic = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+blessed_with_vitality = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+# BERSERKER (NEED BERSERKER TRAIT TO PROGRESS)
+axe_biter = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+shield_biter = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+
+#FOREIGNER BAD
+distrusts_outsiders = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+hates_strangers = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+loathes_foreigners = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#FOREIGNERS GOOD
+welcoming_to_foreigners = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+likes_strangers = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+fascinated_by_outsiders = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#PUBLICFAITH BAD (NEED CYNICAL)
+faithless = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+atheist = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+despises_the_gods = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+hates_the_gods = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+#PUBLICFAITH GOOD (HONOUERS_THE_GODS NEED ZEALOT)
+devout = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+religious = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+honours_the_gods = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+venerates_the_gods = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+#WARLORD (MORE CONQUEST THE HIGHER!)
+war_chief = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+mighty_war_chief = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+warlord = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+legendary_warlord = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+#ADMINISTRATOR GOOD
+bureaucrat = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+skilled_bureaucrat = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+superb_administrator = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#ADMINISTRATOR BAD
+jobsworth = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+administratively_inept = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+stunningly_incompetent = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#SPEAKER GOOD
+outstanding_speaker = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+famous_orator = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+great_orator = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#SPEAKER BAD
+tedious_speaker = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+boring_speaker = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+boring_beyond_belief = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+boring_little_tit = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+#DEBATER
+fluent_speaker = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+skilled_debater = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+rhetorical_expert = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#POET (MUST OBTAIN POET SKILL FOR EPIC_POET)
+fond_of_poetry = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+epic_poet = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#STRATEGIC SKILLS
+understanding_of_strategy = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+strategic_expert = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+strategist = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#TACTICAL SKILL
+understanding_of_tactics = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+tactical_expert = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+tactician = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#MATH SKILLS
+understanding_of_mathematics = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+mathematics_expert = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+mathematician = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#NATURAL PHILOSOPHY SKILL
+understanding_of_natural_philosophy = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+expert_on_natural_philosophy = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+natural_philosopher = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#POLITICS SKILLS
+political_animal = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+politician = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+consummate_politician = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#LOGISTICAL SKILLS
+understanding_of_logistics = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+logistics_expert = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+logistician = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+# PHILOSOPY SKILL
+philosophically_inclined = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+philosopher = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+abstruse_philosopher = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#RABBLEROUSER
+agitator = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+tub-thumper = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+rabblerouser = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+demagogue = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+#ARCHITECT SKILL
+aspiring_architect = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+architect = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+great_architect = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#VICTOR (ROMANS LIKES THESE PEOPLE)
+vanquisher = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+great_vanquisher = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+conqueror = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#VICTOR (OTHERS CULTURES LIKE THESE PEOPLE)
+victor = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+famous_victor = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+conquering_hero = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#EPICUREAN
+gourmet_of_life = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+refined_tastes = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+rarified_tastes = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#STOIC
+restrained = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+cold_manner = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+stoic = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#AUSTERE
+stern = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+spartan = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+austere = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+self_enforced_poverty = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+#AESTHETICS
+lover_of_beauty = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+connoisseur = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+aesthete = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#APICIAN ROMAN VICE (NEED GLUTTON FOR APICIAN_GLUTTON)
+gourmand = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+apician_glutton = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+#IGNORANCE
+ignorant = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+very_ignorant = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+willfully_ignorant = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#GAMBLING
+likes_a_fluttler = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+gambler = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+inveterate_gambler = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+ruled_by_luck = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+#BRAG
+self_publicist = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+spin_doctor = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+narcissist = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#ASSASSIN MASTER
+clean_hands = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+killer_from_necessity = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+master_of_assassins = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#SPYCATCHER
+counter_spy = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+counter_espionage = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+spycatcher = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#ASSASSINCATCHER (ONLY GET IF LIVES ASSASSIN ATTEMPTS)
+survivor = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+expert_survivor = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+immune_to_death? = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#SPY GOOD
+sneaky = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+spy = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+superior_spy = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+expert_spy = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+master_spy = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+#SPY BAD
+poor_spy = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+inferior_spy = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+useless_spy = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#ASSASSIN GOOD
+cutthroat = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+murderer = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+assassin = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+expert_assassin = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+master_assassin = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+
+#ASSASSIN BAD
+inept_poisoner = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+poor_murderer = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+useless_assassin = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#PERSONAL SECURITY BAD (NEED TRUSTFUL FOR TRUSTING_FOOL)
+careless = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+careless_of_security = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+trusting_fool = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#PERSONAL SECURITY GOOD
+watchful = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+security_conscious = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+obessed_by_security = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#TRUSTING (LEAD UP TO TRUSTING TRAIT)
+no_enemies = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+ingenuous = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+
+#PARANOIA (LEAD UP TO PARANOID TRAIT)
+scant_trust = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+suspicious = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+a_bit_paranoid = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#DIPLOMAT GOOD
+tactful = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+courteous = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+diplomatic = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+polished_diplomat = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+expert_diplomat = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+
+#DIPLOMAT BAD
+tactless = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+discourteous = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+undiplomatic = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#LIAR (DECIEVER NEEDED FOR THESE TRAITS)
+untruthful = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+economical_with_the_truth = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+liar = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+pathological_liar = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+#RICH BAD (STARTS GETTING THESES TRAITS WHEN RICH 1K+ GOLD)
+finacially_irregular = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+fiscally_flexible = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+embezzler = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#DECEIVER (LIKE LIAR BUT BOTH LEADS TO IT)
+sly = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+#UPRIGHT (NEVER DO ANYTHING FOR OWN GAIN)
+trusty = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+upright = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+
+#CORRUPT
+flexible = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+dubious = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+corrupt = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#AUTHORITARIAN (TROOPS LOVE THESE TRAITS EXPECT PEASANTS )
+strict = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+authoritarian = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+whips_and_canes = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#AUTHORITARIAN GOVERNER (OTHER PEOPLE LOVE THESE TRAITS EXPECT PEASANTS)
+strict_governor = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+harsh_governer = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+authoritarian_governer = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#NON AUTHORITARIAN GOVERNER
+considerate_governor = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+benevolent_governor = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+liberal_governer = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#DISLOYAL (WILL BE LESS WILLING TO FIGHT FOR LEIGE)
+apparently_loyal = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+doubtful_loyalties = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+disloyal = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+starscream = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+#LOYAL (WILL NEVER BETRAY LEGIE)
+publicly_loyal = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+proven_loyalties = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+loyal = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+fanatically_loyal = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+#SMOOTH TALKER
+plausible = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+slick = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+smooth_talker = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#CUCKOLD
+subject_to_rumours = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+cuckold = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+outraged_husband = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+#FARMER GOOD
+grower = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+farmer = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+agriculturalist = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#FARMER BAD
+poor_farming = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+dislikes_farming = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+loathes_farmers = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#MINER GOOD
+miner = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+superior_miner = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+expert_miner = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+# MINER BAD
+indifferent_miner = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+poor_miner = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+bad_mine_manager = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#ENGINEER GOOD
+engineer = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+superior_engineer = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+master_engineer = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#ENGINEER BAD
+inferior_engineer = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+bad_engineer = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+appalling_engineer = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#TRADER GOOD
+trader = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+superior_trader = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+master_trader = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+#TRADER BAD
+poor_trader = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+inferior_trader = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+appalling_trader = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#JUST (LEADS TO JUST AND ABSOLUTELY_JUST NEEDS JUST)
+even_handed = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+absolutely_just = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+#UNJUST 
+judgemental = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+wrong_headed = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+unjust = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#HARSH JUSTICE
+punisher = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+severe_punisher = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+harsh_punisher = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+# KIND JUSTICE
+lenient = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+merciful_judge = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+kind_judge = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+# HARSH RULER
+heartless_ruler = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+harsh_ruler = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+cruel_ruler = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+sadistic_ruler = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+#KIND RULER
+benevolent_ruler = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+benign_ruler = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+humane_ruler = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#BUILDER GOOD
+superior_builder = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+excellent_builder = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+great_builder = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+#BUILDER BAD
+indifferent_builder = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+inferior_builder = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+appalling_builder = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#HAPPY
+positive = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+optimistic = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+#CALMNESS
+calm = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+composed = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+
+	
+	
+#SADNESS (LEADS TO DEPRESSION)
+gloomy = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+morose = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+melancholic = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#ANGER (LEADS TO WROTH)
+testy = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+cantankerous = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+choleric = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#GLADIATORS GOOD
+gladiatorial_fan = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+gladiator_obsessed = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+worships_gladiators = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#GLADIATORS BAD
+no_taste_for_blood = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+quietly_dislikes_the_game = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+publicly_despises_the_games = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#RACE GOOD
+race_goer = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+loves_races = {
+
+	martial = 1
+	learning = -1
+
+	health = 0.5
+}
+racer = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+champion_racer = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#RACER BAD
+bored_by_race = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+reads_during_races = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+works_during_races = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#GENEROUS (LEADS TO GENEROUS)
+open_handed = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+unstinting = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+#MISER (LEADS TO GREEDY MAYBE)
+careful_with_money = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+tight_fisted = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+miserly = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+scrooge = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+#FOREIGN_TASTES (PEOPLE DON'T LIKE IT WHEN YOU START LIKING OTHER CULTURES)
+foreign_interests = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+dresses_like_a_foreigner = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+vulgar_foreign_tastes = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+awful_foreign_affectation = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+#TRUE ROMAN (HOW ROMAN IS THIS PERSON?)
+true_roman = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+good_honest_roman = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+pinnacle_of_roman = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+# NOCTOPHOBIA (FEAR OF DARKNESS)
+scared_of_night = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+night_terrors = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+noctophobic = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#NOCTOPHILLA
+likes_the_dark = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+night_owl = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+noctophilic = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#PERVERTED (LUSTFUL NEEDED)
+immoral = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+degenerate = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+foul_practices = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+debauched = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+not_safe_with_man_or_beast = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+#SAILOR
+good_sailor = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+nautical_expert = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+old_sea_dog = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+great_admiral = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+legendary_admiral = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+#LANDLUBBER ARRR
+seasickness = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+poor_sailor = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+wretched_landlubber = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#SCARRED (HORRIBLY_SCARRED AND ABOVE NEED SCARRED)
+been_in_the_wars = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+horribly_scarred = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+cruelly_scarred = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+monstrously_scarred = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+#PLOTTER GOOD
+plot_maker = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+schemer = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+conspirator = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#PLOTTER BAD
+inept_plotter = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+pathetic_schemer = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+foolish_conspirator = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#TALKATIVE 
+loose_lipped = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+talkative = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+foolishy_indiscreet = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+secret_revealer = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+#SECRETIVE
+discreet = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+close_mouthed = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+secretive = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#INFANTRY GOOD
+skilled_infantry_commander = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+expert_infantry_commander = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+infantry_commander_of_genius = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#INFANTRY BAD
+poor_infantry_commander = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+inferior_infantry_commander = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+useless_infantry_commander = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#CAVALRY GOOD
+skilled_cavalry_commander = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+expert_cavalry_commander = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+cavalry_commander_of_genius = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+# CAVALRY BAD
+poor_cavalry_commander = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+inferior_cavalry_commander = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+useless_cavalry_commander = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+
+#INBRED (FLAVOUR OF INBRED. NEED INBRED TO SHOW UP!)
+weak_chinned = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+swivel_eyed = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+feeble_of_brain = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+thin_skulled = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+bad_bloodline = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+
+
+#HANDSOME (HANDSOME NEEDED FOR NOBLE_ASPECT)
+good_looking = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+noble_aspect = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+goldlike_perfection = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#UGLY (FLAVOUR OF UGLYNESS)
+plain_ugly = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+repellent = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+scares_small_children = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#FERTILE GOOD
+fruitful = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+fertile = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+prolific = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#FERTILE BAD
+flaccid = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+infertile = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+barren = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#TAXMAN GOOD
+tax_assessor = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+efficient_taxman = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+cruelly_efficient_taxman = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#TAXMAN BAD
+useless_assessor = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+inefficient_taxman = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+tax_farmer = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#DIVORCED
+divorced = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+#SUPERSTITIOUS
+rational_concerns = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+superstitious = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+hugly_superstitious = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#PRAGMATIC
+rational_beliefs = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+pragmatic = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+utterly_pragmatic = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#EXPENSIVE TASTES
+mildly_extravagant = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+extravagant = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+wildly_extravagant = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#CHEAPSKATE
+downright_miserly = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+cheapskate = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#HYPOCHONDRIAC (CAN BE GIVEN AFTER ILLNESS OR LOW HEALTH)
+feeling_poorly = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+given_to_ill_health = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+hypochondriac = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#HALE AND HEARTY
+in_the_pink = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+in_rude_health = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+hale_and_hearty = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#INSANE (FLAVOUR OF INSANE)
+hooting = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+recluse = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+talks_to_self = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+giggles_at_nothing = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+#BLOODTHIRSTY
+bloody = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+sanguinary = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+bloodthirsty = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+bathes_in_blood = {
+	
+	
+	martial = 9
+	intrigue = 2
+	stewardship = 2
+	learning = -1
+	
+	health = 0.5
+
+	leadership_traits = 1
+}
+#HAEMOPHOBIC
+lily_livered = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+hates_blood = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+terrified_by_blood = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#WROTH 
+unquenched_anger = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+uncontrollable_rage = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+#PIOUS
+reverent = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+respects_the_gods = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+pious = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#SACRILEGIOUS
+irreverent = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+contemptuous_of_gods = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+sacrilegious = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}
+#LEWD (LUSTY)
+filthy_minded = {
+	
+	martial = 1
+	learning = -1
+	
+	health = 0.5
+}
+licentious = {
+	
+	
+	martial = 3
+	learning = -1
+	
+	health = 0.5
+}
+lewd = {
+	
+	
+	martial = 6
+	intrigue = 1
+	stewardship = 1
+	learning = -1
+	
+	health = 0.5
+}

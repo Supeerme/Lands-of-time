@@ -1,0 +1,14 @@
+#Minor Empires (those that did not last long)
+e_indo_aryan = {
+	# A large collection of tribes that are Indo Aryans, no real governments but is considered highly advanced and rich for its time. Trade was found all over the middle east.
+	color={ 0 0 200 }
+	color2={ 0 150 0 }
+	capital = 1385 # Dehli (but have no real capital cities
+	short_name = yes
+	
+	title = "Emperor"
+	title_female = "Empress"
+	culture = old_aryan
+	religion = pagan_indian
+
+}
