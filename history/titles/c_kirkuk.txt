@@ -1,4 +1,5 @@
-20.1.1={
-	liege="e_assyria"
-holder = 1
+
+17.1.1=
+{
+	holder= 1
 }

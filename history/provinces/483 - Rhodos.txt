@@ -1,0 +1,24 @@
+# 483 - Rhodos
+
+# County Title
+title = c_rhodos
+
+# Settlements
+max_settlements = 3
+
+b_rhodos = city
+b_kos = castle
+
+#b_lindos = temple
+#b_karpathos = castle
+#b_pefkos = castle
+#b_ialysos = castle
+#b_haraki = castle
+#b_koskinou = castle
+
+# Misc
+culture = greek
+religion = pagan_greek
+terrain = mountain
+
+# History
