@@ -836,8 +836,8 @@ pagan_group = {
 		# Use norsegfx rather than celticgfx to have the northern pagan rounded CoA on the map
 		graphical_culture = norsegfx
 		
-		icon = 63
-		heresy_icon = 65
+		icon = 49
+		heresy_icon = 50
 		
 		color = { 0.14 0.36 0.16 }
 		crusade_name = GREAT_HOLY_WAR
@@ -901,8 +901,8 @@ pagan_group = {
 		
 		pre_reformed = yes
 
-		icon = 67
-		heresy_icon = 66
+		icon = 48
+		heresy_icon = 47
 		
 		color = {0.9 0.8 0}
 		
@@ -923,8 +923,8 @@ pagan_group = {
 	titan_pagan = { # Greek Olympian Pantheon Heresy, Believes that Kronos is the true ruler.
 		graphical_culture = westerngfx
 
-		icon = 62
-		heresy_icon = 37
+		icon = 22
+		heresy_icon = 23
 		parent = pagan_greek
 
 		color = { 0.5 0.2 0.2 }
@@ -962,8 +962,8 @@ pagan_group = {
 
 		pre_reformed = yes
 
-		icon = 62
-		heresy_icon = 37
+		icon = 22
+		heresy_icon = 24
 		parent = pagan_roman
 
 		color = { 0.5 0.1 0.1 }
