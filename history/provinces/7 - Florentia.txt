@@ -1,0 +1,16 @@
+# c_florentia
+
+# County Title
+title = c_florentia
+
+# Settlements
+max_settlements = 2
+
+b_florentia = castle
+b_faesulae = city
+
+# Misc
+culture = etruscan
+religion = pagan_roman
+
+#History

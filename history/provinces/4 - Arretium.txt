@@ -1,0 +1,17 @@
+# c_arretium
+
+# County Title
+title = c_arretium
+
+# Settlements
+max_settlements = 3
+
+b_arretium = castle
+b_sentinum = city
+b_cortona = temple
+
+# Misc
+culture = punic
+religion = pagan_roman
+
+#History

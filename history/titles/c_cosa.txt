@@ -1,0 +1,9 @@
+# d_latuim
+500.1.1={
+	law = agnatic_succession
+	law = succ_gavelkind
+}
+100.1.1={
+	liege=d_latuim
+}
+1.1.1 = { holder = 5 }

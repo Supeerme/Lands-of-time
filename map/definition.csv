@@ -1,7 +1,14 @@
 province;red;green;blue;x;x
-9000;168;81;167;West Caledonia Sea;x
-9001;0;84;40;East Caledonia Sea;x
-9002;42;87;168;South Caledonia Sea;x
+1;126;147;194;Rome;x
+2;0;118;163;Veii;x
+3;168;195;202;Sabai;x
+4;168;135;192;Arretium;x
+5;84;144;66;Cosa;x
+6;84;129;191;Pisae;x
+7;126;132;64;Florentia;x
+9000;168;81;167;West Caledonian Sea;x
+9001;0;84;40;East Caledonian Sea;x
+9002;42;87;168;South Caledonian Sea;x
 9003;84;165;181;Hibernian Sea;x
 9004;126;168;54;West Hibernian Sea;x
 9005;42;6;98;North Oceanus Alanticus;x
@@ -24,25 +31,75 @@ province;red;green;blue;x;x
 9022;2;174;65;West African Sea;x
 9023;0;39;160;South Oceanus Alanticus;x
 9024;126;183;184;Pillars of Hercules;x
-9025;168;186;57;West Mediterranean Sea 1;x
-9026;42;42;33;West Mediterranean Sea 2;x
-9027;0;189;185;West Mediterranean Sea 3;x
-9028;42;192;58;West Mediterranean Sea 4;x
-9029;168;201;187;West Mediterranean Sea 5;x
-9030;42;207;188;North Corsican Sea;x
-9031;126;198;59;West Corsican Sea;x
-9032;84;195;186;South Corsican Sea;x
-9033;84;210;61;North Italia Sea;x
-9034;126;0;189;Central Italia Sea;x
-9035;168;3;62;East Corsican Sea;x
-9036;0;6;190;South Italia Sea;x
-9037;42;9;63;North Sicily Sea;x
-9038;84;12;191;West Sicily Sea;x
-9039;126;15;64;Central Sicily Sea;x
-9040;0;21;65;East Sicily Sea;x
-9041;84;27;66;South Illyrian Sea;x
-9042;126;30;194;Central Illyrian Sea;x
-9043;168;33;67;North Illyrian Sea;x
+9025;168;186;57;North Alboran Sea;x
+9026;42;42;33;South Alboran Sea;x
+9027;0;189;185;Balearic Sea;x
+9028;42;192;58;East Alboran Sea;x
+9029;168;201;187;Gaelic Mediterranean Sea;x
+9030;42;207;188;North Sea of Sardinia;x
+9031;126;198;59;Central Sea of Sardinia;x
+9032;84;195;186;South Sea of Sardinia;x
+9033;84;210;61;Ligurian Sea;x
+9034;126;0;189;North Tyrrhenian Sea;x
+9035;168;3;62;West Tyrrhenian Sea;x
+9036;0;6;190;Central Tyrrhenian Sea;x
+9037;42;9;63;South Tyrrhenian Sea;x
+9038;84;12;191;East Sea of Sicily;x
+9039;126;15;64;South Sea of Sicily;x
+9040;0;21;65;West Ionian Sea;x
+9041;84;27;66;East Ionian Sea;x
+9042;126;30;194;South Adriatic Sea;x
+9043;168;33;67;North Adriatic Sea;x
+9044;42;24;193;South Ionian Sea;x
+9045;168;18;192;West Libyan Sea;x
+9046;84;42;196;North Libyan Sea;x
+9047;84;30;31;Myrtoan Sea;x
+9048;42;39;68;Sea of Crete;x
+9049;0;36;195;West Aegean Sea;x
+9050;0;54;35;East Aegean Sea;x
+9051;84;72;201;Thracian Sea;x
+9052;126;75;74;West Black Sea;x
+9053;168;78;202;North Black Sea;x
+9054;0;81;75;South Black Sea;x
+9055;42;84;203;East Black Sea;x
+9056;126;45;69;South Libyan Sea;x
+9057;168;48;197;South East Levantine Sea;x
+9058;0;51;70;South West Levantine Sea;x
+9059;42;54;198;North East Levantine Sea;x
+9060;42;69;73;Cilician Sea;x
+9061;0;66;200;North West Levantine Sea;x
+9062;85;99;91;Egyptian Red Sea;x
+9063;127;102;219;North Red Sea;x
+9064;169;105;92;Central Red Sea;x
+9065;1;108;220;South Red Sea;x
+9066;43;111;93;Arabian Red Sea;x
+9067;169;120;222;South Arabian Sea;x
+9068;85;129;96;North Arabian Sea;x
+9069;127;132;224;Eastern Persian Gulf;x
+9070;169;135;97;Central Persian Gulf;x
+9071;1;138;225;West Persian Gulf;x
+9072;85;144;226;Indus Sea;x
+9073;43;156;128;West Indian Sea;x
+9074;1;168;130;South Indian Sea;x
+9075;43;186;133;East Indian Sea;x
+9076;84;75;166;North Oceanus Germanicus;x
+9077;0;69;165;Central Oceanus Germanicus;x
+9078;126;78;39;South Oceanus Germanicus;x
+9079;84;105;171;East Oceanus Germanicus;x
+9080;126;108;44;North Danish Sea;x
+9081;42;102;43;South Danish Sea;x
+9082;0;114;45;West Gothic Sea;x
+9083;84;120;46;North Gothic Sea;x
+9084;168;111;172;South Gothic Sea;x
+9085;42;117;173;East Gothic Sea;x
+9086;0;129;175;South Sami Sea;x
+9087;168;126;47;North Sami Sea;x
+9088;126;123;174;Hyborian Sea;x
+9089;169;210;32;South Caspian Sea;x
+9090;0;96;205;Central Caspian Sea;x
+9091;85;204;31;North Caspian Sea;x
+9092;168;63;72;Aral Sea;x
+9093;42;114;208;Dead Sea;x
 10000;127;177;4;Russia;x
 10001;43;6;203;Tibet;x
 10002;127;210;74;Indochina;x
@@ -50,3 +107,4 @@ province;red;green;blue;x;x
 10004;0;126;210;The Sahara;x
 10005;42;3;128;Iceland;x
 10006;42;129;83;Greenland and Canada;x
+10007;39;124;193;Horn of Africa;x

@@ -1,6 +1,13 @@
-PROV9000;West Caledonia Sea;West Caledonia Sea;West Caledonia Sea;;;;;;;;;x
-PROV9001;East Caledonia Sea;East Caledonia Sea;East Caledonia Sea;;;;;;;;;x
-PROV9002;South Caledonia Sea;South Caledonia Sea;South Caledonia Sea;;;;;;;;;x
+PROV1;Rome;Rome;Rome;;;;;;;;;x
+PROV2;Veii;Veii;Veii;;;;;;;;;x
+PROV3;Sabai;Sabai;Sabai;;;;;;;;;x
+PROV4;Arretium;Arretium;Arretium;;;;;;;;;x
+PROV5;Cosa;Cosa;Cosa;;;;;;;;;x
+PROV6;Pisae;Pisae;Pisae;;;;;;;;;x
+PROV7;Florentia;Florentia;Florentia;;;;;;;;;x
+PROV9000;West Caledonian Sea;West Caledonian Sea;West Caledonian Sea;;;;;;;;;x
+PROV9001;East Caledonian Sea;East Caledonian Sea;East Caledonian Sea;;;;;;;;;x
+PROV9002;South Caledonian Sea;South Caledonian Sea;South Caledonian Sea;;;;;;;;;x
 PROV9003;Hibernian Sea;Hibernian Sea;Hibernian Sea;;;;;;;;;x
 PROV9004;West Hibernian Sea;West Hibernian Sea;West Hibernian Sea;;;;;;;;;x
 PROV9005;North Oceanus Alanticus;North Oceanus Alanticus;North Oceanus Alanticus;;;;;;;;;x
@@ -23,25 +30,75 @@ PROV9021;Azores Sea;Azores Sea;Azores Sea;;;;;;;;;x
 PROV9022;West African Sea;West African Sea;West African Sea;;;;;;;;;x
 PROV9023;South Oceanus Alanticus;South Oceanus Alanticus;South Oceanus Alanticus;;;;;;;;;x
 PROV9024;Pillars of Hercules;Pillars of Hercules;Pillars of Hercules;;;;;;;;;x
-PROV9025;West Mediterranean Sea 1;West Mediterranean Sea 1;West Mediterranean Sea 1;;;;;;;;;x
-PROV9026;West Mediterranean Sea 2;West Mediterranean Sea 2;West Mediterranean Sea 2;;;;;;;;;x
-PROV9027;West Mediterranean Sea 3;West Mediterranean Sea 3;West Mediterranean Sea 3;;;;;;;;;x
-PROV9028;West Mediterranean Sea 4;West Mediterranean Sea 4;West Mediterranean Sea 4;;;;;;;;;x
-PROV9029;West Mediterranean Sea 5;West Mediterranean Sea 5;West Mediterranean Sea 5;;;;;;;;;x
-PROV9030;North Corsican Sea;North Corsican Sea;North Corsican Sea;;;;;;;;;x
-PROV9031;West Corsican Sea;West Corsican Sea;West Corsican Sea;;;;;;;;;x
-PROV9032;South Corsican Sea;South Corsican Sea;South Corsican Sea;;;;;;;;;x
-PROV9033;North Italia Sea;North Italia Sea;North Italia Sea;;;;;;;;;x
-PROV9034;Central Italia Sea;Central Italia Sea;Central Italia Sea;;;;;;;;;x
-PROV9035;East Corsican Sea;East Corsican Sea;East Corsican Sea;;;;;;;;;x
-PROV9036;South Italia Sea;South Italia Sea;South Italia Sea;;;;;;;;;x
-PROV9037;North Sicily Sea;North Sicily Sea;North Sicily Sea;;;;;;;;;x
-PROV9038;West Sicily Sea;West Sicily Sea;West Sicily Sea;;;;;;;;;x
-PROV9039;Central Sicily Sea;Central Sicily Sea;Central Sicily Sea;;;;;;;;;x
-PROV9040;East Sicily Sea;East Sicily Sea;East Sicily Sea;;;;;;;;;x
-PROV9041;South Illyrian Sea;South Illyrian Sea;South Illyrian Sea;;;;;;;;;x
-PROV9042;Central Illyrian Sea;Central Illyrian Sea;Central Illyrian Sea;;;;;;;;;x
-PROV9043;North Illyrian Sea;North Illyrian Sea;North Illyrian Sea;;;;;;;;;x
+PROV9025;North Alboran Sea;North Alboran Sea;North Alboran Sea;;;;;;;;;x
+PROV9026;South Alboran Sea;South Alboran Sea;South Alboran Sea;;;;;;;;;x
+PROV9027;Balearic Sea;Balearic Sea;Balearic Sea;;;;;;;;;x
+PROV9028;East Alboran Sea;East Alboran Sea;East Alboran Sea;;;;;;;;;x
+PROV9029;Gaelic Mediterranean Sea;Gaelic Mediterranean Sea;Gaelic Mediterranean Sea;;;;;;;;;x
+PROV9030;North Sea of Sardinia;North Sea of Sardinia;North Sea of Sardinia;;;;;;;;;x
+PROV9031;Central Sea of Sardinia;Central Sea of Sardinia;Central Sea of Sardinia;;;;;;;;;x
+PROV9032;South Sea of Sardinia;South Sea of Sardinia;South Sea of Sardinia;;;;;;;;;x
+PROV9033;Ligurian Sea;Ligurian Sea;Ligurian Sea;;;;;;;;;x
+PROV9034;North Tyrrhenian Sea;North Tyrrhenian Sea;North Tyrrhenian Sea;;;;;;;;;x
+PROV9035;West Tyrrhenian Sea;West Tyrrhenian Sea;West Tyrrhenian Sea;;;;;;;;;x
+PROV9036;Central Tyrrhenian Sea;Central Tyrrhenian Sea;Central Tyrrhenian Sea;;;;;;;;;x
+PROV9037;South Tyrrhenian Sea;South Tyrrhenian Sea;South Tyrrhenian Sea;;;;;;;;;x
+PROV9038;East Sea of Sicily;East Sea of Sicily;East Sea of Sicily;;;;;;;;;x
+PROV9039;South Sea of Sicily;South Sea of Sicily;South Sea of Sicily;;;;;;;;;x
+PROV9040;West Ionian Sea;West Ionian Sea;West Ionian Sea;;;;;;;;;x
+PROV9041;East Ionian Sea;East Ionian Sea;East Ionian Sea;;;;;;;;;x
+PROV9042;South Adriatic Sea;South Adriatic Sea;South Adriatic Sea;;;;;;;;;x
+PROV9043;North Adriatic Sea;North Adriatic Sea;North Adriatic Sea;;;;;;;;;x
+PROV9044;South Ionian Sea;South Ionian Sea;South Ionian Sea;;;;;;;;;x
+PROV9045;West Libyan Sea;West Libyan Sea;West Libyan Sea;;;;;;;;;x
+PROV9046;North Libyan Sea;North Libyan Sea;North Libyan Sea;;;;;;;;;x
+PROV9047;Myrtoan Sea;Myrtoan Sea;Myrtoan Sea;;;;;;;;;x
+PROV9048;Sea of Crete;Sea of Crete;Sea of Crete;;;;;;;;;x
+PROV9049;West Aegean Sea;West Aegean Sea;West Aegean Sea;;;;;;;;;x
+PROV9050;East Aegean Sea;East Aegean Sea;East Aegean Sea;;;;;;;;;x
+PROV9051;Thracian Sea;Thracian Sea;Thracian Sea;;;;;;;;;x
+PROV9052;West Black Sea;West Black Sea;West Black Sea;;;;;;;;;x
+PROV9053;North Black Sea;North Black Sea;North Black Sea;;;;;;;;;x
+PROV9054;South Black Sea;South Black Sea;South Black Sea;;;;;;;;;x
+PROV9055;East Black Sea;East Black Sea;East Black Sea;;;;;;;;;x
+PROV9056;South Libyan Sea;South Libyan Sea;South Libyan Sea;;;;;;;;;x
+PROV9057;South East Levantine Sea;South East Levantine Sea;South East Levantine Sea;;;;;;;;;x
+PROV9058;South West Levantine Sea;South West Levantine Sea;South West Levantine Sea;;;;;;;;;x
+PROV9059;North East Levantine Sea;North East Levantine Sea;North East Levantine Sea;;;;;;;;;x
+PROV9060;Cilician Sea;Cilician Sea;Cilician Sea;;;;;;;;;x
+PROV9061;North West Levantine Sea;North West Levantine Sea;North West Levantine Sea;;;;;;;;;x
+PROV9062;Egyptian Red Sea;Egyptian Red Sea;Egyptian Red Sea;;;;;;;;;x
+PROV9063;North Red Sea;North Red Sea;North Red Sea;;;;;;;;;x
+PROV9064;Central Red Sea;Central Red Sea;Central Red Sea;;;;;;;;;x
+PROV9065;South Red Sea;South Red Sea;South Red Sea;;;;;;;;;x
+PROV9066;Arabian Red Sea;Arabian Red Sea;Arabian Red Sea;;;;;;;;;x
+PROV9067;South Arabian Sea;South Arabian Sea;South Arabian Sea;;;;;;;;;x
+PROV9068;North Arabian Sea;North Arabian Sea;North Arabian Sea;;;;;;;;;x
+PROV9069;Eastern Persian Gulf;Eastern Persian Gulf;Eastern Persian Gulf;;;;;;;;;x
+PROV9070;Central Persian Gulf;Central Persian Gulf;Central Persian Gulf;;;;;;;;;x
+PROV9071;West Persian Gulf;West Persian Gulf;West Persian Gulf;;;;;;;;;x
+PROV9072;Indus Sea;Indus Sea;Indus Sea;;;;;;;;;x
+PROV9073;West Indian Sea;West Indian Sea;West Indian Sea;;;;;;;;;x
+PROV9074;South Indian Sea;South Indian Sea;South Indian Sea;;;;;;;;;x
+PROV9075;East Indian Sea;East Indian Sea;East Indian Sea;;;;;;;;;x
+PROV9076;North Oceanus Germanicus;North Oceanus Germanicus;North Oceanus Germanicus;;;;;;;;;x
+PROV9077;Central Oceanus Germanicus;Central Oceanus Germanicus;Central Oceanus Germanicus;;;;;;;;;x
+PROV9078;South Oceanus Germanicus;South Oceanus Germanicus;South Oceanus Germanicus;;;;;;;;;x
+PROV9079;East Oceanus Germanicus;East Oceanus Germanicus;East Oceanus Germanicus;;;;;;;;;x
+PROV9080;North Danish Sea;North Danish Sea;North Danish Sea;;;;;;;;;x
+PROV9081;South Danish Sea;South Danish Sea;South Danish Sea;;;;;;;;;x
+PROV9082;West Gothic Sea;West Gothic Sea;West Gothic Sea;;;;;;;;;x
+PROV9083;North Gothic Sea;North Gothic Sea;North Gothic Sea;;;;;;;;;x
+PROV9084;South Gothic Sea;South Gothic Sea;South Gothic Sea;;;;;;;;;x
+PROV9085;East Gothic Sea;East Gothic Sea;East Gothic Sea;;;;;;;;;x
+PROV9086;South Sami Sea;South Sami Sea;South Sami Sea;;;;;;;;;x
+PROV9087;North Sami Sea;North Sami Sea;North Sami Sea;;;;;;;;;x
+PROV9088;Hyborian Sea;Hyborian Sea;Hyborian Sea;;;;;;;;;x
+PROV9089;South Caspian Sea;South Caspian Sea;South Caspian Sea;;;;;;;;;x
+PROV9090;Central Caspian Sea;Central Caspian Sea;Central Caspian Sea;;;;;;;;;x
+PROV9091;North Caspian Sea;North Caspian Sea;North Caspian Sea;;;;;;;;;x
+PROV9092;Aral Sea;Aral Sea;Aral Sea;;;;;;;;;x
+PROV9093;Dead Sea;Dead Sea;Dead Sea;;;;;;;;;x
 PROV10000;Russia;Russia;Russia;;;;;;;;;x
 PROV10001;Tibet;Tibet;Tibet;;;;;;;;;x
 PROV10002;Indochina;Indochina;Indochina;;;;;;;;;x
@@ -49,3 +106,4 @@ PROV10003;Arabian Desert;Arabian Desert;Arabian Desert;;;;;;;;;x
 PROV10004;The Sahara;The Sahara;The Sahara;;;;;;;;;x
 PROV10005;Iceland;Iceland;Iceland;;;;;;;;;x
 PROV10006;Greenland and Canada;Greenland and Canada;Greenland and Canada;;;;;;;;;x
+PROV10007;Horn of Africa;Horn of Africa;Horn of Africa;;;;;;;;;x

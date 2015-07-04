@@ -1,0 +1,18 @@
+# c_sabai
+
+# County Title
+title = c_sabai
+
+# Settlements
+max_settlements = 4
+
+b_reate = castle
+b_tuder = city
+b_hispellum = temple
+b_volsinii = castle
+
+# Misc
+culture = punic
+religion = pagan_roman
+
+#History

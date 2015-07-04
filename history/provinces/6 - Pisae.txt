@@ -1,0 +1,17 @@
+# c_pisae
+
+# County Title
+title = c_pisae
+
+# Settlements
+max_settlements = 3
+
+b_pisae = castle
+b_luca = city
+b_volaterrae = temple
+
+# Misc
+culture = etruscan
+religion = pagan_roman
+
+#History

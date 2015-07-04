@@ -1,0 +1,18 @@
+# c_cosa
+
+# County Title
+title = c_cosa
+
+# Settlements
+max_settlements = 4
+
+b_cosa = castle
+b_rusellac = city
+b_vetulonia = temple
+b_populonia = castle
+
+# Misc
+culture = etruscan
+religion = pagan_roman
+
+#History

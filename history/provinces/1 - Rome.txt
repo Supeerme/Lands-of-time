@@ -1,0 +1,21 @@
+# c_rome
+
+# County Title
+title = c_rome
+
+# Settlements
+max_settlements = 7
+
+b_rome = castle
+b_tusculum   = city
+b_ostia = temple
+b_antium = castle
+b_terracinia = city
+b_gabii = temple
+b_tibur = castle
+
+# Misc
+culture = roman
+religion = pagan_roman
+
+#History
